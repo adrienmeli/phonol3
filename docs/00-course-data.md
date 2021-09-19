@@ -11,8 +11,9 @@
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{36 days}\\
-13/12/2021 & Examen de fin de semestre (1h) & 85 days\\
+\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ?} & \cellcolor{gray!6}{8 days}\\
+25/10/2021 & Examen de mi-semestre (1h) & 36 days\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)} & \cellcolor{gray!6}{85 days}\\
 \bottomrule
 \end{longtable}
 
