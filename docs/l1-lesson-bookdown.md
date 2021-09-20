@@ -17,10 +17,20 @@
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{36 days}\\
-13/12/2021 & Examen de fin de semestre (1h) & 85 days\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{35 days}\\
+13/12/2021 & Examen de fin de semestre (1h) & 84 days\\
 \bottomrule
 \end{longtable}
+
+
+
+### Modalités :
+
+* Explication de schémas accentuels 
+
+* Explication de réalisations vocaliques
+
+* Transcriptions phonologiques
 
 * Sujet de mi-semestre de l'année dernière :
 
@@ -70,82 +80,15 @@ Ces symboles sont censés être connus.
 
 * [] pour les transcriptions phonétiques (dites "étroites")
 
+* "V"  $\rightarrow$ "Voyelle"
+
+* "C"  $\rightarrow$ "Consonne"
+
+* "#"  $\rightarrow$ "Fin de mot"
+
+* $^{-}$ $\rightarrow$ "Exclut ce qui suit"
+
 * Les schémas accentuels se notent à l'aide d'un chiffre par syllabe. Une syllabe portant l'accent primaire sera notée /1/, une syllabe portant l'accent secondaire, /2/, et une syllabe inaccentuée /0/.
   - Exemple : "educate", "education"
 
 
-
-### Règles fondamentales
-
-* Un mot anglais a toujours un accent primaire **unique**.
-
-* La séquence /00-/ en début de mot est impossible.
-
-* Deux syllabes accentuées ne peuvent pas se succéder.
-
-* /\textipa{@}/ ne se trouve que dans les syllabes inaccentuées.
-
-* Les schémas accentuels se lisent par la droite.
-
-
-
-#### Petit exemple d'explication
-
-* Expliquez le schéma accentuel du dérivé "education" de "educate".
-
---
-
-* Le suffixe < -ion > est un suffixe fort imposant une accentuation de type /-10/ (schéma paroxyton avec accent sur la pénultième).
-
---
-
-* "Educate" est un verbe avec un schéma proparoxyton (l'antépénultième porte l'accent primaire). L'adjonction du suffixe ajoute une syllabe, et décale l'accent primaire sur la pénultième. 
-
---
-
-* La séquence /00-/ étant impossible, deux syllabes accentuées ne pouvant se succéder, et un mot ne pouvant avoir qu'un seul accent primaire, le schéma accentuel de "education" est donc nécessairement /2010/.
-
---
-
-* Exemple : /100/, /2010/
-
-
-
-### La règle orthographique
-
-Outre la détermination du schéma accentuel des mots, un autre enjeu est la détermination de la **qualité des voyelles**.
-
-Nous appellerons "règle orthographique" le tableau de correspondance entre orthographe et prononciation ci-dessous. Nous dirons que les voyelles orthographiques apparaissant dans les contextes décrits dans ce tableau, et se prononçant comme indiqué dans ce tableau, suivent la règle orthographique.
- 
-
-
- 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
- & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
-\midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{mat} & \cellcolor{gray!6}{mate} & \cellcolor{gray!6}{mar} & \cellcolor{gray!6}{mare}\\
-<e> & pet & Pete & her & here\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
-<o> & not & note & or & ore\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{cut} & \cellcolor{gray!6}{cute} & \cellcolor{gray!6}{purr} & \cellcolor{gray!6}{pure}\\
-\addlinespace
-<u2> & put &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
-
---
-
-
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
-\toprule
-Échéances & Description & Jours restants\\
-\midrule
-\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ?} & \cellcolor{gray!6}{8 days}\\
-\bottomrule
-\end{longtable}
