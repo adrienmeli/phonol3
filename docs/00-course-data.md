@@ -92,6 +92,11 @@ hilarious & /0100/ & /\textipa{hi."le@r.i.@s}/\\
 delirious & /0100/ & /\textipa{di."lIr.i.@s}/\\
 \cellcolor{gray!6}{notorious} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{n@U."tO:r.i.@s}/}\\
 curious & /100/ & /\textipa{"kjU@r.i.@s}/\\
+\cellcolor{gray!6}{photograph} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f@Ut.@.grA:f}/}\\
+photographer & /0100/ & /\textipa{f@."t6g.r@f.@}/\\
+\addlinespace
+\cellcolor{gray!6}{photographic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""f@Ut.@."gr\ae f.Ik}/}\\
+photography & /0100/ & /\textipa{f@."t6g.r@f.i}/\\
 \bottomrule
 \end{longtable}
 
@@ -105,8 +110,9 @@ curious & /100/ & /\textipa{"kjU@r.i.@s}/\\
 Échéances & Instructions\\
 \midrule
 \cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ?}\\
-25/10/2021 & Examen de mi-semestre (1h)\\
-\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
+18/10/2021 & Transcrire les mots de la section Quasi-lexèmes ABC. Ces mots respectent-ils : la NSR ? la règle de Luick ? Si non, existe-t-il des régularités dans ces exceptions ?\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
+13/12/2021 & Examen de fin de semestre (1h)\\
 \bottomrule
 \end{longtable}
 
