@@ -78,15 +78,18 @@ If we consider the orthographic rule as the default rule, <-e-> in the stressed 
 "Christian" vs. "Christianity" vs. "unchristian"...
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{Christian} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"krIs.tS@n}/}\\
-Christianity & /20100/ & /\textipa{""krIst.i."\ae n.@t.i}/\\
-\cellcolor{gray!6}{unchristian} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{2n."krIst.j@n}/}\\
+\cellcolor{gray!6}{Christian}\\
+Christianity\\
+\cellcolor{gray!6}{unchristian}\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 * "hellion", "bastion", "onion"
 
@@ -117,39 +120,45 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
 *Terminaisons contraignantes qui agissent quel que soit le radical (lexème, pseudo-lexème) avec schéma proparoxyton pour <-ible>*
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{incredible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."kred.@b.@l}/}\\
-compatible & /0100/ & /\textipa{k@m."p\ae t.@b.@l}/\\
-\cellcolor{gray!6}{irascible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{I."r\ae s.@b.@l}/}\\
-possible & /100/ & /\textipa{"p6s.@b.@l}/\\
-\cellcolor{gray!6}{invisible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."vIz.@b.@l}/}\\
+\cellcolor{gray!6}{incredible}\\
+compatible\\
+\cellcolor{gray!6}{irascible}\\
+possible\\
+\cellcolor{gray!6}{invisible}\\
 \addlinespace
-indelible & /0100/ & /\textipa{In."del.@b.@l}/\\
-\cellcolor{gray!6}{responsible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{ri."sp6ns.@b.@l}/}\\
-forcible & /100/ & /\textipa{"fO:s.@b.@l}/\\
-\cellcolor{gray!6}{comprehensible} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""k6mp.ri."hens.@b.@l}/}\\
-gullible & /100/ & /\textipa{"g2l.@b.@l}/\\
+indelible\\
+\cellcolor{gray!6}{responsible}\\
+forcible\\
+\cellcolor{gray!6}{comprehensible}\\
+gullible\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ### Attention toutefois à <-igible>
 
 Schéma préproparoxyton (/1000/)
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{eligible} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"el.IdZ.@b.@l}/}\\
-intelligible & /01000/ & /\textipa{In."tel.IdZ.@b.@l}/\\
-\cellcolor{gray!6}{incorrigible} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{In."k6r.IdZ.@b.@l}/}\\
-negligible & /1000/ & /\textipa{"neg.lIdZ.@b.@l}/\\
+\cellcolor{gray!6}{eligible}\\
+intelligible\\
+\cellcolor{gray!6}{incorrigible}\\
+negligible\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 ## Tableau des suffixes neutres

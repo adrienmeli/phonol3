@@ -207,20 +207,23 @@ Voyelle & Structure syllabique & Accent\\
 ### Exemples
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{influence} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Inf.lu.@ns}/}\\
-supreme & /01/ & /\textipa{su."pri:m}/\\
-\cellcolor{gray!6}{spiritual} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"spIr.ItS.u.@l}/}\\
-situation & /2010/ & /\textipa{""sItS.u."eIS.@n}/\\
-\cellcolor{gray!6}{warrior} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"w6r.i.@}/}\\
+\cellcolor{gray!6}{influence}\\
+supreme\\
+\cellcolor{gray!6}{spiritual}\\
+situation\\
+\cellcolor{gray!6}{warrior}\\
 \addlinespace
-trivial & /100/ & /\textipa{"trIv.i.@l}/\\
-\cellcolor{gray!6}{experience} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{Ik."spI@r.i.@ns}/}\\
-familiar & /0100/ & /\textipa{f@."mIl.i.@}/\\
-\cellcolor{gray!6}{genius} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"dZi:n.i.@s}/}\\
-regulate & /100/ & /\textipa{"reg.ju.leIt}/\\
+trivial\\
+\cellcolor{gray!6}{experience}\\
+familiar\\
+\cellcolor{gray!6}{genius}\\
+regulate\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---

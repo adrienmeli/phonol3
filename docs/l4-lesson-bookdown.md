@@ -9,17 +9,20 @@
 Considérez les mots suivants (les *dérivants* des mots en <-ian> vus précédemment) :
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
-comedy & /100/ & /\textipa{"k6m.@d.i}/\\
-\cellcolor{gray!6}{magic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae dZ.Ik}/}\\
-custody & /100/ & /\textipa{"k2st.@d.i}/\\
-\cellcolor{gray!6}{venus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vi:n.@s}/}\\
+\cellcolor{gray!6}{canada}\\
+comedy\\
+\cellcolor{gray!6}{magic}\\
+custody\\
+\cellcolor{gray!6}{venus}\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 Que remarquez-vous concernant la qualité de la voyelle accentuée ?
 
@@ -40,21 +43,24 @@ Les qualités de la voyelle accentuée semblent:
 
 Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes accentuées :
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
+\cellcolor{gray!6}{energy}\\
+elephant\\
+\cellcolor{gray!6}{library}\\
+taciturn\\
+\cellcolor{gray!6}{develop}\\
 \addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
+origin\\
+\cellcolor{gray!6}{paradise}\\
+demonstrate\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 La qualité "irrégulière" des voyelles peut être remise en cause...
 
@@ -73,21 +79,24 @@ Nous appellerons "Normal Stress Rule" (NSR) la règle suivante :
 Trouvez l'exception dans les mots suivants :
  
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
+\cellcolor{gray!6}{energy}\\
+elephant\\
+\cellcolor{gray!6}{library}\\
+taciturn\\
+\cellcolor{gray!6}{develop}\\
 \addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
+origin\\
+\cellcolor{gray!6}{paradise}\\
+demonstrate\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 
@@ -104,21 +113,24 @@ L'exception était : "develop"
 Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans notre liste de mots :
  
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
+\cellcolor{gray!6}{energy}\\
+elephant\\
+\cellcolor{gray!6}{library}\\
+taciturn\\
+\cellcolor{gray!6}{develop}\\
 \addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
+origin\\
+\cellcolor{gray!6}{paradise}\\
+demonstrate\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 
@@ -134,16 +146,19 @@ Discuss the stress patterns of the following words, and account for the quality 
 vowel in the stress syllable:
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{photograph} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f@Ut.@.grA:f}/}\\
-photographer & /0100/ & /\textipa{f@."t6g.r@f.@}/\\
-\cellcolor{gray!6}{photographic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""f@Ut.@."gr\ae f.Ik}/}\\
-photography & /0100/ & /\textipa{f@."t6g.r@f.i}/\\
+\cellcolor{gray!6}{photograph}\\
+photographer\\
+\cellcolor{gray!6}{photographic}\\
+photography\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 
@@ -203,23 +218,26 @@ Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, rad
 ### Quasi-lexèmes AB
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{autocrat} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"O:t.@.kr\ae t}/}\\
-epilogue & /100/ & /\textipa{"ep.I.l6g}/\\
-\cellcolor{gray!6}{synonym} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIn.@.nIm}/}\\
-microscope & /100/ & /\textipa{"maIk.r@.sk@Up}/\\
-\cellcolor{gray!6}{synagogue} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIn.@.g6g}/}\\
+\cellcolor{gray!6}{autocrat}\\
+epilogue\\
+\cellcolor{gray!6}{synonym}\\
+microscope\\
+\cellcolor{gray!6}{synagogue}\\
 \addlinespace
-dialogue & /100/ & /\textipa{"daI.@.l6g}/\\
-\cellcolor{gray!6}{hydrofoil} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"haIdr.@U.fOI@l}/}\\
-pentagon & /100/ & /\textipa{"pent.@g.@n}/\\
-\cellcolor{gray!6}{megaphone} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"meg.@.f@Un}/}\\
-thermostat & /100/ & /\textipa{"T3:m.@U.st\ae t}/\\
+dialogue\\
+\cellcolor{gray!6}{hydrofoil}\\
+pentagon\\
+\cellcolor{gray!6}{megaphone}\\
+thermostat\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 
@@ -239,7 +257,7 @@ thermostat & /100/ & /\textipa{"T3:m.@U.st\ae t}/\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{analogy}\\
 economy\\
