@@ -8,6 +8,9 @@
 
 Considérez les mots suivants (les *dérivants* des mots en <-ian> vus précédemment) :
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -42,6 +45,9 @@ Les qualités de la voyelle accentuée semblent:
 ### Exemple 2
 
 Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes accentuées :
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -78,6 +84,9 @@ Nous appellerons "Normal Stress Rule" (NSR) la règle suivante :
 
 Trouvez l'exception dans les mots suivants :
  
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -112,6 +121,9 @@ L'exception était : "develop"
 
 Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans notre liste de mots :
  
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -144,6 +156,9 @@ L'exception était : "library"
 
 Discuss the stress patterns of the following words, and account for the quality of the 
 vowel in the stress syllable:
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -217,6 +232,9 @@ Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, rad
 
 ### Quasi-lexèmes AB
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -252,6 +270,9 @@ thermostat\\
 
 
 ### Quasi-lexèmes ABC
+
+Listen to the following words and transcribe them:
+
 
 
  

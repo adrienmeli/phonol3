@@ -206,6 +206,9 @@ Voyelle & Structure syllabique & Accent\\
 
 ### Exemples
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}

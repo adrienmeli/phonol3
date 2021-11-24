@@ -51,6 +51,9 @@ Cette catégorisation des voyelles est importante pour comprendre la différence
 
 /i/ et /u/ ne peuvent apparaître que dans des syllabes inaccentuées ouvertes, exemples :
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -81,6 +84,9 @@ Elle l'est aussi lors de l'étude de la qualité des voyelles accentuées.
 
 Pour les mots suivants, concentrez-vous sur la qualité des voyelles accentuées et formulez la règle (raisonnez par rapport à la règle orthographique) :
  
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -98,6 +104,9 @@ promotion\\
 ---
 
 Cette règle est-elle valable pour le suffixe suivant ?
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -149,6 +158,9 @@ Le suffixe peut se prononcer en deux syllabes :
 
 Déterminez les règles de prononciation de la voyelle accentuée à partir des mots suivants : 
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -172,6 +184,9 @@ Les voyelles accentuées se prononcent en vertu de la règle orthographique, sau
 
  
 Vérifiez votre règle :
+
+Listen to the following words and transcribe them:
+
 
 
  

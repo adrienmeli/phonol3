@@ -77,6 +77,9 @@ If we consider the orthographic rule as the default rule, <-e-> in the stressed 
 
 "Christian" vs. "Christianity" vs. "unchristian"...
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -119,6 +122,9 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
 
 *Terminaisons contraignantes qui agissent quel que soit le radical (lexème, pseudo-lexème) avec schéma proparoxyton pour <-ible>*
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -144,6 +150,9 @@ gullible\\
 ### Attention toutefois à <-igible>
 
 Schéma préproparoxyton (/1000/)
+
+Listen to the following words and transcribe them:
+
 
 
  
