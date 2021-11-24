@@ -1,12 +1,10 @@
-# English Phonology
-
+# Lesson n°9
 
 
 
 ## Les tri+syllabiques en <-ent>
 
 ### Observation
-
 
 Considérez les mots suivants :
 
@@ -39,21 +37,13 @@ Les verbes en <-ment> de plus de deux syllabes ont un schéma proparoxyton.
 
 * les noms et adjectifs en <-ent> d'au moins trois syllabes ont un schéma proparoxyton.
 
-
 **MAIS *quid* de :**
-
-
 
 * "incumbent", "embankment", "refreshment".
 
 * /\textipa{In."k2m.b@nt}/, /\textipa{Im."b\ae Nk.m@nt}/, /\textipa{ri."freS.m@nt}/.
 
-
-
-*Keep all these words in mind!*
-
 \vspace*{0.2cm}
-
 
 ## Les tri+syllabiques en <-ate>
 
@@ -85,7 +75,6 @@ saturate & /100/ & /\textipa{"s\ae tS.@.reIt}/\\
 * Attention à la prononciation du suffixe :
   - /\textipa{eIt}/ dans les verbes
   - /\textipa{@t}/ dans les noms et adjectifs
-
 
 ### Exceptions
 
@@ -167,8 +156,6 @@ Les mots en <-acy> représentent 3 types de composition :
 
 * dans les autres cas de figure, NSR + Luick (mais : "diplomacy").
 
-
-
 \vspace*{0.2cm}
 
 ## Les mots "italiens"
@@ -221,7 +208,6 @@ orchestra & /100/ & /\textipa{"O:k.Is.tr@}/\\
 
 ## Les verbes préfixés
 
-
 ### Observation
 
 
@@ -253,7 +239,6 @@ Ces verbes peuvent se décomposer ainsi :
 
 * schéma /-10/ : les verbes trisyllabiques préfixés évitent d'accentuer le pseudo-préfixe et accentuent la première syllabe du pseudo-lexème
 * schéma /201/ : ces verbes ont deux pseudo-préfixes et un pseudo-lexème, qui porte l'accent principal. 
-
 
 \vspace*{0.2cm}
 
