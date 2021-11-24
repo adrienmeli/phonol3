@@ -253,16 +253,6 @@ Ils sont sujets à caution. Dans le doute, se référer à @ginesy2000 et @duche
 
 \vspace*{0.2cm}
 
-## Menu du jour
-
-Les mots d'au moins trois syllabes :
-
-* en <-ent>
-* en <-ate>
-* non-suffixés
-
-\vspace*{0.2cm}
-
 
 ## Les tri+syllabiques en <-ent>
 
