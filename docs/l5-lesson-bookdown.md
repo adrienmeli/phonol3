@@ -154,7 +154,7 @@ similarity & /20100/ & /\textipa{""sIm.@."l\ae r.@t.i}/\\
 \cellcolor{gray!6}{continuity} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""k6nt.I."nju:.@t.i}/}\\
 \addlinespace
 opportunity & /20100/ & /\textipa{""6p.@."tju:n.@t.i}/\\
-\cellcolor{gray!6}{electricity} & \cellcolor{gray!6}{/02100/} & \cellcolor{gray!6}{/\textipa{I.""lek."trIs.@t.i}/}\\
+\cellcolor{gray!6}{electricity} & \cellcolor{gray!6}{/02100/} & \cellcolor{gray!6}{/\textipa{i.""lek."trIs.@t.i}/}\\
 sincerity & /0100/ & /\textipa{sIn."ser.@t.i}/\\
 \cellcolor{gray!6}{nationality} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""n\ae S.@."n\ae l.@t.i}/}\\
 charity & /100/ & /\textipa{"tS\ae r.@t.i}/\\
