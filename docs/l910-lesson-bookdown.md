@@ -10,30 +10,24 @@
 
 Considérez les verbes suivants, mentionnés chez @duchet2018 :
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{recognize}\\
-occupy\\
-\cellcolor{gray!6}{execute}\\
-exercise\\
-\cellcolor{gray!6}{prosecute}\\
+\cellcolor{gray!6}{recognize} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"rek.@g.naIz}/}\\
+occupy & /100/ & /\textipa{"6k.ju.paI}/\\
+\cellcolor{gray!6}{execute} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"eks.I.kju:t}/}\\
+exercise & /100/ & /\textipa{"eks.@.saIz}/\\
+\cellcolor{gray!6}{prosecute} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"pr6s.I.kju:t}/}\\
 \addlinespace
-register\\
-\cellcolor{gray!6}{substitute}\\
-improvise\\
-\cellcolor{gray!6}{reconcile}\\
-advertise\\
+register & /100/ & /\textipa{"redZ.Ist.@}/\\
+\cellcolor{gray!6}{substitute} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"s2b.sti.tju:t}/}\\
+improvise & /100/ & /\textipa{"Im.pr@.vaIz}/\\
+\cellcolor{gray!6}{reconcile} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"rek.@n.saI@l}/}\\
+advertise & /100/ & /\textipa{"\ae d.v@.taIz}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 Explications :
 
@@ -63,30 +57,24 @@ Dans ce paradigme, "improvise" et "reconcile" sont deux exceptions réelles puis
 
 ### Observation
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{ancestral}\\
-fundamental\\
-\cellcolor{gray!6}{original}\\
-criminal\\
-\cellcolor{gray!6}{parental}\\
+\cellcolor{gray!6}{ancestral} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{\ae n."ses.tr@l}/}\\
+fundamental & /2010/ & /\textipa{""f2nd.@."ment.@l}/\\
+\cellcolor{gray!6}{original} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@."rIdZ.@n.@l}/}\\
+criminal & /100/ & /\textipa{"krIm.In.@l}/\\
+\cellcolor{gray!6}{parental} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{p@."rent.@l}/}\\
 \addlinespace
-tremendous\\
-\cellcolor{gray!6}{gratuitous}\\
-fabulous\\
-\cellcolor{gray!6}{horrendous}\\
-felicitous\\
+tremendous & /010/ & /\textipa{tr@."mend.@s}/\\
+\cellcolor{gray!6}{gratuitous} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{gr@."tju:.It.@s}/}\\
+fabulous & /100/ & /\textipa{"f\ae b.jUl.@s}/\\
+\cellcolor{gray!6}{horrendous} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{h6."rend.@s}/}\\
+felicitous & /0100/ & /\textipa{f@."lIs.It.@s}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 /\textipa{h6."rend.@s}/ indeed!
 
@@ -125,24 +113,18 @@ En l'absence d'agrégat consonantique, ces suffixes adjectivaux ont la propriét
 
 ### Vérification
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{pronominal}\\
-monotonous\\
-\cellcolor{gray!6}{occidental}\\
-universal\\
-\cellcolor{gray!6}{disastrous}\\
+\cellcolor{gray!6}{pronominal} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{pr@U."n6m.In.@l}/}\\
+monotonous & /0100/ & /\textipa{m@."n6t.@n.@s}/\\
+\cellcolor{gray!6}{occidental} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""6ks.I."dent.@l}/}\\
+universal & /2010/ & /\textipa{""ju:n.I."v3:s.@l}/\\
+\cellcolor{gray!6}{disastrous} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."zA:s.tr@s}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ## Généralisation
 
@@ -169,65 +151,47 @@ NB: comme toujours, ces deux règles ont des exceptions, et ne prennent pas le p
 
 Le raisonnement est limité aux adjectifs, et est applicable dans son entier aux suffixes <-ent> et <-ant> :
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{important}\\
-tolerant\\
-\cellcolor{gray!6}{persistent}\\
-confident\\
-\cellcolor{gray!6}{reluctant}\\
+\cellcolor{gray!6}{important} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{Im."pO:t.@nt}/}\\
+tolerant & /100/ & /\textipa{"t6l.@r.@nt}/\\
+\cellcolor{gray!6}{persistent} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{p@."sIst.@nt}/}\\
+confident & /100/ & /\textipa{"k6n.fId.@nt}/\\
+\cellcolor{gray!6}{reluctant} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{ri."l2kt.@nt}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 À noter que <-mental> / <-mentous> tombent sous le coup cette règle
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{fundamental}\\
-momentous\\
-\cellcolor{gray!6}{experimental}\\
+\cellcolor{gray!6}{fundamental} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""f2nd.@."ment.@l}/}\\
+momentous & /010/ & /\textipa{m@U."ment.@s}/\\
+\cellcolor{gray!6}{experimental} & \cellcolor{gray!6}{/02010/} & \cellcolor{gray!6}{/\textipa{Ik.""sper.I."ment.@l}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 Le suffixe <-ar> est classé dans le groupe sans agrégat consonantique préfinal, et le suffixe <-inal> 
 obéit lui aussi à cette règle :
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{regular}\\
-particular\\
-\cellcolor{gray!6}{popular}\\
-criminal\\
-\cellcolor{gray!6}{original}\\
+\cellcolor{gray!6}{regular} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"reg.jUl.@}/}\\
+particular & /0100/ & /\textipa{p@."tIk.jUl.@}/\\
+\cellcolor{gray!6}{popular} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p6p.jUl.@}/}\\
+criminal & /100/ & /\textipa{"krIm.In.@l}/\\
+\cellcolor{gray!6}{original} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@."rIdZ.@n.@l}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ### Exceptions
 
@@ -239,24 +203,18 @@ Ginésy distingue des sous-règles :
 
 * Sous-règle "**energy**" : les mots non dérivés (donc, opaques) en C$_{2}$y## ont un schéma proparoxyton /-100/
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{hormone}\\
-hormonal\\
-\cellcolor{gray!6}{tribune}\\
-tribunal\\
-\cellcolor{gray!6}{poverty}\\
+\cellcolor{gray!6}{hormone} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"hO:m.@Un}/}\\
+hormonal & /010/ & /\textipa{hO:."m@Un.@l}/\\
+\cellcolor{gray!6}{tribune} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"trIb.ju:n}/}\\
+tribunal & /010/ & /\textipa{traI."bju:n.@l}/\\
+\cellcolor{gray!6}{poverty} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p6v.@t.i}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 
 
@@ -275,52 +233,40 @@ tribunal\\
 
 ### Examples
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{instinctive}\\
-punitive\\
-\cellcolor{gray!6}{agentive}\\
-divisive\\
-\cellcolor{gray!6}{executive}\\
+\cellcolor{gray!6}{instinctive} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{In."stINkt.Iv}/}\\
+punitive & /100/ & /\textipa{"pju:n.@t.Iv}/\\
+\cellcolor{gray!6}{agentive} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"eIdZ.@nt.Iv}/}\\
+divisive & /010/ & /\textipa{di."vaIs.Iv}/\\
+\cellcolor{gray!6}{executive} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{Ig."zek.jUt.Iv}/}\\
 \addlinespace
-narrator\\
-\cellcolor{gray!6}{narrative}\\
-product\\
-\cellcolor{gray!6}{productive}\\
-productivity\\
+narrator & /010/ & /\textipa{n@."reIt.@}/\\
+\cellcolor{gray!6}{narrative} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@t.Iv}/}\\
+product & /10/ & /\textipa{"pr6d.2kt}/\\
+\cellcolor{gray!6}{productive} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{pr@."d2kt.Iv}/}\\
+productivity & /20100/ & /\textipa{""pr6d.2k."tIv.@t.i}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 ## Les suffixes <-ary> et  <-ory>
 
 ### Observation
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{predatory}\\
-victory\\
-\cellcolor{gray!6}{territory}\\
-contradictory\\
-\cellcolor{gray!6}{satisfactory}\\
+\cellcolor{gray!6}{predatory} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"pred.@t.@r.i}/}\\
+victory & /100/ & /\textipa{"vIkt.@r.i}/\\
+\cellcolor{gray!6}{territory} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"ter.@.t@r.i}/}\\
+contradictory & /20100/ & /\textipa{""k6ntr.@."dIkt.@r.i}/\\
+\cellcolor{gray!6}{satisfactory} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""s\ae t.Is."f\ae kt.@r.i}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ### Ginésy
 
@@ -352,48 +298,36 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
 
 * Ancien schéma accentuel : "*oscillatory*", "*anticipatory*", "*investigatory*"...
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{intimidatory}\\
-congratulatory\\
-\cellcolor{gray!6}{regulatory}\\
-approbatory\\
-\cellcolor{gray!6}{compensatory}\\
+\cellcolor{gray!6}{intimidatory} & \cellcolor{gray!6}{/020100/} & \cellcolor{gray!6}{/\textipa{In.""tIm.I."deIt.@r.i}/}\\
+congratulatory & /020100/ & /\textipa{k@n.""gr\ae tS.u."leIt.@r.i}/\\
+\cellcolor{gray!6}{regulatory} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""reg.ju."leIt.@r.i}/}\\
+approbatory & /20100/ & /\textipa{""\ae p.r@U."beIt.@r.i}/\\
+\cellcolor{gray!6}{compensatory} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""k6mp.@n."seIt.@r.i}/}\\
 \addlinespace
-oscillatory\\
-\cellcolor{gray!6}{investigatory}\\
-deprecatory\\
-\cellcolor{gray!6}{imprecatory}\\
-incriminatory\\
+oscillatory & /10000/ & /\textipa{"6s.Il.@t.@r.i}/\\
+\cellcolor{gray!6}{investigatory} & \cellcolor{gray!6}{/010000/} & \cellcolor{gray!6}{/\textipa{In."vest.Ig.@t.@r.i}/}\\
+deprecatory & /10000/ & /\textipa{"dep.r@.keIt.@r.i}/\\
+\cellcolor{gray!6}{imprecatory} & \cellcolor{gray!6}{/10000/} & \cellcolor{gray!6}{/\textipa{"Imp.ri.keIt.@r.i}/}\\
+incriminatory & /010000/ & /\textipa{In."krIm.In.@t.@r.i}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ##### Dérivés en <-ificatory>
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{qualificatory}\\
-classificatory\\
-\cellcolor{gray!6}{justificatory}\\
-purificatory\\
-\cellcolor{gray!6}{clarificatory}\\
+\cellcolor{gray!6}{qualificatory} & \cellcolor{gray!6}{/200100/} & \cellcolor{gray!6}{/\textipa{""kw6l.If.I."keIt.@r.i}/}\\
+classificatory & /200100/ & /\textipa{""kl\ae s.If.I."keIt.@r.i}/\\
+\cellcolor{gray!6}{justificatory} & \cellcolor{gray!6}{/100000/} & \cellcolor{gray!6}{/\textipa{"dZ2st.If.I.keIt.@r.i}/}\\
+purificatory & /200100/ & /\textipa{""pjU@r.If.I."keIt.@r.i}/\\
+\cellcolor{gray!6}{clarificatory} & \cellcolor{gray!6}{/200100/} & \cellcolor{gray!6}{/\textipa{""kl\ae r.@f.I."keIt.@r.i}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
