@@ -72,7 +72,8 @@ photographic & /2010/ & /\textipa{""f@Ut.@."gr\ae f.Ik}/\\
 \cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ?}\\
 18/10/2021 & Transcrire les mots de la section Quasi-lexèmes ABC. Ces mots respectent-ils : la NSR ? la règle de Luick ? Si non, existe-t-il des régularités dans ces exceptions ?\\
 \cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
-13/12/2021 & Examen de fin de semestre (1h)\\
+06/12/2021 & Expliquer les 4 dérivations de l'examen de mi-semestre de l'année dernière.\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
 \bottomrule
 \end{longtable}
 
