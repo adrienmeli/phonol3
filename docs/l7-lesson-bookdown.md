@@ -80,7 +80,7 @@ If we consider the orthographic rule as the default rule, <-e-> in the stressed 
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{Christian} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"krIs.tS@n}/}\\
 Christianity & /20100/ & /\textipa{""krIst.i."\ae n.@t.i}/\\
@@ -119,7 +119,7 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{incredible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."kred.@b.@l}/}\\
 compatible & /0100/ & /\textipa{k@m."p\ae t.@b.@l}/\\
@@ -142,7 +142,7 @@ Schéma préproparoxyton (/1000/)
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{eligible} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"el.IdZ.@b.@l}/}\\
 intelligible & /01000/ & /\textipa{In."tel.IdZ.@b.@l}/\\

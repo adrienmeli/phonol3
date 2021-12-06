@@ -9,7 +9,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{canadian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."neId.i.@n}/}\\
 comedian & /0100/ & /\textipa{k@."mi:d.i.@n}/\\

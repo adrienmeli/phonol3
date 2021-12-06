@@ -21,7 +21,7 @@ Distinction entre dérivations transparentes et opaques :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{generalize} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"dZen.@r.@.laIz}/}\\
 mechanize & /100/ & /\textipa{"mek.@.naIz}/\\
@@ -51,7 +51,7 @@ Elle est dite opaque lorsque :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{elude} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{I."lu:d}/}\\
 elusory & /0100/ & /\textipa{I."lu:s.@r.i}/\\
@@ -76,7 +76,7 @@ Deux cas :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{canonize} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@.naIz}/}\\
 colonize & /100/ & /\textipa{"k6l.@.naIz}/\\
@@ -95,7 +95,7 @@ latinize & /100/ & /\textipa{"l\ae t.I.naIz}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{liberalize} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"lIb.@r.@.laIz}/}\\
 familiarize & /01000/ & /\textipa{f@."mIl.i.@.raIz}/\\
@@ -117,7 +117,7 @@ Comparer les mots suivants : une règle peut-elle être déduite ?
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{energise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@.dZaIz}/}\\
 legalize & /100/ & /\textipa{"li:g.@.laIz}/\\
@@ -168,7 +168,7 @@ Majoritairement prononcé /\textipa{@tIv}/ mais quelques exceptions : /\textipa{
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{generative} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"dZen.@r.@t.Iv}/}\\
 appreciative & /01000/ & /\textipa{@."pri:S.i.@t.Iv}/\\
@@ -184,7 +184,7 @@ Exceptions à cette règle : les mots de la langue savante médiévale
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{demonstrative} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{di."m6ns.tr@t.Iv}/}\\
 affirmative & /0100/ & /\textipa{@."f3:m.@t.Iv}/\\
@@ -204,7 +204,7 @@ implicative & /0100/ & /\textipa{Im."plIk.@t.Iv}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{talkative} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"tO:k.@t.Iv}/}\\
 interpretative & /01000/ & /\textipa{In."t3:p.rIt.@t.Iv}/\\
@@ -227,7 +227,7 @@ Exception : /\textipa{kri."eIt.Iv}/
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{relative} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"rel.@t.Iv}/}\\
 sedative & /100/ & /\textipa{"sed.@t.Iv}/\\
@@ -264,7 +264,7 @@ Considérez les mots suivants :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{complement} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k6mp.li.m@nt}/}\\
 ornament & /100/ & /\textipa{"O:n.@.m@nt}/\\

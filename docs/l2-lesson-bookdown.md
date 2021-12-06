@@ -209,7 +209,7 @@ Voyelle & Structure syllabique & Accent\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{influence} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Inf.lu.@ns}/}\\
 supreme & /01/ & /\textipa{su."pri:m}/\\

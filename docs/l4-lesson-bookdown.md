@@ -11,7 +11,7 @@ Considérez les mots suivants (les *dérivants* des mots en <-ian> vus précéde
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
 comedy & /100/ & /\textipa{"k6m.@d.i}/\\
@@ -42,7 +42,7 @@ Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
 elephant & /100/ & /\textipa{"el.If.@nt}/\\
@@ -75,7 +75,7 @@ Trouvez l'exception dans les mots suivants :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
 elephant & /100/ & /\textipa{"el.If.@nt}/\\
@@ -106,7 +106,7 @@ Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans n
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
 elephant & /100/ & /\textipa{"el.If.@nt}/\\
@@ -136,7 +136,7 @@ vowel in the stress syllable:
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{photograph} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f@Ut.@.grA:f}/}\\
 photographer & /0100/ & /\textipa{f@."t6g.r@f.@}/\\
@@ -205,7 +205,7 @@ Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, rad
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{autocrat} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"O:t.@.kr\ae t}/}\\
 epilogue & /100/ & /\textipa{"ep.I.l6g}/\\
