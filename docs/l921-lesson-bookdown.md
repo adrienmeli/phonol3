@@ -280,77 +280,71 @@ Cette section ne porte que sur des mots qui ne peuvent être que des verbes.
 
 Ces verbes ont un schéma accentuel oxyton (/01/).
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Sound & Stress\\
 \midrule
-\cellcolor{gray!6}{deny}\\
-excel\\
-\cellcolor{gray!6}{deter}\\
-become\\
-\cellcolor{gray!6}{enrol}\\
+\cellcolor{gray!6}{deny} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."naI}/}\\
+excel & /01/ & /\textipa{Ik."sel}/\\
+\cellcolor{gray!6}{deter} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."t3:}/}\\
+become & /01/ & /\textipa{bi."k2m}/\\
+\cellcolor{gray!6}{enrol} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."r@Ul}/}\\
 \addlinespace
-reduce\\
-\cellcolor{gray!6}{insure}\\
-begin\\
-\cellcolor{gray!6}{enact}\\
-resume\\
+reduce & /01/ & /\textipa{ri."dju:s}/\\
+\cellcolor{gray!6}{insure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."SU@}/}\\
+begin & /01/ & /\textipa{bi."gIn}/\\
+\cellcolor{gray!6}{enact} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."\ae kt}/}\\
+resume & /01/ & /\textipa{ri."zju:m}/\\
 \addlinespace
-\cellcolor{gray!6}{deduce}\\
-forget\\
-\cellcolor{gray!6}{mistake}\\
-presume\\
-\cellcolor{gray!6}{disclose}\\
+\cellcolor{gray!6}{deduce} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."dju:s}/}\\
+forget & /01/ & /\textipa{f@."get}/\\
+\cellcolor{gray!6}{mistake} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{mi."steIk}/}\\
+presume & /01/ & /\textipa{pri."zju:m}/\\
+\cellcolor{gray!6}{disclose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dIs."kl@Uz}/}\\
 \addlinespace
-forgive\\
-\cellcolor{gray!6}{arrange}\\
-resolve\\
-\cellcolor{gray!6}{deserve}\\
-behead\\
+forgive & /01/ & /\textipa{f@."gIv}/\\
+\cellcolor{gray!6}{arrange} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."reIndZ}/}\\
+resolve & /01/ & /\textipa{ri."z6lv}/\\
+\cellcolor{gray!6}{deserve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."z3:v}/}\\
+behead & /01/ & /\textipa{bi."hed}/\\
 \addlinespace
-\cellcolor{gray!6}{excite}\\
-repair\\
-\cellcolor{gray!6}{impose}\\
-believe\\
-\cellcolor{gray!6}{admit}\\
+\cellcolor{gray!6}{excite} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Ik."saIt}/}\\
+repair & /01/ & /\textipa{ri."pe@}/\\
+\cellcolor{gray!6}{impose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."p@Uz}/}\\
+believe & /01/ & /\textipa{bi."li:v}/\\
+\cellcolor{gray!6}{admit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@d."mIt}/}\\
 \addlinespace
-remind\\
-\cellcolor{gray!6}{compose}\\
-betray\\
-\cellcolor{gray!6}{arrive}\\
-resist\\
+remind & /01/ & /\textipa{ri."maInd}/\\
+\cellcolor{gray!6}{compose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@m."p@Uz}/}\\
+betray & /01/ & /\textipa{bi."treI}/\\
+\cellcolor{gray!6}{arrive} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."raIv}/}\\
+resist & /01/ & /\textipa{ri."zIst}/\\
 \addlinespace
-\cellcolor{gray!6}{suppose}\\
-forbid\\
-\cellcolor{gray!6}{retain}\\
-oppose\\
-\cellcolor{gray!6}{foresee}\\
+\cellcolor{gray!6}{suppose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."p@Uz}/}\\
+forbid & /01/ & /\textipa{f@."bId}/\\
+\cellcolor{gray!6}{retain} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."teIn}/}\\
+oppose & /01/ & /\textipa{@."p@Uz}/\\
+\cellcolor{gray!6}{foresee} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{fO:."si:}/}\\
 \addlinespace
-accept\\
-\cellcolor{gray!6}{refuse}\\
-offend\\
-\cellcolor{gray!6}{uphold}\\
-appraise\\
+accept & /01/ & /\textipa{@k."sept}/\\
+\cellcolor{gray!6}{refuse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."fju:z}/}\\
+offend & /01/ & /\textipa{@."fend}/\\
+\cellcolor{gray!6}{uphold} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{2p."h@Uld}/}\\
+appraise & /01/ & /\textipa{@."preIz}/\\
 \addlinespace
-\cellcolor{gray!6}{reprove}\\
-demand\\
-\cellcolor{gray!6}{abet}\\
-allure\\
-\cellcolor{gray!6}{rehearse}\\
+\cellcolor{gray!6}{reprove} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."pru:v}/}\\
+demand & /01/ & /\textipa{di."mA:nd}/\\
+\cellcolor{gray!6}{abet} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."bet}/}\\
+allure & /01/ & /\textipa{@."lU@}/\\
+\cellcolor{gray!6}{rehearse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."h3:s}/}\\
 \addlinespace
-allege\\
-\cellcolor{gray!6}{resign}\\
-refer\\
-\cellcolor{gray!6}{confer}\\
+allege & /01/ & /\textipa{@."ledZ}/\\
+\cellcolor{gray!6}{resign} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."zaIn}/}\\
+refer & /01/ & /\textipa{ri."f3:}/\\
+\cellcolor{gray!6}{confer} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."f3:}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 **Note :** dans le cas de préfixes de deux syllabes, le pseudo-lexème garde l'accent primaire, et l'accent secondaire est porté par la première syllabe du préfixe (/201/) :
 
@@ -369,29 +363,23 @@ circumvent & /201/ & /\textipa{""s3:k.@m."vent}/\\
 
 Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et sont donc paroxytons (10) :
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Sound & Stress\\
 \midrule
-\cellcolor{gray!6}{edit}\\
-enter\\
-\cellcolor{gray!6}{destine}\\
-sever\\
-\cellcolor{gray!6}{prosper}\\
+\cellcolor{gray!6}{edit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ed.It}/}\\
+enter & /10/ & /\textipa{"ent.@}/\\
+\cellcolor{gray!6}{destine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dest.In}/}\\
+sever & /10/ & /\textipa{"sev.@}/\\
+\cellcolor{gray!6}{prosper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6sp.@}/}\\
 \addlinespace
-suffer\\
-\cellcolor{gray!6}{differ}\\
-proffer\\
-\cellcolor{gray!6}{conjure}\\
-injure\\
+suffer & /10/ & /\textipa{"s2f.@}/\\
+\cellcolor{gray!6}{differ} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIf.@}/}\\
+proffer & /10/ & /\textipa{"pr6f.@}/\\
+\cellcolor{gray!6}{conjure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2ndZ.@}/}\\
+injure & /10/ & /\textipa{"IndZ.@}/\\
 \addlinespace
-\cellcolor{gray!6}{conquer}\\
+\cellcolor{gray!6}{conquer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6Nk.@}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
