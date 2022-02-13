@@ -2,7 +2,7 @@
 title: "Cours de phonologie anglaise"
 subtitle: "Gustave Eiffel LCA3"
 author: "Adrien Méli"
-date: "February 08, 2022"
+date: "February 13, 2022"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
