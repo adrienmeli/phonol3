@@ -50,7 +50,7 @@ Le suffixe <-ative> est neutre lorsque le dérivant est un verbe en <-ate> de tr
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{adventurous} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@d."ventS.@r.@s}/}\\
 sentimental & /2010/ & /\textipa{""sent.I."ment.@l}/\\
@@ -98,7 +98,7 @@ Lorsque les dérivés proviennent de verbes à schémas oxytons, la dérivation 
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{exploratory} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{Ik."spl6r.@t.@r.i}/}\\
 exclamatory & /01000/ & /\textipa{Ik."skl\ae m.@t.@r.i}/\\
@@ -117,7 +117,7 @@ Pour les dérivés de paroxytons, c'est la même chose :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{reactionary} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{ri."\ae k.S@n.@r.i}/}\\
 inflationary & /01000/ & /\textipa{In."fleIS.@n.@r.i}/\\
@@ -136,7 +136,7 @@ Un schéma /-1000/ avec rétraction accentuelle et trois syllabes inaccentuées 
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{predatory} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"pred.@t.@r.i}/}\\
 seminary & /1000/ & /\textipa{"sem.In.@r.i}/\\
@@ -159,7 +159,7 @@ Les agrégats consonantiques importent :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{introductory} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""Intr.@."d2kt.@r.i}/}\\
 factory & /10/ & /\textipa{"f\ae k.tri}/\\
@@ -180,7 +180,7 @@ Cela inclut les mots en <-illary> :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{pillory} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"pIl.@r.i}/}\\
 capillary & /0100/ & /\textipa{k@."pIl.@r.i}/\\
@@ -195,7 +195,7 @@ artillery & /0100/ & /\textipa{A:."tIl.@r.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{fragmentary} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"fr\ae g.m@nt.@r.i}/}\\
 momentary & /1000/ & /\textipa{"m@Um.@nt.@r.i}/\\

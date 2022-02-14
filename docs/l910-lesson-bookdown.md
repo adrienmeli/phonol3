@@ -13,7 +13,7 @@ Considérez les verbes suivants, mentionnés chez @duchet2018 :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{recognize} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"rek.@g.naIz}/}\\
 occupy & /100/ & /\textipa{"6k.ju.paI}/\\
@@ -60,7 +60,7 @@ Dans ce paradigme, "improvise" et "reconcile" sont deux exceptions réelles puis
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{ancestral} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{\ae n."ses.tr@l}/}\\
 fundamental & /2010/ & /\textipa{""f2nd.@."ment.@l}/\\
@@ -116,7 +116,7 @@ En l'absence d'agrégat consonantique, ces suffixes adjectivaux ont la propriét
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{pronominal} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{pr@U."n6m.In.@l}/}\\
 monotonous & /0100/ & /\textipa{m@."n6t.@n.@s}/\\
@@ -154,7 +154,7 @@ Le raisonnement est limité aux adjectifs, et est applicable dans son entier aux
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{important} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{Im."pO:t.@nt}/}\\
 tolerant & /100/ & /\textipa{"t6l.@r.@nt}/\\
@@ -169,7 +169,7 @@ confident & /100/ & /\textipa{"k6n.fId.@nt}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{fundamental} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""f2nd.@."ment.@l}/}\\
 momentous & /010/ & /\textipa{m@U."ment.@s}/\\
@@ -183,7 +183,7 @@ obéit lui aussi à cette règle :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{regular} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"reg.jUl.@}/}\\
 particular & /0100/ & /\textipa{p@."tIk.jUl.@}/\\
@@ -206,7 +206,7 @@ Ginésy distingue des sous-règles :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{hormone} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"hO:m.@Un}/}\\
 hormonal & /010/ & /\textipa{hO:."m@Un.@l}/\\
@@ -236,7 +236,7 @@ tribunal & /010/ & /\textipa{traI."bju:n.@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{instinctive} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{In."stINkt.Iv}/}\\
 punitive & /100/ & /\textipa{"pju:n.@t.Iv}/\\
@@ -258,7 +258,7 @@ productivity & /20100/ & /\textipa{""pr6d.2k."tIv.@t.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{predatory} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"pred.@t.@r.i}/}\\
 victory & /100/ & /\textipa{"vIkt.@r.i}/\\
@@ -301,7 +301,7 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{intimidatory} & \cellcolor{gray!6}{/020100/} & \cellcolor{gray!6}{/\textipa{In.""tIm.I."deIt.@r.i}/}\\
 congratulatory & /020100/ & /\textipa{k@n.""gr\ae tS.u."leIt.@r.i}/\\
@@ -322,7 +322,7 @@ incriminatory & /010000/ & /\textipa{In."krIm.In.@t.@r.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{qualificatory} & \cellcolor{gray!6}{/200100/} & \cellcolor{gray!6}{/\textipa{""kw6l.If.I."keIt.@r.i}/}\\
 classificatory & /200100/ & /\textipa{""kl\ae s.If.I."keIt.@r.i}/\\

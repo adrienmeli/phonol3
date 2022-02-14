@@ -54,7 +54,7 @@ Cette catégorisation des voyelles est importante pour comprendre la différence
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{influence} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Inf.lu.@ns}/}\\
 supreme & /01/ & /\textipa{su."pri:m}/\\
@@ -81,7 +81,7 @@ Pour les mots suivants, concentrez-vous sur la qualité des voyelles accentuées
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{dictation} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{dIk."teIS.@n}/}\\
 completion & /010/ & /\textipa{k@m."pli:S.@n}/\\
@@ -96,7 +96,7 @@ Cette règle est-elle valable pour le suffixe suivant ?
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{canadian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."neId.i.@n}/}\\
 comedian & /0100/ & /\textipa{k@."mi:d.i.@n}/\\
@@ -143,7 +143,7 @@ Déterminez les règles de prononciation de la voyelle accentuée à partir des 
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
 comedy & /100/ & /\textipa{"k6m.@d.i}/\\
@@ -164,7 +164,7 @@ Vérifiez votre règle :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{audacious} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{O:."deIS.@s}/}\\
 precious & /10/ & /\textipa{"preS.@s}/\\

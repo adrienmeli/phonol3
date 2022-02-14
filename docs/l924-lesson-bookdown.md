@@ -19,7 +19,7 @@ Il est toujours prononcé /\textipa{@b@l}/
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{calculable} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"k\ae lk.jUl.@b.@l}/}\\
 educable & /1000/ & /\textipa{"ed.jUk.@b.@l}/\\
@@ -61,7 +61,7 @@ Prononciations :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{osmosis} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{6z."m@Us.Is}/}\\
 psychosis & /010/ & /\textipa{saI."k@Us.Is}/\\
@@ -84,7 +84,7 @@ La question de la place de l'accent secondaire n'est pas abordée dans @duchet20
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{peritonitis} & \cellcolor{gray!6}{/20010/} & \cellcolor{gray!6}{/\textipa{""per.I.t@U."naIt.Is}/}\\
 appendicitis & /02010/ & /\textipa{@.""pend.@."saIt.Is}/\\
@@ -107,7 +107,7 @@ Nous suivons ici à peu près @duchet2018.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{ovation} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@U."veIS.@n}/}\\
 depletion & /010/ & /\textipa{di."pli:S.@n}/\\
@@ -136,7 +136,7 @@ Rappel : <-ic> est un suffixe contraignant qui impose un schéma paroxyton (acce
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{traumatic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{trO:."m\ae t.Ik}/}\\
 systemic & /010/ & /\textipa{si."sti:m.Ik}/\\
@@ -165,7 +165,7 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{basic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"beIs.Ik}/}\\
 phonic & /10/ & /\textipa{"f6n.Ik}/\\
@@ -187,7 +187,7 @@ heroic & /010/ & /\textipa{h@."r@U.Ik}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mental} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ment.@l}/}\\
 serene & /01/ & /\textipa{s@."ri:n}/\\
@@ -205,7 +205,7 @@ jocose & /01/ & /\textipa{dZ@U."k@Us}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mentality} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{men."t\ae l.@t.i}/}\\
 serenity & /0100/ & /\textipa{s@."ren.@t.i}/\\
@@ -233,7 +233,7 @@ jocosity & /0100/ & /\textipa{dZ@U."k6s.@t.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{collaborate} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."l\ae b.@.reIt}/}\\
 generate & /100/ & /\textipa{"dZen.@.reIt}/\\
@@ -258,7 +258,7 @@ Ces cas-là participent soit de la règle <-ion> étendue, soit de la présence 
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{violate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"vaI.@.leIt}/}\\
 annihilate & /0100/ & /\textipa{@."naI.@.leIt}/\\
@@ -273,7 +273,7 @@ deteriorate & /01000/ & /\textipa{di."tI@r.i.@.reIt}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{motivate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"m@Ut.I.veIt}/}\\
 isolate & /100/ & /\textipa{"aIs.@.leIt}/\\

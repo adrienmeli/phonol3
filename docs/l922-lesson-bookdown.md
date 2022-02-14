@@ -45,7 +45,7 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et s
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{edit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ed.It}/}\\
 enter & /10/ & /\textipa{"ent.@}/\\
@@ -70,7 +70,7 @@ injure & /10/ & /\textipa{"IndZ.@}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{province} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6v.Ins}/}\\
 concourse & /10/ & /\textipa{"k6N.kO:s}/\\
@@ -167,7 +167,7 @@ Il existe des exceptions, qui ont donc un schéma accentuel oxyton (/01/) :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{affair} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."fe@}/}\\
 prestige & /01/ & /\textipa{pre."sti:Z}/\\
@@ -237,7 +237,7 @@ Il existe un inventaire de mots isolés ayant un schéma oxyton (/01/).
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{manure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{m@."njU@}/}\\
 mature & /01/ & /\textipa{m@."tSU@}/\\
@@ -300,7 +300,7 @@ Il existe trois possibilités :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{account} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."kaUnt}/}\\
 defect & /10/ & /\textipa{"di:.fekt}/\\
@@ -435,7 +435,7 @@ support & /01/ & /\textipa{s@."pO:t}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{combat} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6m.b\ae t}/}\\
 envy & /10/ & /\textipa{"en.vi}/\\
@@ -494,7 +494,7 @@ C'est-à-dire qu'ils seront accentués sur la pénultième s'ils sont employés 
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{abstract} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.str\ae kt}/}\\
 digest & /10/ & /\textipa{"daI.dZest}/\\
@@ -526,7 +526,7 @@ Dans certains mots, la voyelle de la syllabe inaccentuée est réduite :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{object} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6b.dZIkt}/}\\
 convict & /01/ & /\textipa{k@n."vIkt}/\\

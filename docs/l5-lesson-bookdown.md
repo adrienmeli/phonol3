@@ -16,7 +16,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{analogy} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@."n\ae l.@dZ.i}/}\\
 economy & /0100/ & /\textipa{I."k6n.@m.i}/\\
@@ -63,7 +63,7 @@ metabolism & /01020/ & /\textipa{m@."t\ae b.@.""lIz.@m}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{demagogy} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"dem.@.g6dZ.i}/}\\
 allegory & /1000/ & /\textipa{"\ae l.@g.@r.i}/\\
@@ -90,7 +90,7 @@ Lequel ?
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{chiromancy} & \cellcolor{gray!6}{/1020/} & \cellcolor{gray!6}{/\textipa{"kaI@r.@U.""m\ae ns.i}/}\\
 epilepsy & /1000/ & /\textipa{"ep.I.leps.i}/\\
@@ -117,7 +117,7 @@ Comment catégoriseriez-vous les suffixes de ces mots ?
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{monotone} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"m6n.@.t@Un}/}\\
 monotonous & /0100/ & /\textipa{m@."n6t.@n.@s}/\\
@@ -145,7 +145,7 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{capacity} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."p\ae s.@t.i}/}\\
 stupidity & /0100/ & /\textipa{stju."pId.@t.i}/\\
@@ -169,7 +169,7 @@ charity & /100/ & /\textipa{"tS\ae r.@t.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{verify} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"ver.I.faI}/}\\
 modify & /100/ & /\textipa{"m6d.I.faI}/\\

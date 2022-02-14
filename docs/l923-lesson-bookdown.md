@@ -44,7 +44,7 @@ The vowel carrying the primary stress, <-e-> in <-pest->, is lax, as per the ort
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{narrative} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@t.Iv}/}\\
 salubrious & /0100/ & /\textipa{s@."lu:b.ri.@s}/\\
@@ -94,7 +94,7 @@ monogamy & /0100/ & /\textipa{m@."n6g.@m.i}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{merry} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mer.i}/}\\
 gentle & /10/ & /\textipa{"dZent.@l}/\\
@@ -147,7 +147,7 @@ solemn & /10/ & /\textipa{"s6l.@m}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{august} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{O:."g2st}/}\\
 robust & /01/ & /\textipa{r@U."b2st}/\\
@@ -184,7 +184,7 @@ benign & /01/ & /\textipa{b@."naIn}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{massive} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae s.Iv}/}\\
 hostile & /10/ & /\textipa{"h6st.aI@l}/\\
@@ -227,7 +227,7 @@ mobile & /10/ & /\textipa{"m@Ub.aI@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{prostrate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6s.treIt}/}\\
 cognate & /10/ & /\textipa{"k6g.neIt}/\\
@@ -244,7 +244,7 @@ ingrate & /10/ & /\textipa{"In.greIt}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{immense} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{I."mens}/}\\
 correct & /01/ & /\textipa{k@."rekt}/\\
@@ -301,7 +301,7 @@ profane & /01/ & /\textipa{pr@."feIn}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{absent} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.s@nt}/}\\
 common & /10/ & /\textipa{"k6m.@n}/\\
@@ -363,7 +363,7 @@ Petit retour sur quelques suffixes encore non abordés en cours.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{donator} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{d@U."neIt.@}/}\\
 senator & /100/ & /\textipa{"sen.@t.@}/\\

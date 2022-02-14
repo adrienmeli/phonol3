@@ -11,7 +11,7 @@ Considérez les mots suivants :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{complement} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k6mp.li.m@nt}/}\\
 ornament & /100/ & /\textipa{"O:n.@.m@nt}/\\
@@ -52,7 +52,7 @@ Les verbes en <-ment> de plus de deux syllabes ont un schéma proparoxyton.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{animate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"\ae n.I.meIt}/}\\
 premeditate & /0100/ & /\textipa{pri:."med.I.teIt}/\\
@@ -81,7 +81,7 @@ saturate & /100/ & /\textipa{"s\ae tS.@.reIt}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{apostate} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."p6st.eIt}/}\\
 intestate & /010/ & /\textipa{In."test.eIt}/\\
@@ -98,7 +98,7 @@ consummate & /010/ & /\textipa{k@n."s2m.@t}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{democracy} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{di."m6k.r@s.i}/}\\
 delicacy & /1000/ & /\textipa{"del.Ik.@s.i}/\\
@@ -125,7 +125,7 @@ Mais pas "conspiracy",  "diplomacy", et "supremacy", qui ne dérivent pas de mot
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{diplomacy} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{di."pl@Um.@s.i}/}\\
 conspiracy & /0100/ & /\textipa{k@n."spIr.@s.i}/\\
@@ -171,7 +171,7 @@ Dans la liste de mots suivants, pouvez-vous :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{martini} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{mA:."ti:n.i}/}\\
 tomato & /010/ & /\textipa{t@."mA:t.@U}/\\
@@ -198,7 +198,7 @@ Attention aux mots suivants :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{recipe} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"res.@p.i}/}\\
 orchestra & /100/ & /\textipa{"O:k.Is.tr@}/\\
@@ -213,7 +213,7 @@ orchestra & /100/ & /\textipa{"O:k.Is.tr@}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{represent} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""rep.ri."zent}/}\\
 develop & /010/ & /\textipa{di."vel.@p}/\\
@@ -253,7 +253,7 @@ Considérez les verbes suivants :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{recognize} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"rek.@g.naIz}/}\\
 occupy & /100/ & /\textipa{"6k.ju.paI}/\\

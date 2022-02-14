@@ -249,7 +249,7 @@ Ces verbes ont en général un schéma paroxyton (/10/).
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{follow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f6l.@U}/}\\
 borrow & /10/ & /\textipa{"b6r.@U}/\\
@@ -283,7 +283,7 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{deny} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."naI}/}\\
 excel & /01/ & /\textipa{Ik."sel}/\\
@@ -351,7 +351,7 @@ refer & /01/ & /\textipa{ri."f3:}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{understand} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""2nd.@."st\ae nd}/}\\
 intervene & /201/ & /\textipa{""Int.@."vi:n}/\\
@@ -366,7 +366,7 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et s
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{edit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ed.It}/}\\
 enter & /10/ & /\textipa{"ent.@}/\\
