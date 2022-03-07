@@ -364,7 +364,7 @@ desire & /010/ & /\textipa{di."zaI.@}/\\
 \addlinespace
 \cellcolor{gray!6}{rebuke} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."bju:k}/}\\
 resort & /01/ & /\textipa{ri."zO:t}/\\
-\cellcolor{gray!6}{avail} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."veI@l}/}\\
+\cellcolor{gray!6}{avail} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."veIl}/}\\
 despair & /01/ & /\textipa{di."spe@}/\\
 \cellcolor{gray!6}{recall} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."kO:l}/}\\
 \addlinespace
@@ -455,10 +455,10 @@ compass & /10/ & /\textipa{"k2mp.@s}/\\
 invoice & /10/ & /\textipa{"In.vOIs}/\\
 \cellcolor{gray!6}{relish} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rel.IS}/}\\
 \addlinespace
-detail & /10/ & /\textipa{"di:.teI@l}/\\
+detail & /10/ & /\textipa{"di:.teIl}/\\
 \cellcolor{gray!6}{offer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6f.@}/}\\
 rescue & /10/ & /\textipa{"resk.ju:}/\\
-\cellcolor{gray!6}{retail} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ri:.teI@l}/}\\
+\cellcolor{gray!6}{retail} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ri:.teIl}/}\\
 offset & /10/ & /\textipa{"6f.set}/\\
 \addlinespace
 \cellcolor{gray!6}{revel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rev.@l}/}\\

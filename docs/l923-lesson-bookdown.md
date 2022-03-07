@@ -126,7 +126,7 @@ stubborn & /10/ & /\textipa{"st2b.@n}/\\
 timid & /10/ & /\textipa{"tIm.Id}/\\
 \cellcolor{gray!6}{tidy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"taId.i}/}\\
 \addlinespace
-female & /10/ & /\textipa{"fi:m.eI@l}/\\
+female & /10/ & /\textipa{"fi:m.eIl}/\\
 \cellcolor{gray!6}{rigid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rIdZ.Id}/}\\
 rapid & /10/ & /\textipa{"r\ae p.Id}/\\
 \cellcolor{gray!6}{savage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s\ae v.IdZ}/}\\
