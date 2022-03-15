@@ -7,16 +7,16 @@
 
 ### interpret  $\rightarrow$ interpretative
 
-* /\textipa{In."t3:p.rIt}/ $\rightarrow$ /\textipa{In."t3:p.rIt.@t.Iv}/
+* /ɪn.'tɜːp.rɪt/ $\rightarrow$ /ɪn.'tɜːp.rɪt.ət.ɪv/
 
 <-ative> is a neutral suffix when the root word is not a verb ending in <-ate>. 
 "Interpret" being stressed /010/, the stress pattern of "interpretative" is /01000/.
 
-Although Duchet specifies that in these cases, the stressed vowel is always lax (*cf.* "derivative, /\textipa{di."rIv.@t.Iv}/), it is not the case here: stressed <-e> follows the orthographic rule, as it is followed by <-rC> and is pronounced /\textipa{3:}/.
+Although Duchet specifies that in these cases, the stressed vowel is always lax (*cf.* "derivative, /di.'rɪv.ət.ɪv/), it is not the case here: stressed <-e> follows the orthographic rule, as it is followed by <-rC> and is pronounced /ɜː/.
 
 ### congratulate  $\rightarrow$ congratulatory
 
-* /\textipa{k@n."gr\ae tS.u.leIt}/  $\rightarrow$ /\textipa{k@n.""gr\ae tS.u."leIt.@r.i}/
+* /kən.'grætʃ.u.leɪt/  $\rightarrow$ /kən.ˌgrætʃ.u.'leɪt.ər.i/
 
 Words with <-ory> as a suffix have different stress patterns depending on their root words. "Congratulatory" 
 stems from "congratulate", *i.e* a 3-syllable verb in <-ate>. 
@@ -24,14 +24,14 @@ Two main variant stress patterns exist for this case: either the suffix is neutr
 "congratulatory" being stressed /010000/ (Duchet refers to this pattern as the "old" pattern); or
 it imposes a proparoxytone pattern, with the original primary stress of the root becoming secondary (020100).
 
-In the former case, the stressed vowel is lax  (/\textipa{\ae }/), although it is followed
+In the former case, the stressed vowel is lax  (/æ/), although it is followed
 by only one consonant. In the latter case, the stressed vowel is a diphthong, and thereby follows 
 the orthographic rule.
 
 
 ### tempest  $\rightarrow$ tempestuous
 
-* /\textipa{"temp.Ist}/  $\rightarrow$ /\textipa{tem."pes.tSu.@s}/
+* /'temp.ɪst/  $\rightarrow$ /tem.'pes.tʃu.əs/
 
 "Tempestuous" features a <-uous> suffix, *i.e.* a suffix abiding by the extended ION rule, which states
 that the syllable preceding the suffix carries the primary stress. "Tempestuous" is therefore 
@@ -41,48 +41,229 @@ The vowel carrying the primary stress, <-e-> in <-pest->, is lax, as per the ort
 
 ### Transcriptions
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{narrative} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@t.Iv}/}\\
-salubrious & /0100/ & /\textipa{s@."lu:b.ri.@s}/\\
-\cellcolor{gray!6}{complementary} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""k6mp.li."ment.@r.i}/}\\
-cryptographic & /2010/ & /\textipa{""krIpt.@."gr\ae f.Ik}/\\
-\cellcolor{gray!6}{negligible} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"neg.lIdZ.@b.@l}/}\\
-\addlinespace
-obligatory & /01000/ & /\textipa{@."blIg.@t.@r.i}/\\
-\cellcolor{gray!6}{phenomenon} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{f@."n6m.In.@n}/}\\
-hormonal & /010/ & /\textipa{hO:."m@Un.@l}/\\
-\cellcolor{gray!6}{economic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""i:k.@."n6m.Ik}/}\\
-advocacy & /1000/ & /\textipa{"\ae d.v@k.@s.i}/\\
-\addlinespace
-\cellcolor{gray!6}{pedestrian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{p@."des.tri.@n}/}\\
-generalize & /1000/ & /\textipa{"dZen.@r.@.laIz}/\\
-\cellcolor{gray!6}{authoritative} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{O:."T6r.It.@t.Iv}/}\\
-horrendous & /010/ & /\textipa{h6."rend.@s}/\\
-\cellcolor{gray!6}{taciturn} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"t\ae s.I.t3:n}/}\\
-\addlinespace
-regulatory & /20100/ & /\textipa{""reg.ju."leIt.@r.i}/\\
-\cellcolor{gray!6}{versatility} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""v3:s.@."tIl.@t.i}/}\\
-obstinate & /100/ & /\textipa{"6b.stIn.@t}/\\
-\cellcolor{gray!6}{diploma} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."pl@Um.@}/}\\
-gratuitous & /0100/ & /\textipa{gr@."tju:.It.@s}/\\
-\addlinespace
-\cellcolor{gray!6}{adequacy} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"\ae d.Ik.w@s.i}/}\\
-hypothesis & /0100/ & /\textipa{haI."p6T.@s.Is}/\\
-\cellcolor{gray!6}{syllabify} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{si."l\ae b.I.faI}/}\\
-incomprehensible & /020100/ & /\textipa{In.""k6mp.ri."hens.@b.@l}/\\
-\cellcolor{gray!6}{individualize} & \cellcolor{gray!6}{/201000/} & \cellcolor{gray!6}{/\textipa{""Ind.I."vIdZ.u.@.laIz}/}\\
-\addlinespace
-associative & /01000/ & /\textipa{@."s@US.i.@t.Iv}/\\
-\cellcolor{gray!6}{correspond} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""k6r.@."sp6nd}/}\\
-metabolic & /2010/ & /\textipa{""met.@."b6l.Ik}/\\
-\cellcolor{gray!6}{ancestral} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{\ae n."ses.tr@l}/}\\
-monogamy & /0100/ & /\textipa{m@."n6g.@m.i}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> narrative </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'nær.ət.ɪv/ </td>
+   <td style="text-align:left;"> /'ner.ət.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/narrative-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> salubrious </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /sə.'luːb.ri.əs/ </td>
+   <td style="text-align:left;"> salubrious </td>
+   <td style="text-align:left;"> ![](sounds/salubrious-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> complementary </td>
+   <td style="text-align:left;"> /20100/ </td>
+   <td style="text-align:left;"> /ˌkɒmp.li.'ment.ər.i/ </td>
+   <td style="text-align:left;"> complementary </td>
+   <td style="text-align:left;"> ![](sounds/complementary-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> cryptographic </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌkrɪpt.ə.'græf.ɪk/ </td>
+   <td style="text-align:left;"> cryptographic </td>
+   <td style="text-align:left;"> ![](sounds/cryptographic-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> negligible </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/negligible-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> obligatory </td>
+   <td style="text-align:left;"> /01000/ </td>
+   <td style="text-align:left;"> /ə.'blɪg.ət.ər.i/ </td>
+   <td style="text-align:left;"> /ə.'blɪg.ət.ˌɔːr.i/ </td>
+   <td style="text-align:left;"> ![](sounds/obligatory-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> phenomenon </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /fə.'nɒm.ɪn.ən/ </td>
+   <td style="text-align:left;"> /fə.'nɑːm.ɪn.ˌɑːn/ </td>
+   <td style="text-align:left;"> ![](sounds/phenomenon-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hormonal </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /hɔː.'məʊn.əl/ </td>
+   <td style="text-align:left;"> /'hɔː.ˌmoʊn.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/hormonal-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> economic </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌiːk.ə.'nɒm.ɪk/ </td>
+   <td style="text-align:left;"> /ˌek.ə.'nɑːm.ɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/economic-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> advocacy </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'æd.vək.əs.i/ </td>
+   <td style="text-align:left;"> /'æd.vək.əs.i/ </td>
+   <td style="text-align:left;"> ![](sounds/advocacy-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pedestrian </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /pə.'des.tri.ən/ </td>
+   <td style="text-align:left;"> /pə.'des.tri.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/pedestrian-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> generalize </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'dʒen.ər.ə.laɪz/ </td>
+   <td style="text-align:left;"> /'dʒen.ər.ə.ˌlaɪz/ </td>
+   <td style="text-align:left;"> ![](sounds/generalize-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> authoritative </td>
+   <td style="text-align:left;"> /01000/ </td>
+   <td style="text-align:left;"> /ɔː.'θɒr.ɪt.ət.ɪv/ </td>
+   <td style="text-align:left;"> /ɔː.'θɔːr.ɪt.ˌeɪt.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/authoritative-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> horrendous </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /hɒ.'rend.əs/ </td>
+   <td style="text-align:left;"> /ˌhɔː.'rend.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/horrendous-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> taciturn </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> regulatory </td>
+   <td style="text-align:left;"> /20100/ </td>
+   <td style="text-align:left;"> /ˌreg.ju.'leɪt.ər.i/ </td>
+   <td style="text-align:left;"> /'reg.ju.leɪt.ˌɔːr.i/ </td>
+   <td style="text-align:left;"> ![](sounds/regulatory-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> versatility </td>
+   <td style="text-align:left;"> /20100/ </td>
+   <td style="text-align:left;"> /ˌvɜːs.ə.'tɪl.ət.i/ </td>
+   <td style="text-align:left;"> /ˌv3r ːs.ə.'tɪl.ət.i/ </td>
+   <td style="text-align:left;"> ![](sounds/versatility-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> obstinate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɒb.stɪn.ət/ </td>
+   <td style="text-align:left;"> /'ɑːb.stɪn.ət/ </td>
+   <td style="text-align:left;"> ![](sounds/obstinate-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> diploma </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /di.'pləʊm.ə/ </td>
+   <td style="text-align:left;"> /di.'ploʊm.ə/ </td>
+   <td style="text-align:left;"> ![](sounds/diploma-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> gratuitous </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /grə.'tjuː.ɪt.əs/ </td>
+   <td style="text-align:left;"> /grə.'tjuː.ɪt.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/gratuitous-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> adequacy </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'æd.ɪk.wəs.i/ </td>
+   <td style="text-align:left;"> /'æd.ɪk.wəs.i/ </td>
+   <td style="text-align:left;"> ![](sounds/adequacy-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hypothesis </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /haɪ.'pɒθ.əs.ɪs/ </td>
+   <td style="text-align:left;"> /haɪ.'pɑːθ.əs.ɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/hypothesis-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> syllabify </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /si.'læb.ɪ.faɪ/ </td>
+   <td style="text-align:left;"> syllabify </td>
+   <td style="text-align:left;"> ![](sounds/syllabify-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> incomprehensible </td>
+   <td style="text-align:left;"> /020100/ </td>
+   <td style="text-align:left;"> /ɪn.ˌkɒmp.ri.'hens.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌ***ɪH***n.ˌk***ɪH***mp.ri.'hens.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/incomprehensible-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> individualize </td>
+   <td style="text-align:left;"> /201000/ </td>
+   <td style="text-align:left;"> /ˌɪnd.ɪ.'vɪdʒ.u.ə.laɪz/ </td>
+   <td style="text-align:left;"> /ˌɪnd.ɪ.'vɪdʒ.u.ə.laɪz/ </td>
+   <td style="text-align:left;"> ![](sounds/individualize-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> associative </td>
+   <td style="text-align:left;"> /01000/ </td>
+   <td style="text-align:left;"> /ə.'səʊʃ.i.ət.ɪv/ </td>
+   <td style="text-align:left;"> associative </td>
+   <td style="text-align:left;"> ![](sounds/associative-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> correspond </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌkɒr.ə.'spɒnd/ </td>
+   <td style="text-align:left;"> /ˌkɔːr.ə.'spɑːnd/ </td>
+   <td style="text-align:left;"> ![](sounds/correspond-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> metabolic </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌmet.ə.'bɒl.ɪk/ </td>
+   <td style="text-align:left;"> /ˌmet.ə.'bɑːl.ɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/metabolic-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ancestral </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /æn.'ses.trəl/ </td>
+   <td style="text-align:left;"> /æn.'ses.trəl/ </td>
+   <td style="text-align:left;"> ![](sounds/ancestral-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> monogamy </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /mə.'nɒg.əm.i/ </td>
+   <td style="text-align:left;"> /mə.'nɑːg.əm.i/ </td>
+   <td style="text-align:left;"> ![](sounds/monogamy-2.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Les adjectifs dissyllabiques
@@ -91,50 +272,236 @@ monogamy & /0100/ & /\textipa{m@."n6g.@m.i}/\\
 
 ### Les non-préfixés : /10/
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{merry} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mer.i}/}\\
-gentle & /10/ & /\textipa{"dZent.@l}/\\
-\cellcolor{gray!6}{shallow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"S\ae l.@U}/}\\
-eager & /10/ & /\textipa{"i:g.@}/\\
-\cellcolor{gray!6}{silky} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sIlk.i}/}\\
-\addlinespace
-simple & /10/ & /\textipa{"sImp.@l}/\\
-\cellcolor{gray!6}{yellow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"jel.@U}/}\\
-tender & /10/ & /\textipa{"tend.@}/\\
-\cellcolor{gray!6}{busy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"bIz.i}/}\\
-sudden & /10/ & /\textipa{"s2d.@n}/\\
-\addlinespace
-\cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@U}/}\\
-clever & /10/ & /\textipa{"klev.@}/\\
-\cellcolor{gray!6}{rugged} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"r2g.Id}/}\\
-sullen & /10/ & /\textipa{"s2l.@n}/\\
-\cellcolor{gray!6}{candid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae nd.Id}/}\\
-\addlinespace
-proper & /10/ & /\textipa{"pr6p.@}/\\
-\cellcolor{gray!6}{modest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m6d.Ist}/}\\
-barren & /10/ & /\textipa{"b\ae r.@n}/\\
-\cellcolor{gray!6}{lucid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lu:s.Id}/}\\
-scarlet & /10/ & /\textipa{"skA:l.@t}/\\
-\addlinespace
-\cellcolor{gray!6}{honest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6n.Ist}/}\\
-stubborn & /10/ & /\textipa{"st2b.@n}/\\
-\cellcolor{gray!6}{vivid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vIv.Id}/}\\
-timid & /10/ & /\textipa{"tIm.Id}/\\
-\cellcolor{gray!6}{tidy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"taId.i}/}\\
-\addlinespace
-female & /10/ & /\textipa{"fi:m.eIl}/\\
-\cellcolor{gray!6}{rigid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rIdZ.Id}/}\\
-rapid & /10/ & /\textipa{"r\ae p.Id}/\\
-\cellcolor{gray!6}{savage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s\ae v.IdZ}/}\\
-solemn & /10/ & /\textipa{"s6l.@m}/\\
-\addlinespace
-\cellcolor{gray!6}{dismal} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIz.m@l}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> merry </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mer.i/ </td>
+   <td style="text-align:left;"> /'mer.i/ </td>
+   <td style="text-align:left;"> ![](sounds/merry-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> gentle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dʒent.əl/ </td>
+   <td style="text-align:left;"> /'dʒent.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/gentle-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shallow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ʃæl.əʊ/ </td>
+   <td style="text-align:left;"> /'ʃæl.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/shallow-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> eager </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'iːg.ə/ </td>
+   <td style="text-align:left;"> /'iːg.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/eager-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> silky </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sɪlk.i/ </td>
+   <td style="text-align:left;"> /'sɪlk.i/ </td>
+   <td style="text-align:left;"> ![](sounds/silky-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> simple </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sɪmp.əl/ </td>
+   <td style="text-align:left;"> /'sɪmp.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/simple-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> yellow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'jel.əʊ/ </td>
+   <td style="text-align:left;"> /'jel.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/yellow-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> tender </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'tend.ə/ </td>
+   <td style="text-align:left;"> /'tend.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/tender-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> busy </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'bɪz.i/ </td>
+   <td style="text-align:left;"> /'bɪz.i/ </td>
+   <td style="text-align:left;"> ![](sounds/busy-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sudden </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sʌd.ən/ </td>
+   <td style="text-align:left;"> /'sʌd.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/sudden-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> narrow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'nær.əʊ/ </td>
+   <td style="text-align:left;"> /'ner.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/narrow-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> clever </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'klev.ə/ </td>
+   <td style="text-align:left;"> /'klev.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/clever-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rugged </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'rʌg.ɪd/ </td>
+   <td style="text-align:left;"> /'rʌg.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/rugged-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sullen </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sʌl.ən/ </td>
+   <td style="text-align:left;"> /'sʌl.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/sullen-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> candid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kænd.ɪd/ </td>
+   <td style="text-align:left;"> /'kænd.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/candid-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> proper </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prɒp.ə/ </td>
+   <td style="text-align:left;"> /'prɑːp.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/proper-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> modest </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mɒd.ɪst/ </td>
+   <td style="text-align:left;"> /'mɑːd.ɪst/ </td>
+   <td style="text-align:left;"> ![](sounds/modest-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> barren </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'bær.ən/ </td>
+   <td style="text-align:left;"> /'bær.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/barren-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> lucid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'luːs.ɪd/ </td>
+   <td style="text-align:left;"> /'luːs.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/lucid-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> scarlet </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'skɑːl.ət/ </td>
+   <td style="text-align:left;"> /'skɑːl.ət/ </td>
+   <td style="text-align:left;"> ![](sounds/scarlet-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> honest </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɒn.ɪst/ </td>
+   <td style="text-align:left;"> /'ɑːn.ɪst/ </td>
+   <td style="text-align:left;"> ![](sounds/honest-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> stubborn </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'stʌb.ən/ </td>
+   <td style="text-align:left;"> /'stʌb.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/stubborn-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> vivid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'vɪv.ɪd/ </td>
+   <td style="text-align:left;"> /'vɪv.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/vivid-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> timid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'tɪm.ɪd/ </td>
+   <td style="text-align:left;"> /'tɪm.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/timid-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> tidy </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'taɪd.i/ </td>
+   <td style="text-align:left;"> /'taɪd.i/ </td>
+   <td style="text-align:left;"> ![](sounds/tidy-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> female </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'fiːm.eɪl/ </td>
+   <td style="text-align:left;"> /'fiːm.ˌeɪl/ </td>
+   <td style="text-align:left;"> ![](sounds/female-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rigid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'rɪdʒ.ɪd/ </td>
+   <td style="text-align:left;"> /'rɪdʒ.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/rigid-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rapid </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ræp.ɪd/ </td>
+   <td style="text-align:left;"> /'ræp.ɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/rapid-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> savage </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sæv.ɪdʒ/ </td>
+   <td style="text-align:left;"> /'sæv.ɪdʒ/ </td>
+   <td style="text-align:left;"> ![](sounds/savage-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> solemn </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sɒl.əm/ </td>
+   <td style="text-align:left;"> /'sɑːl.əm/ </td>
+   <td style="text-align:left;"> ![](sounds/solemn-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> dismal </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dɪz.məl/ </td>
+   <td style="text-align:left;"> /'dɪz.məl/ </td>
+   <td style="text-align:left;"> ![](sounds/dismal-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 **Exceptions en /01/**
 
@@ -144,188 +511,847 @@ solemn & /10/ & /\textipa{"s6l.@m}/\\
 
 * adjectifs en < -esque > : "*grotesque*", "*burlesque*"
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{august} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{O:."g2st}/}\\
-robust & /01/ & /\textipa{r@U."b2st}/\\
-\cellcolor{gray!6}{sincere} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{sIn."sI@}/}\\
-austere & /01/ & /\textipa{O:."stI@}/\\
-\cellcolor{gray!6}{severe} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{si."vI@}/}\\
-\addlinespace
-mature & /01/ & /\textipa{m@."tSU@}/\\
-\cellcolor{gray!6}{secure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{si."kjU@}/}\\
-morose & /01/ & /\textipa{m@."r@Us}/\\
-\cellcolor{gray!6}{jocose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dZ@U."k@Us}/}\\
-verbose & /01/ & /\textipa{v3:."b@Us}/\\
-\addlinespace
-\cellcolor{gray!6}{polite} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{p@."laIt}/}\\
-minute & /10/ & /\textipa{"mIn.It}/\\
-\cellcolor{gray!6}{astute} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."stju:t}/}\\
-mundane & /01/ & /\textipa{m2n."deIn}/\\
-\cellcolor{gray!6}{humane} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{hju."meIn}/}\\
-\addlinespace
-urbane & /01/ & /\textipa{3:."beIn}/\\
-\cellcolor{gray!6}{germane} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dZ3:."meIn}/}\\
-serene & /01/ & /\textipa{s@."ri:n}/\\
-\cellcolor{gray!6}{select} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."lekt}/}\\
-supreme & /01/ & /\textipa{su."pri:m}/\\
-\addlinespace
-\cellcolor{gray!6}{banal} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{b@."nA:l}/}\\
-benign & /01/ & /\textipa{b@."naIn}/\\
-\cellcolor{gray!6}{malign} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{m@."laIn}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> august </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɔː.'gʌst/ </td>
+   <td style="text-align:left;"> /'ɑː.gʌst/ </td>
+   <td style="text-align:left;"> ![](sounds/august-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> robust </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /rəʊ.'bʌst/ </td>
+   <td style="text-align:left;"> /rəʊ.'bʌst/ </td>
+   <td style="text-align:left;"> ![](sounds/robust-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sincere </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sɪn.'sɪə/ </td>
+   <td style="text-align:left;"> /ˌsɪn.'sɪr/ </td>
+   <td style="text-align:left;"> ![](sounds/sincere-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> austere </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɔː.'stɪə/ </td>
+   <td style="text-align:left;"> /ɔː.'stɪr/ </td>
+   <td style="text-align:left;"> ![](sounds/austere-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> severe </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /si.'vɪə/ </td>
+   <td style="text-align:left;"> /si.'vɪr/ </td>
+   <td style="text-align:left;"> ![](sounds/severe-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mature </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /mə.'tʃʊə/ </td>
+   <td style="text-align:left;"> /mə.'tʃʊr/ </td>
+   <td style="text-align:left;"> ![](sounds/mature-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> secure </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /si.'kjʊə/ </td>
+   <td style="text-align:left;"> /si.'kjʊr/ </td>
+   <td style="text-align:left;"> ![](sounds/secure-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> morose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /mə.'rəʊs/ </td>
+   <td style="text-align:left;"> /mə.'roʊs/ </td>
+   <td style="text-align:left;"> ![](sounds/morose-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jocose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /dʒəʊ.'kəʊs/ </td>
+   <td style="text-align:left;"> jocose </td>
+   <td style="text-align:left;"> ![](sounds/jocose-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> verbose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /vɜː.'bəʊs/ </td>
+   <td style="text-align:left;"> verbose </td>
+   <td style="text-align:left;"> ![](sounds/verbose-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> polite </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /pə.'laɪt/ </td>
+   <td style="text-align:left;"> /pə.'laɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/polite-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> minute </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mɪn.ɪt/ </td>
+   <td style="text-align:left;"> /'mɪn.ɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/minute-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> astute </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'stjuːt/ </td>
+   <td style="text-align:left;"> /ə.'stjuːt/ </td>
+   <td style="text-align:left;"> ![](sounds/astute-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mundane </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /mʌn.'deɪn/ </td>
+   <td style="text-align:left;"> /mʌn.'deɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/mundane-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> humane </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /hju.'meɪn/ </td>
+   <td style="text-align:left;"> /hju.'meɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/humane-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> urbane </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɜː.'beɪn/ </td>
+   <td style="text-align:left;"> /ɜː.'beɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/urbane-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> germane </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /dʒɜː.'meɪn/ </td>
+   <td style="text-align:left;"> /dʒɜː.'meɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/germane-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> serene </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sə.'riːn/ </td>
+   <td style="text-align:left;"> /sə.'riːn/ </td>
+   <td style="text-align:left;"> ![](sounds/serene-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> select </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sə.'lekt/ </td>
+   <td style="text-align:left;"> /sə.'lekt/ </td>
+   <td style="text-align:left;"> ![](sounds/select-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> supreme </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> ![](sounds/supreme-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> banal </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bə.'nɑːl/ </td>
+   <td style="text-align:left;"> /bə.'nɑːl/ </td>
+   <td style="text-align:left;"> ![](sounds/banal-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> benign </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bə.'naɪn/ </td>
+   <td style="text-align:left;"> /bə.'naɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/benign-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> malign </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /mə.'laɪn/ </td>
+   <td style="text-align:left;"> /mə.'laɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/malign-9.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Les adjectifs en < -iXe > : /10/
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{massive} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae s.Iv}/}\\
-hostile & /10/ & /\textipa{"h6st.aI@l}/\\
-\cellcolor{gray!6}{canine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"keIn.aIn}/}\\
-plaintive & /10/ & /\textipa{"pleInt.Iv}/\\
-\cellcolor{gray!6}{agile} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae dZ.aI@l}/}\\
-\addlinespace
-feline & /10/ & /\textipa{"fi:l.aIn}/\\
-\cellcolor{gray!6}{captive} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae pt.Iv}/}\\
-servile & /10/ & /\textipa{"s3:v.aI@l}/\\
-\cellcolor{gray!6}{ovine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"@Uv.aIn}/}\\
-active & /10/ & /\textipa{"\ae kt.Iv}/\\
-\addlinespace
-\cellcolor{gray!6}{virile} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vIr.aI@l}/}\\
-porcine & /10/ & /\textipa{"pO:s.aIn}/\\
-\cellcolor{gray!6}{native} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"neIt.Iv}/}\\
-ductile & /10/ & /\textipa{"d2kt.aI@l}/\\
-\cellcolor{gray!6}{equine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ek.waIn}/}\\
-\addlinespace
-pensive & /10/ & /\textipa{"pens.Iv}/\\
-\cellcolor{gray!6}{febrile} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"fi:b.raI@l}/}\\
-saline & /10/ & /\textipa{"seIl.aIn}/\\
-\cellcolor{gray!6}{plosive} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pl@Us.Iv}/}\\
-mobile & /10/ & /\textipa{"m@Ub.aI@l}/\\
-\addlinespace
-\cellcolor{gray!6}{pristine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"prIst.i:n}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> massive </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mæs.ɪv/ </td>
+   <td style="text-align:left;"> /'mæs.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/massive-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hostile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'hɒst.aɪəl/ </td>
+   <td style="text-align:left;"> /'hɑːst.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/hostile-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> canine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'keɪn.aɪn/ </td>
+   <td style="text-align:left;"> /'keɪn.ˌaɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/canine-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> plaintive </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pleɪnt.ɪv/ </td>
+   <td style="text-align:left;"> /'pleɪnt.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/plaintive-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> agile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ædʒ.aɪəl/ </td>
+   <td style="text-align:left;"> /'ædʒ.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/agile-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> feline </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'fiːl.aɪn/ </td>
+   <td style="text-align:left;"> /'fiːl.ˌaɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/feline-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> captive </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kæpt.ɪv/ </td>
+   <td style="text-align:left;"> /'kæpt.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/captive-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> servile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sɜːv.aɪəl/ </td>
+   <td style="text-align:left;"> /'s3r ːv.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/servile-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ovine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'əʊv.aɪn/ </td>
+   <td style="text-align:left;"> ovine </td>
+   <td style="text-align:left;"> ![](sounds/ovine-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> active </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ækt.ɪv/ </td>
+   <td style="text-align:left;"> /'ækt.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/active-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> virile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'vɪr.aɪəl/ </td>
+   <td style="text-align:left;"> /'vɪr.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/virile-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> porcine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pɔːs.aɪn/ </td>
+   <td style="text-align:left;"> porcine </td>
+   <td style="text-align:left;"> ![](sounds/porcine-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> native </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'neɪt.ɪv/ </td>
+   <td style="text-align:left;"> /'neɪt.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/alternative-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ductile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dʌkt.aɪəl/ </td>
+   <td style="text-align:left;"> /'dʌkt.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/ductile-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> equine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ek.waɪn/ </td>
+   <td style="text-align:left;"> /'iːk.ˌwaɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/equine-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pensive </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pens.ɪv/ </td>
+   <td style="text-align:left;"> /'pens.ɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/pensive-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> febrile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'fiːb.raɪəl/ </td>
+   <td style="text-align:left;"> febrile </td>
+   <td style="text-align:left;"> ![](sounds/febrile-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> saline </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'seɪl.aɪn/ </td>
+   <td style="text-align:left;"> /seɪl.'iːn/ </td>
+   <td style="text-align:left;"> ![](sounds/saline-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> plosive </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pləʊs.ɪv/ </td>
+   <td style="text-align:left;"> plosive </td>
+   <td style="text-align:left;"> ![](sounds/plosive-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mobile </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'məʊb.aɪəl/ </td>
+   <td style="text-align:left;"> /'moʊb.aɪəl/ </td>
+   <td style="text-align:left;"> ![](sounds/mobile-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pristine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prɪst.iːn/ </td>
+   <td style="text-align:left;"> /'prɪst.iːn/ </td>
+   <td style="text-align:left;"> ![](sounds/pristine-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 **Exceptions**
 
 * "*naive*", "*marine*", "*divine*", "*supine*"
 
+--
 
-
-* /\textipa{naI."i:v}/, /\textipa{m@."ri:n}/, /\textipa{di."vaIn}/, /\textipa{"su:p.aIn}/
+* /naɪ.'iːv/, /mə.'riːn/, /di.'vaɪn/, /'suːp.aɪn/
 
 ### Les adjectifs en < -ate > : /10/
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{prostrate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6s.treIt}/}\\
-cognate & /10/ & /\textipa{"k6g.neIt}/\\
-\cellcolor{gray!6}{palmate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae lm.eIt}/}\\
-private & /10/ & /\textipa{"praIv.@t}/\\
-\cellcolor{gray!6}{separate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sep.@r.@t}/}\\
-\addlinespace
-ingrate & /10/ & /\textipa{"In.greIt}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> prostrate </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prɒs.treɪt/ </td>
+   <td style="text-align:left;"> /'prɑːs.treɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/prostrate-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> cognate </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒg.neɪt/ </td>
+   <td style="text-align:left;"> cognate </td>
+   <td style="text-align:left;"> ![](sounds/cognate-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> palmate </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pælm.eɪt/ </td>
+   <td style="text-align:left;"> palmate </td>
+   <td style="text-align:left;"> ![](sounds/palmate-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> private </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'praɪv.ət/ </td>
+   <td style="text-align:left;"> /'praɪv.ət/ </td>
+   <td style="text-align:left;"> ![](sounds/private-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> separate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'sep.ər.ət/ </td>
+   <td style="text-align:left;"> /'sep.ər.ˌeɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/separate-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ingrate </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɪn.greɪt/ </td>
+   <td style="text-align:left;"> ingrate </td>
+   <td style="text-align:left;"> ![](sounds/ingrate-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Les adjectifs préfixés : /01/
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{immense} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{I."mens}/}\\
-correct & /01/ & /\textipa{k@."rekt}/\\
-\cellcolor{gray!6}{absurd} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@b."s3:d}/}\\
-precise & /01/ & /\textipa{pri."saIs}/\\
-\cellcolor{gray!6}{intense} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."tens}/}\\
-\addlinespace
-exact & /01/ & /\textipa{Ig."z\ae kt}/\\
-\cellcolor{gray!6}{superb} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{su."p3:b}/}\\
-concise & /01/ & /\textipa{k@n."saIs}/\\
-\cellcolor{gray!6}{content} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."tent}/}\\
-adept & /10/ & /\textipa{"\ae d.ept}/\\
-\addlinespace
-\cellcolor{gray!6}{profound} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{pr@."faUnd}/}\\
-obscene & /01/ & /\textipa{@b."si:n}/\\
-\cellcolor{gray!6}{extinct} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Ik."stINkt}/}\\
-compact & /01/ & /\textipa{k@m."p\ae kt}/\\
-\cellcolor{gray!6}{devout} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."vaUt}/}\\
-\addlinespace
-immune & /01/ & /\textipa{I."mju:n}/\\
-\cellcolor{gray!6}{distinct} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."stINkt}/}\\
-intact & /01/ & /\textipa{In."t\ae kt}/\\
-\cellcolor{gray!6}{devoid} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."vOId}/}\\
-obscure & /01/ & /\textipa{@b."skjU@}/\\
-\addlinespace
-\cellcolor{gray!6}{succinct} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@k."sINkt}/}\\
-elect & /01/ & /\textipa{I."lekt}/\\
-\cellcolor{gray!6}{profuse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{pr@."fju:s}/}\\
-remote & /01/ & /\textipa{ri."m@Ut}/\\
-\cellcolor{gray!6}{perverse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{p@."v3:s}/}\\
-\addlinespace
-direct & /01/ & /\textipa{d@."rekt}/\\
-\cellcolor{gray!6}{obtuse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@b."tju:s}/}\\
-complete & /01/ & /\textipa{k@m."pli:t}/\\
-\cellcolor{gray!6}{reverse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."v3:s}/}\\
-abrupt & /01/ & /\textipa{@."br2pt}/\\
-\addlinespace
-\cellcolor{gray!6}{extant} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ek."st\ae nt}/}\\
-replete & /01/ & /\textipa{ri."pli:t}/\\
-\cellcolor{gray!6}{diverse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{daI."v3:s}/}\\
-exempt & /01/ & /\textipa{Ig."zempt}/\\
-\cellcolor{gray!6}{adroit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."drOIt}/}\\
-\addlinespace
-sublime & /01/ & /\textipa{s@."blaIm}/\\
-\cellcolor{gray!6}{alert} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."l3:t}/}\\
-occult & /10/ & /\textipa{"6k.2lt}/\\
-\cellcolor{gray!6}{overt} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@U."v3:t}/}\\
-profane & /01/ & /\textipa{pr@."feIn}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> immense </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪ.'mens/ </td>
+   <td style="text-align:left;"> /ˌɪ.'mens/ </td>
+   <td style="text-align:left;"> ![](sounds/immense-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> correct </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kə.'rekt/ </td>
+   <td style="text-align:left;"> /kə.'rekt/ </td>
+   <td style="text-align:left;"> ![](sounds/correct-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> absurd </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əb.'sɜːd/ </td>
+   <td style="text-align:left;"> /əb.'s3r ːd/ </td>
+   <td style="text-align:left;"> ![](sounds/absurd-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> precise </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /pri.'saɪs/ </td>
+   <td style="text-align:left;"> /pri.'saɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/precise-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> intense </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪn.'tens/ </td>
+   <td style="text-align:left;"> /ˌɪn.'tens/ </td>
+   <td style="text-align:left;"> ![](sounds/intense-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> exact </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪg.'zækt/ </td>
+   <td style="text-align:left;"> /ɪg.'zækt/ </td>
+   <td style="text-align:left;"> ![](sounds/exact-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> superb </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /su.'pɜːb/ </td>
+   <td style="text-align:left;"> /su.'p3r ːb/ </td>
+   <td style="text-align:left;"> ![](sounds/superb-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> concise </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kən.'saɪs/ </td>
+   <td style="text-align:left;"> /kən.'saɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/concise-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> content </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kən.'tent/ </td>
+   <td style="text-align:left;"> /'kɑːn.tent/ </td>
+   <td style="text-align:left;"> ![](sounds/content-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> adept </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'æd.ept/ </td>
+   <td style="text-align:left;"> /æd.'ept/ </td>
+   <td style="text-align:left;"> ![](sounds/adept-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> profound </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /prə.'faʊnd/ </td>
+   <td style="text-align:left;"> /prə.'faʊnd/ </td>
+   <td style="text-align:left;"> ![](sounds/profound-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> obscene </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əb.'siːn/ </td>
+   <td style="text-align:left;"> /əb.'siːn/ </td>
+   <td style="text-align:left;"> ![](sounds/obscene-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> extinct </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪk.'stɪŋkt/ </td>
+   <td style="text-align:left;"> /ɪk.'stɪŋkt/ </td>
+   <td style="text-align:left;"> ![](sounds/extinct-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> compact </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kəm.'pækt/ </td>
+   <td style="text-align:left;"> /'kɑːm.pækt/ </td>
+   <td style="text-align:left;"> ![](sounds/compact-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> devout </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'vaʊt/ </td>
+   <td style="text-align:left;"> /di.'vaʊt/ </td>
+   <td style="text-align:left;"> ![](sounds/devout-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> immune </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪ.'mjuːn/ </td>
+   <td style="text-align:left;"> /ˌɪ.'mjuːn/ </td>
+   <td style="text-align:left;"> ![](sounds/immune-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> distinct </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'stɪŋkt/ </td>
+   <td style="text-align:left;"> /ˌdɪ.'stɪŋkt/ </td>
+   <td style="text-align:left;"> ![](sounds/distinct-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> intact </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪn.'tækt/ </td>
+   <td style="text-align:left;"> /ˌɪn.'tækt/ </td>
+   <td style="text-align:left;"> ![](sounds/intact-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> devoid </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'vɔɪd/ </td>
+   <td style="text-align:left;"> /di.'vɔɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/devoid-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> obscure </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əb.'skjʊə/ </td>
+   <td style="text-align:left;"> /əb.'skjʊr/ </td>
+   <td style="text-align:left;"> ![](sounds/obscure-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> succinct </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sək.'sɪŋkt/ </td>
+   <td style="text-align:left;"> /sək.'sɪŋkt/ </td>
+   <td style="text-align:left;"> ![](sounds/succinct-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> elect </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪ.'lekt/ </td>
+   <td style="text-align:left;"> /ɪ.'lekt/ </td>
+   <td style="text-align:left;"> ![](sounds/elect-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> profuse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /prə.'fjuːs/ </td>
+   <td style="text-align:left;"> /prə.'fjuːs/ </td>
+   <td style="text-align:left;"> ![](sounds/profuse-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> remote </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'məʊt/ </td>
+   <td style="text-align:left;"> /ri.'moʊt/ </td>
+   <td style="text-align:left;"> ![](sounds/remote-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> perverse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /pə.'vɜːs/ </td>
+   <td style="text-align:left;"> /pə.'v3r ːs/ </td>
+   <td style="text-align:left;"> ![](sounds/perverse-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> direct </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /də.'rekt/ </td>
+   <td style="text-align:left;"> /də.'rekt/ </td>
+   <td style="text-align:left;"> ![](sounds/direct-12.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> obtuse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əb.'tjuːs/ </td>
+   <td style="text-align:left;"> /əb.'tjuːs/ </td>
+   <td style="text-align:left;"> ![](sounds/obtuse-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> complete </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kəm.'pliːt/ </td>
+   <td style="text-align:left;"> /kəm.'pliːt/ </td>
+   <td style="text-align:left;"> ![](sounds/complete-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> reverse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'vɜːs/ </td>
+   <td style="text-align:left;"> /ri.'v3r ːs/ </td>
+   <td style="text-align:left;"> ![](sounds/reverse-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> abrupt </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'brʌpt/ </td>
+   <td style="text-align:left;"> /ə.'brʌpt/ </td>
+   <td style="text-align:left;"> ![](sounds/abrupt-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> extant </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ek.'stænt/ </td>
+   <td style="text-align:left;"> /'ek.stænt/ </td>
+   <td style="text-align:left;"> ![](sounds/extant-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> replete </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'pliːt/ </td>
+   <td style="text-align:left;"> /ri.'pliːt/ </td>
+   <td style="text-align:left;"> ![](sounds/replete-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> diverse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /daɪ.'vɜːs/ </td>
+   <td style="text-align:left;"> /daɪ.'v3r ːs/ </td>
+   <td style="text-align:left;"> ![](sounds/diverse-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> exempt </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪg.'zempt/ </td>
+   <td style="text-align:left;"> /ɪg.'zempt/ </td>
+   <td style="text-align:left;"> ![](sounds/exempt-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> adroit </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'drɔɪt/ </td>
+   <td style="text-align:left;"> /ə.'drɔɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/adroit-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sublime </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sə.'blaɪm/ </td>
+   <td style="text-align:left;"> /sə.'blaɪm/ </td>
+   <td style="text-align:left;"> ![](sounds/sublime-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> alert </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'lɜːt/ </td>
+   <td style="text-align:left;"> /ə.'l3r ːt/ </td>
+   <td style="text-align:left;"> ![](sounds/alert-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> occult </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɒk.ʌlt/ </td>
+   <td style="text-align:left;"> /ɒk.'ʌlt/ </td>
+   <td style="text-align:left;"> ![](sounds/occult-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> overt </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əʊ.'vɜːt/ </td>
+   <td style="text-align:left;"> /əʊ.'v3r ːt/ </td>
+   <td style="text-align:left;"> ![](sounds/overt-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> profane </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /prə.'feɪn/ </td>
+   <td style="text-align:left;"> /prə.'feɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/profane-2.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 **Exceptions**
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{absent} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.s@nt}/}\\
-common & /10/ & /\textipa{"k6m.@n}/\\
-\cellcolor{gray!6}{covert} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2v.@t}/}\\
-abstract & /10/ & /\textipa{"\ae b.str\ae kt}/\\
-\cellcolor{gray!6}{complex} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6m.pleks}/}\\
-\addlinespace
-expert & /10/ & /\textipa{"eks.p3:t}/\\
-\cellcolor{gray!6}{outright} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"aUt.raIt}/}\\
-compound & /01/ & /\textipa{k@m."paUnd}/\\
-\cellcolor{gray!6}{oblong} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6b.l6N}/}\\
-instant & /10/ & /\textipa{"Inst.@nt}/\\
-\addlinespace
-\cellcolor{gray!6}{perfect} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p3:f.Ikt}/}\\
-concrete & /10/ & /\textipa{"k6N.kri:t}/\\
-\cellcolor{gray!6}{present} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"prez.@nt}/}\\
-distant & /10/ & /\textipa{"dIst.@nt}/\\
-\cellcolor{gray!6}{bygone} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"baI.g6n}/}\\
-\addlinespace
-constant & /10/ & /\textipa{"k6nst.@nt}/\\
-\cellcolor{gray!6}{subject} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2b.dZekt}/}\\
-prolix & /10/ & /\textipa{"pr@U.lIks}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> absent </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'æb.sənt/ </td>
+   <td style="text-align:left;"> /'æb.sənt/ </td>
+   <td style="text-align:left;"> ![](sounds/absent-12.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> common </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒm.ən/ </td>
+   <td style="text-align:left;"> /'kɑːm.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/common-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> covert </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kʌv.ət/ </td>
+   <td style="text-align:left;"> /'koʊv.ət/ </td>
+   <td style="text-align:left;"> ![](sounds/covert-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> abstract </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'æb.strækt/ </td>
+   <td style="text-align:left;"> /æb.'strækt/ </td>
+   <td style="text-align:left;"> ![](sounds/abstract-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> complex </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒm.pleks/ </td>
+   <td style="text-align:left;"> /'kɑːm.pleks/ </td>
+   <td style="text-align:left;"> ![](sounds/complex-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> expert </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'eks.pɜːt/ </td>
+   <td style="text-align:left;"> /'eks.pɜːt/ </td>
+   <td style="text-align:left;"> ![](sounds/expert-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> outright </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'aʊt.raɪt/ </td>
+   <td style="text-align:left;"> /'***ɑW***t.'r***ɑW***t/ </td>
+   <td style="text-align:left;"> ![](sounds/outright-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> compound </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kəm.'paʊnd/ </td>
+   <td style="text-align:left;"> /'kɑːm.paʊnd/ </td>
+   <td style="text-align:left;"> ![](sounds/compound-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> oblong </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɒb.lɒŋ/ </td>
+   <td style="text-align:left;"> /'ɑːb.lɒŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/oblong-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> instant </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɪnst.ənt/ </td>
+   <td style="text-align:left;"> /'ɪnst.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/instant-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> perfect </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'pɜːf.ɪkt/ </td>
+   <td style="text-align:left;"> /pɜːf.'ekt/ </td>
+   <td style="text-align:left;"> ![](sounds/perfect-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> concrete </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒŋ.kriːt/ </td>
+   <td style="text-align:left;"> /kɒŋ.'kriːt/ </td>
+   <td style="text-align:left;"> ![](sounds/concrete-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> present </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prez.ənt/ </td>
+   <td style="text-align:left;"> /'prez.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/present-13.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> distant </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dɪst.ənt/ </td>
+   <td style="text-align:left;"> /'dɪst.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/distant-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> bygone </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'baɪ.gɒn/ </td>
+   <td style="text-align:left;"> /'baɪ.ˌgɔːn/ </td>
+   <td style="text-align:left;"> ![](sounds/bygone-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> constant </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒnst.ənt/ </td>
+   <td style="text-align:left;"> /'kɑːnst.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/constant-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> subject </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sʌb.dʒekt/ </td>
+   <td style="text-align:left;"> /sʌb.'dʒekt/ </td>
+   <td style="text-align:left;"> ![](sounds/subject-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> prolix </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prəʊ.lɪks/ </td>
+   <td style="text-align:left;"> prolix </td>
+   <td style="text-align:left;"> ![](sounds/prolix-4.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ## Interlude
 
@@ -340,7 +1366,7 @@ Petit retour sur quelques suffixes encore non abordés en cours.
 * <-osis>,  <-itis>, <-Coma>
 
 
-\vspace*{0.2cm}
+---
 
  
 ## Le suffixe <-ator>
@@ -354,38 +1380,103 @@ Petit retour sur quelques suffixes encore non abordés en cours.
 * Si le mot de départ a au moins trois syllabes, l'accent n'est jamais sur <-at->
 
 * Si le mot de départ est dissyllabique, le schéma accentuel du dérivé va dépendre de celui du mot de départ.
-
+--
 
   - Rappel : les noms en <-ate> ont un schéma paroxyton ("senate"), les verbes, un schéma oxyton ("create").
 
 ### Exemples
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{donator} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{d@U."neIt.@}/}\\
-senator & /100/ & /\textipa{"sen.@t.@}/\\
-\cellcolor{gray!6}{decorator} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"dek.@.reIt.@}/}\\
-escalator & /1000/ & /\textipa{"esk.@.leIt.@}/\\
-\cellcolor{gray!6}{moderator} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"m6d.@.reIt.@}/}\\
-\addlinespace
-translator & /010/ & /\textipa{tr\ae ns."leIt.@}/\\
-\cellcolor{gray!6}{radiator} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"reId.i.eIt.@}/}\\
-legislator & /1000/ & /\textipa{"ledZ.I.sleIt.@}/\\
-\cellcolor{gray!6}{equator} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{I."kweIt.@}/}\\
-conspirator & /0100/ & /\textipa{k@n."spIr.@t.@}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> donator </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /dəʊ.'neɪt.ə/ </td>
+   <td style="text-align:left;"> donator </td>
+   <td style="text-align:left;"> ![](sounds/donator-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> senator </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'sen.ət.ə/ </td>
+   <td style="text-align:left;"> /'sen.ət.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/senator-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> decorator </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'dek.ə.reɪt.ə/ </td>
+   <td style="text-align:left;"> /'dek.ə.ˌreɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/decorator-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> escalator </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'esk.ə.leɪt.ə/ </td>
+   <td style="text-align:left;"> /'esk.ə.ˌleɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/escalator-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> moderator </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'mɒd.ə.reɪt.ə/ </td>
+   <td style="text-align:left;"> /'mɑːd.ə.ˌreɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/moderator-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> translator </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /træns.'leɪt.ə/ </td>
+   <td style="text-align:left;"> /træns.'leɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/translator-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> radiator </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'reɪd.i.eɪt.ə/ </td>
+   <td style="text-align:left;"> /'reɪd.i.ˌeɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/radiator-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> legislator </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'ledʒ.ɪ.sleɪt.ə/ </td>
+   <td style="text-align:left;"> /'ledʒ.ɪ.ˌsleɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/legislator-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> equator </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /ɪ.'kweɪt.ə/ </td>
+   <td style="text-align:left;"> /ɪ.'kweɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/equator-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> conspirator </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /kən.'spɪr.ət.ə/ </td>
+   <td style="text-align:left;"> /kən.'spɪr.ət.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/conspirator-4.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Remarques
 
 **Exception :** "orator"
 
+--
 
-
- /\textipa{O:."reIt}/  $\rightarrow$ /\textipa{"6r.@t.@}/
+ /ɔː.'reɪt/  $\rightarrow$ /'ɒr.ət.ə/
 
 
 Que pouvez-vous dire de "conspirator" ?
@@ -397,6 +1488,6 @@ Règle simplifiée : les mots en <-ator> sont accentués de la même façon que 
 
 La voyelle <-a> a la même qualité vocalique que dans le mot de départ.
 
-\vspace*{0.2cm}
+---
 
  

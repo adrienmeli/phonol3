@@ -4,111 +4,264 @@
 
 ## Terminologie des schémas accentuels
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:right;"> Schéma accentuel </th>
+   <th style="text-align:left;"> Nom </th>
+   <th style="text-align:left;"> Syllabe accentuée </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> -1 </td>
+   <td style="text-align:left;"> Oxyton </td>
+   <td style="text-align:left;"> Dernière </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> -10 </td>
+   <td style="text-align:left;"> Paroxyton </td>
+   <td style="text-align:left;"> Pénultième </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> -100 </td>
+   <td style="text-align:left;"> Proparoxyton </td>
+   <td style="text-align:left;"> Antépénultième </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{rll}
-\toprule
-Schéma accentuel & Nom & Syllabe accentuée\\
-\midrule
-\cellcolor{gray!6}{-1} & \cellcolor{gray!6}{Oxyton} & \cellcolor{gray!6}{Dernière}\\
--10 & Paroxyton & Pénultième\\
-\cellcolor{gray!6}{-100} & \cellcolor{gray!6}{Proparoxyton} & \cellcolor{gray!6}{Antépénultième}\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ### Exemple
 
-"imagination" ( /\textipa{I.""m\ae dZ.I."neIS.@n}/ ) a un schéma accentuel de type paroxyton.
+"imagination" ( /ɪ.ˌmædʒ.ɪ.'neɪʃ.ən/ ) a un schéma accentuel de type paroxyton.
 
 **OU**
 
-L'accent primaire de "imagination" ( /\textipa{I.""m\ae dZ.I."neIS.@n}/ ) se trouve sur la pénultième.
+L'accent primaire de "imagination" ( /ɪ.ˌmædʒ.ɪ.'neɪʃ.ən/ ) se trouve sur la pénultième.
 
-
+---
 
 ## Les catégories de voyelles
 
-* checked steady-state vowels: /\textipa{I e \ae  6 U 2}/ & /\textipa{@}/ (!!)
+* checked steady-state vowels: /ɪ e æ ɒ ʊ ʌ/ & /ə/ (!!)
 
-* Free steady-state: /\textipa{i: a: O: u: 3:}/
+* Free steady-state: /iː aː ɔː uː ɜː/
 
 * Diphthongs:
-  - centring: /\textipa{I@ U@}/
+  - centring: /ɪə ʊə/
   - closing:
-    - Fronting: /\textipa{eI aI OI}/
-    - Backing: /\textipa{@U AU}/
+    - Fronting: /eɪ aɪ ɔɪ/
+    - Backing: /əʊ ɑʊ/
 
 Il manque une voyelle... Laquelle ?
 
+---
 
+ /ɛː/, ou /əe/
 
- /\textipa{E:}/, ou /\textipa{@e}/
+---
 
-
-
-Cette catégorisation des voyelles est importante pour comprendre la différence entre /\textipa{i: i I u: u U}/.
+Cette catégorisation des voyelles est importante pour comprendre la différence entre /iː i ɪ uː u ʊ/.
 
 /i/ et /u/ ne peuvent apparaître que dans des syllabes inaccentuées ouvertes, exemples :
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> influence </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
+   <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
+   <td style="text-align:left;"> ![](sounds/influence-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> supreme </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> ![](sounds/supreme-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> spiritual </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
+   <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/spiritual-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> situation </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌsɪtʃ.u.'eɪʃ.ən/ </td>
+   <td style="text-align:left;"> /ˌsɪtʃ.u.'eɪʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/situation-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> warrior </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'wɒr.i.ə/ </td>
+   <td style="text-align:left;"> /'wɔːr.i.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/warrior-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> trivial </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'trɪv.i.əl/ </td>
+   <td style="text-align:left;"> /'trɪv.i.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/trivial-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> experience </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪk.'spɪər.i.əns/ </td>
+   <td style="text-align:left;"> /ɪk.'spɪr.i.əns/ </td>
+   <td style="text-align:left;"> ![](sounds/experience-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> familiar </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /fə.'mɪl.i.ə/ </td>
+   <td style="text-align:left;"> familiar </td>
+   <td style="text-align:left;"> ![](sounds/familiar-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> genius </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'dʒiːn.i.əs/ </td>
+   <td style="text-align:left;"> genius </td>
+   <td style="text-align:left;"> ![](sounds/genius-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> regulate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'reg.ju.leɪt/ </td>
+   <td style="text-align:left;"> /'reg.ju.ˌleɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/regulate-6.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{influence} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Inf.lu.@ns}/}\\
-supreme & /01/ & /\textipa{su."pri:m}/\\
-\cellcolor{gray!6}{spiritual} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"spIr.ItS.u.@l}/}\\
-situation & /2010/ & /\textipa{""sItS.u."eIS.@n}/\\
-\cellcolor{gray!6}{warrior} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"w6r.i.@}/}\\
-\addlinespace
-trivial & /100/ & /\textipa{"trIv.i.@l}/\\
-\cellcolor{gray!6}{experience} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{Ik."spI@r.i.@ns}/}\\
-familiar & /0100/ & /\textipa{f@."mIl.i.@}/\\
-\cellcolor{gray!6}{genius} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"dZi:n.i.@s}/}\\
-regulate & /100/ & /\textipa{"reg.ju.leIt}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 Elle l'est aussi lors de l'étude de la qualité des voyelles accentuées.
 
-
+---
 
 Pour les mots suivants, concentrez-vous sur la qualité des voyelles accentuées et formulez la règle (raisonnez par rapport à la règle orthographique) :
  
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{dictation} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{dIk."teIS.@n}/}\\
-completion & /010/ & /\textipa{k@m."pli:S.@n}/\\
-\cellcolor{gray!6}{condition} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@n."dIS.@n}/}\\
-promotion & /010/ & /\textipa{pr@."m@US.@n}/\\
-\cellcolor{gray!6}{solution} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{s@."lu:S.@n}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> dictation </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /dɪk.'teɪʃ.ən/ </td>
+   <td style="text-align:left;"> /dɪk.'teɪʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/dictation-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> completion </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /kəm.'pliːʃ.ən/ </td>
+   <td style="text-align:left;"> /kəm.'pliːʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/completion-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> condition </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
+   <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/condition-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> promotion </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /prə.'məʊʃ.ən/ </td>
+   <td style="text-align:left;"> /prə.'moʊʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/promotion-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> solution </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
+   <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/solution-2.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 Cette règle est-elle valable pour le suffixe suivant ?
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{canadian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."neId.i.@n}/}\\
-comedian & /0100/ & /\textipa{k@."mi:d.i.@n}/\\
-\cellcolor{gray!6}{magician} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{m@."dZIS.@n}/}\\
-custodian & /0100/ & /\textipa{k2."st@Ud.i.@n}/\\
-\cellcolor{gray!6}{venusian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{v@."nju:z.i.@n}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> canadian </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /kə.'neɪd.i.ən/ </td>
+   <td style="text-align:left;"> /kə.'neɪd.i.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/canadian-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> comedian </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
+   <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/comedian-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> magician </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
+   <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/magician-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> custodian </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /kʌ.'stəʊd.i.ən/ </td>
+   <td style="text-align:left;"> /kʌ.'stoʊd.i.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/custodian-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> venusian </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /və.'njuːz.i.ən/ </td>
+   <td style="text-align:left;"> venusian </td>
+   <td style="text-align:left;"> ![](sounds/venusian-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 Formulez la règle de façon exhaustive.
 
-
+---
 
 ## La règle du suffixe <-ion> étendue
 
@@ -124,68 +277,169 @@ La syllabe avant la **terminaison** des suffixes suivants prend l'accent primair
 -iar 	-io 	-ium
 -iate           -ius
  
+---
 
-
-
+---
 
 Pourquoi seulement "terminaison", et pas simplement la pénultième ?
 
-
+---
 
 Le suffixe peut se prononcer en deux syllabes :
 
 * "material", "Canadian", "delirium"...
 
-
+---
 
 Déterminez les règles de prononciation de la voyelle accentuée à partir des mots suivants : 
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
-comedy & /100/ & /\textipa{"k6m.@d.i}/\\
-\cellcolor{gray!6}{magic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae dZ.Ik}/}\\
-custody & /100/ & /\textipa{"k2st.@d.i}/\\
-\cellcolor{gray!6}{venus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vi:n.@s}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> canada </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
+   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
+   <td style="text-align:left;"> ![](sounds/canada-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> comedy </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kɒm.əd.i/ </td>
+   <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
+   <td style="text-align:left;"> ![](sounds/comedy-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> magic </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
+   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/magic-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> custody </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
+   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
+   <td style="text-align:left;"> ![](sounds/custody-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> venus </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'viːn.əs/ </td>
+   <td style="text-align:left;"> /'viːn.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/venus-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Régle : qualité des voyelles accentuées dans les mots 
 
 Les voyelles accentuées se prononcent en vertu de la règle orthographique, sauf <-i> qui se prononce de façon relâchée.
 
-
+---
  
 Vérifiez votre règle :
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> audacious </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /ɔː.'deɪʃ.əs/ </td>
+   <td style="text-align:left;"> /ɔː.'deɪʃ.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/audacious-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> precious </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'preʃ.əs/ </td>
+   <td style="text-align:left;"> /'preʃ.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/precious-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> delicious </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /di.'lɪʃ.əs/ </td>
+   <td style="text-align:left;"> /di.'lɪʃ.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/delicious-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> atrocious </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /ə.'trəʊʃ.əs/ </td>
+   <td style="text-align:left;"> /ə.'troʊʃ.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/atrocious-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pluvious </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pluːv.i.əs/ </td>
+   <td style="text-align:left;"> pluvious </td>
+   <td style="text-align:left;"> ![](sounds/pluvious-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hilarious </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /hi.'leər.i.əs/ </td>
+   <td style="text-align:left;"> /hi.'ler.i.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/hilarious-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mysterious </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /mi.'stɪər.i.əs/ </td>
+   <td style="text-align:left;"> /ˌmɪ.'stɪr.i.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/mysterious-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> delirious </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
+   <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/delirious-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> notorious </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
+   <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/notorious-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> curious </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kjʊər.i.əs/ </td>
+   <td style="text-align:left;"> /'kjʊr.i.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/curious-8.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{audacious} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{O:."deIS.@s}/}\\
-precious & /10/ & /\textipa{"preS.@s}/\\
-\cellcolor{gray!6}{delicious} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."lIS.@s}/}\\
-atrocious & /010/ & /\textipa{@."tr@US.@s}/\\
-\cellcolor{gray!6}{pluvious} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"plu:v.i.@s}/}\\
-\addlinespace
-hilarious & /0100/ & /\textipa{hi."le@r.i.@s}/\\
-\cellcolor{gray!6}{mysterious} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{mi."stI@r.i.@s}/}\\
-delirious & /0100/ & /\textipa{di."lIr.i.@s}/\\
-\cellcolor{gray!6}{notorious} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{n@U."tO:r.i.@s}/}\\
-curious & /100/ & /\textipa{"kjU@r.i.@s}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ... Y a-t-il une exception ?
 
-
+---
 
 **Exceptions notables :** "subdivision", "discretion", "special"...
 
-
+---

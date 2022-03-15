@@ -9,7 +9,7 @@
 
 ### telegraph  $\rightarrow$ telegraphic
 
-* /\textipa{"tel.I.grA:f}/ $\rightarrow$ /\textipa{""tel.I."gr\ae f.Ik}/
+* /'tel.ɪ.grɑːf/ $\rightarrow$ /ˌtel.ɪ.'græf.ɪk/
 
 <-ic> is a strong suffix that imposes a primary stress on the penultimate syllable. 
 As a four-syllable paroxytone, "telegraphic" needs a secondary stress on one of the first two syllables.
@@ -18,35 +18,35 @@ The first syllable carries the secondary stress for two reasons: 1) the root wor
 
 <-ic> also imposes vowel laxing on the stressed syllables (cf. "automatic", "phonetic", "critic", "exotic"...).
 However, that laxing is also in compliance with the orthographic rule: <-a> is followed by two non-r consonants, and is therefore lax (as in "cat").
-The /\textipa{\ae }/ in the penultimate
+The /æ/ in the penultimate
 is therefore an instance of rules converging towards the same result.
 
-
+---
 
 ### magic  $\rightarrow$ magician
 
-* /\textipa{"m\ae dZ.Ik}/  $\rightarrow$ /\textipa{m@."dZIS.@n}/
+* /'mædʒ.ɪk/  $\rightarrow$ /mə.'dʒɪʃ.ən/
 
 <-ian> is a suffix covered by the extended <-ion> rule, which states that the primary stress is carried 
 by the syllable preceding the suffix. In "magician", <-ian> is pronounced in one syllable, so the word
 is a paroxytone.
 
 <-i-> in the stressed syllable of words following the extended <-ion> rule is lax (cf. "proposition", "visual", "familiar").
-this situation goes against the orthographic rule, whereby <-icv> is pronounced /\textipa{ai}/ (cf. ice).
+this situation goes against the orthographic rule, whereby <-icv> is pronounced /ai/ (cf. ice).
 
-
+---
 
 ### comedy  $\rightarrow$ comedian
 
-* /\textipa{"k6m.@d.i}/  $\rightarrow$ /\textipa{k@."mi:d.i.@n}/
+* /'kɒm.əd.i/  $\rightarrow$ /kə.'miːd.i.ən/
 
 <-ian> is a suffix covered by the extended <-ion> rule, which states that the primary stress is carried 
 by the syllable preceding the suffix. In "comedian", <-ian> is pronounced in two syllables, so the word
 is a proparoxytone.
  
-If we consider the orthographic rule as the default rule, <-e-> in the stressed syllable of "comedian" is regularly pronounced /\textipa{i:}/, as in "Pete" or "meme".
+If we consider the orthographic rule as the default rule, <-e-> in the stressed syllable of "comedian" is regularly pronounced /iː/, as in "Pete" or "meme".
 
-
+---
 
 ### Commentaires en vrac
 
@@ -61,40 +61,64 @@ If we consider the orthographic rule as the default rule, <-e-> in the stressed 
 
 * "potato" vs. "potation" :(
 
-
+---
 
 * Où placer l'accent dans "frustration" ? "Inspection" ?
 
 * Quelques séquences impossibles :
-  - /\textipa{*bj@}/ 
-  - /\textipa{*pj@}/ 
-  - /\textipa{*dj@}/ 
-  - /\textipa{*tj@}/ 
-  - /\textipa{*sj@}/ 
-  - /\textipa{*zj@}/ 
+  - /*bjə/ 
+  - /*pjə/ 
+  - /*djə/ 
+  - /*tjə/ 
+  - /*sjə/ 
+  - /*zjə/ 
 
 **Une seule exception : l'un de ces trois mots...** 
 
 "Christian" vs. "Christianity" vs. "unchristian"...
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{Christian} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"krIs.tS@n}/}\\
-Christianity & /20100/ & /\textipa{""krIst.i."\ae n.@t.i}/\\
-\cellcolor{gray!6}{unchristian} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{2n."krIst.j@n}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Christian </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'krɪs.tʃən/ </td>
+   <td style="text-align:left;"> /'krɪs.tʃən/ </td>
+   <td style="text-align:left;"> ![](sounds/NA) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Christianity </td>
+   <td style="text-align:left;"> /20100/ </td>
+   <td style="text-align:left;"> /ˌkrɪst.i.'æn.ət.i/ </td>
+   <td style="text-align:left;"> /ˌkrɪst.i.'æn.ət.i/ </td>
+   <td style="text-align:left;"> ![](sounds/NA) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> unchristian </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /ʌn.'krɪst.jən/ </td>
+   <td style="text-align:left;"> unchristian </td>
+   <td style="text-align:left;"> ![](sounds/unchristian-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 * "hellion", "bastion", "onion"
 
-* /\textipa{I@}/ **n'est que la diphtongue transformée par <-r-> !**
+* /ɪə/ **n'est que la diphtongue transformée par <-r-> !**
 
-* <-i-> n'est jamais prononcé /\textipa{i}/ ou /\textipa{i:}/
+* <-i-> n'est jamais prononcé /i/ ou /iː/
 
-* <-ion>  $\rightarrow$ /\textipa{S@n}/ ou avec le diacritique \textipa{/S\s{n}/}, **pas** /\textipa{Sn}/
+* <-ion>  $\rightarrow$ /ʃən/ ou avec le diacritique \textipa{/S\s{n}/}, **pas** /ʃn/
 
 ## Retours aux suffixes contraignants
 
@@ -110,46 +134,141 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
 * mais aussi des syllabes inaccentuées
   - sont-elles réduites comme il se doit, ou sont-elles pleines ?
 
-\vspace*{0.2cm}
+---
 
 ### Le suffixe <-ible> 
 
 *Terminaisons contraignantes qui agissent quel que soit le radical (lexème, pseudo-lexème) avec schéma proparoxyton pour <-ible>*
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{incredible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."kred.@b.@l}/}\\
-compatible & /0100/ & /\textipa{k@m."p\ae t.@b.@l}/\\
-\cellcolor{gray!6}{irascible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{I."r\ae s.@b.@l}/}\\
-possible & /100/ & /\textipa{"p6s.@b.@l}/\\
-\cellcolor{gray!6}{invisible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{In."vIz.@b.@l}/}\\
-\addlinespace
-indelible & /0100/ & /\textipa{In."del.@b.@l}/\\
-\cellcolor{gray!6}{responsible} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{ri."sp6ns.@b.@l}/}\\
-forcible & /100/ & /\textipa{"fO:s.@b.@l}/\\
-\cellcolor{gray!6}{comprehensible} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""k6mp.ri."hens.@b.@l}/}\\
-gullible & /100/ & /\textipa{"g2l.@b.@l}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> incredible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪn.'kred.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌɪn.'kred.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/incredible-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> compatible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /kəm.'pæt.əb.əl/ </td>
+   <td style="text-align:left;"> /kəm.'pæt.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/compatible-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> irascible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪ.'ræs.əb.əl/ </td>
+   <td style="text-align:left;"> /ɪ.'ræs.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/irascible-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> possible </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pɒs.əb.əl/ </td>
+   <td style="text-align:left;"> /'pɑːs.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/possible-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> invisible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪn.'vɪz.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌɪn.'vɪz.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/invisible-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> indelible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪn.'del.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌɪn.'del.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/indelible-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> responsible </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ri.'spɒns.əb.əl/ </td>
+   <td style="text-align:left;"> /ri.'spɑːns.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/responsible-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> forcible </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'fɔːs.əb.əl/ </td>
+   <td style="text-align:left;"> /'fɔːs.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/forcible-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> comprehensible </td>
+   <td style="text-align:left;"> /20100/ </td>
+   <td style="text-align:left;"> /ˌkɒmp.ri.'hens.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌkɑːmp.ri.'hens.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/comprehensible-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> gullible </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'gʌl.əb.əl/ </td>
+   <td style="text-align:left;"> /'gʌl.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/gullible-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Attention toutefois à <-igible>
 
 Schéma préproparoxyton (/1000/)
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{eligible} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"el.IdZ.@b.@l}/}\\
-intelligible & /01000/ & /\textipa{In."tel.IdZ.@b.@l}/\\
-\cellcolor{gray!6}{incorrigible} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{In."k6r.IdZ.@b.@l}/}\\
-negligible & /1000/ & /\textipa{"neg.lIdZ.@b.@l}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> eligible </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'el.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> /'el.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/eligible-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> intelligible </td>
+   <td style="text-align:left;"> /01000/ </td>
+   <td style="text-align:left;"> /ɪn.'tel.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌɪn.'tel.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/intelligible-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> incorrigible </td>
+   <td style="text-align:left;"> /01000/ </td>
+   <td style="text-align:left;"> /ɪn.'kɒr.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> /ˌɪn.'kɑːr.ɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/incorrigible-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> negligible </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/negligible-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Tableau des suffixes neutres
@@ -159,30 +278,82 @@ Il s'agit de suffixes **détachables**, tels que <-less> dans "*toothless*", mai
 
 ### Commençant par une consonne
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> noms </td>
+   <td style="text-align:left;"> -cy </td>
+   <td style="text-align:left;"> -kin </td>
+   <td style="text-align:left;"> -man </td>
+   <td style="text-align:left;"> -ric </td>
+   <td style="text-align:left;"> -ship </td>
+   <td style="text-align:left;"> -ton </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> -dom </td>
+   <td style="text-align:left;"> -let </td>
+   <td style="text-align:left;"> -ment </td>
+   <td style="text-align:left;"> -rix </td>
+   <td style="text-align:left;"> -ster </td>
+   <td style="text-align:left;"> -ty </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> -hood </td>
+   <td style="text-align:left;"> -ling </td>
+   <td style="text-align:left;"> -ness </td>
+   <td style="text-align:left;"> -ry </td>
+   <td style="text-align:left;"> -sy </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> adjectifs/adverbes </td>
+   <td style="text-align:left;"> -fold </td>
+   <td style="text-align:left;"> -less </td>
+   <td style="text-align:left;"> -ly </td>
+   <td style="text-align:left;"> -some </td>
+   <td style="text-align:left;"> -wise </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> -ful </td>
+   <td style="text-align:left;"> -like </td>
+   <td style="text-align:left;"> -most </td>
+   <td style="text-align:left;"> -ward(s) </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lllllll}
-\toprule
-\cellcolor{gray!6}{noms} & \cellcolor{gray!6}{-cy} & \cellcolor{gray!6}{-kin} & \cellcolor{gray!6}{-man} & \cellcolor{gray!6}{-ric} & \cellcolor{gray!6}{-ship} & \cellcolor{gray!6}{-ton}\\
- & -dom & -let & -ment & -rix & -ster & -ty\\
-\cellcolor{gray!6}{} & \cellcolor{gray!6}{-hood} & \cellcolor{gray!6}{-ling} & \cellcolor{gray!6}{-ness} & \cellcolor{gray!6}{-ry} & \cellcolor{gray!6}{-sy} & \cellcolor{gray!6}{}\\
-adjectifs/adverbes & -fold & -less & -ly & -some & -wise & \\
-\cellcolor{gray!6}{} & \cellcolor{gray!6}{-ful} & \cellcolor{gray!6}{-like} & \cellcolor{gray!6}{-most} & \cellcolor{gray!6}{-ward(s)} & \cellcolor{gray!6}{} & \cellcolor{gray!6}{}\\
-\bottomrule
-\end{longtable}
-
-\vspace*{0.2cm}
+---
 
 
 ### Commençant par une voyelle
 
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> -es </td>
+   <td style="text-align:left;"> -ing </td>
+   <td style="text-align:left;"> -er </td>
+   <td style="text-align:left;"> -ish (adj.) </td>
+   <td style="text-align:left;"> -ern </td>
+   <td style="text-align:left;"> -est (superlatif) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> -ed </td>
+   <td style="text-align:left;"> -ess </td>
+   <td style="text-align:left;"> -y </td>
+   <td style="text-align:left;"> -en </td>
+   <td style="text-align:left;"> -er </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{llllll}
-\toprule
-\cellcolor{gray!6}{-es} & \cellcolor{gray!6}{-ing} & \cellcolor{gray!6}{-er} & \cellcolor{gray!6}{-ish (adj.)} & \cellcolor{gray!6}{-ern} & \cellcolor{gray!6}{-est (superlatif)}\\
--ed & -ess & -y & -en & -er & \\
-\bottomrule
-\end{longtable}
 
-
-\vspace*{0.2cm}
+---

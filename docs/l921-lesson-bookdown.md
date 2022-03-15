@@ -34,74 +34,195 @@ All info:
 
 #### Spelling
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
- & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
-\midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{hat} & \cellcolor{gray!6}{hate} & \cellcolor{gray!6}{car} & \cellcolor{gray!6}{care}\\
-<e> & pet & Pete & her & here\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
-<o> & not & note & or & ore\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{cut} & \cellcolor{gray!6}{cute} & \cellcolor{gray!6}{purr} & \cellcolor{gray!6}{pure}\\
-\addlinespace
-<u2> & put &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> hat </td>
+   <td style="text-align:left;"> hate </td>
+   <td style="text-align:left;"> car </td>
+   <td style="text-align:left;"> care </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> pet </td>
+   <td style="text-align:left;"> Pete </td>
+   <td style="text-align:left;"> her </td>
+   <td style="text-align:left;"> here </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> sit </td>
+   <td style="text-align:left;"> site </td>
+   <td style="text-align:left;"> fir </td>
+   <td style="text-align:left;"> fire </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> not </td>
+   <td style="text-align:left;"> note </td>
+   <td style="text-align:left;"> or </td>
+   <td style="text-align:left;"> ore </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> cut </td>
+   <td style="text-align:left;"> cute </td>
+   <td style="text-align:left;"> purr </td>
+   <td style="text-align:left;"> pure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> put </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 #### RP transcription
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{/\textipa{h\ae t}/} & \cellcolor{gray!6}{/\textipa{heIt}/} & \cellcolor{gray!6}{/\textipa{kA:}/} & \cellcolor{gray!6}{/\textipa{ke@}/}\\
-<e> & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
-<o> & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
-\addlinespace
-<u2> & /\textipa{pUt}/ &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑː/ </td>
+   <td style="text-align:left;"> /keə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hɜː/ </td>
+   <td style="text-align:left;"> /hɪə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜː/ </td>
+   <td style="text-align:left;"> /'faɪ.ə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɒt/ </td>
+   <td style="text-align:left;"> /nəʊt/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜː/ </td>
+   <td style="text-align:left;"> /pjʊə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 #### GenAm transcription
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{\textipa{/h\ae t/}} & \cellcolor{gray!6}{\textipa{/heIt/}} & \cellcolor{gray!6}{\textipa{/kA:r/}} & \cellcolor{gray!6}{\textipa{/ker/}}\\
-<e> & \textipa{/pet/} & \textipa{/pi:t/} & \textipa{/h@r/} & \textipa{/hIr/}\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{\textipa{/sIt/}} & \cellcolor{gray!6}{\textipa{/saIt/}} & \cellcolor{gray!6}{\textipa{/f3 \textrhoticity :/}} & \cellcolor{gray!6}{/\textipa{"faI.@r}/}\\
-<o> & \textipa{/nA:t/} & \textipa{/noUt/} & \textipa{/O:r/} & \textipa{/O:r/}\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{\textipa{/k2t/}} & \cellcolor{gray!6}{\textipa{/kju:t/}} & \cellcolor{gray!6}{\textipa{/p3 \textrhoticity :/}} & \cellcolor{gray!6}{\textipa{/pjUr/}}\\
-\addlinespace
-<u2> & \textipa{/pUt/} &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑːr/ </td>
+   <td style="text-align:left;"> /ker/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hər/ </td>
+   <td style="text-align:left;"> /hɪr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜ˞ː/ </td>
+   <td style="text-align:left;"> /'faɪ.ər/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɑːt/ </td>
+   <td style="text-align:left;"> /noʊt/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜ˞ː/ </td>
+   <td style="text-align:left;"> /pjʊr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 ## Polysyllabic words
 
@@ -115,29 +236,44 @@ Vowels not present in this chart:
 
 * Stress patterns are read from right to left.
 
-* The vowels of unstressed syllables are often reduced to /\textipa{@}/, /\textipa{i}/ or /\textipa{u}/. The latter two can only appear in unstressed, **open** syllables.
+* The vowels of unstressed syllables are often reduced to /ə/, /i/ or /u/. The latter two can only appear in unstressed, **open** syllables.
 
-* /\textipa{@}/, /\textipa{i}/ or /\textipa{u}/ can **NEVER** be the vowels of stressed syllables.
+* /ə/, /i/ or /u/ can **NEVER** be the vowels of stressed syllables.
 
 ### Conventions
 
 * The stress pattern of a word can be represented as a series of numbers: one number per syllable, /1/ for the syllable carrying the primary stress, /0/ if the syllable is unstressed, and /2/ for secondary stress.
 
-* The primary stress of a word is marked as /\textipa{"}/ before the syllable.
+* The primary stress of a word is marked as /"/ before the syllable.
 
-
-\begin{longtable}{lll}
-\toprule
-\cellcolor{gray!6}{Stress pattern} & \cellcolor{gray!6}{Technical name} & \cellcolor{gray!6}{The primary stress is on}\\
-/-1/ & oxytone & the ultimate\\
-\cellcolor{gray!6}{/-10/} & \cellcolor{gray!6}{paroxytone} & \cellcolor{gray!6}{the penultimate}\\
-/-100/ & proparoxytone & the antepenultimate\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Stress pattern </td>
+   <td style="text-align:left;"> Technical name </td>
+   <td style="text-align:left;"> The primary stress is on </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /-1/ </td>
+   <td style="text-align:left;"> oxytone </td>
+   <td style="text-align:left;"> the ultimate </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /-10/ </td>
+   <td style="text-align:left;"> paroxytone </td>
+   <td style="text-align:left;"> the penultimate </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /-100/ </td>
+   <td style="text-align:left;"> proparoxytone </td>
+   <td style="text-align:left;"> the antepenultimate </td>
+  </tr>
+</tbody>
+</table>
  
 ### Important rules
 
-* Extended <-ion>: < e/i/u/y + V$_{1}$ + C $_{0}$ + (e) >
+* Extended <-ion>: < e/i/u/y + V<sub>1</sub> + C <sub>0</sub> + (e) >
 
 * The orthographic rule: the default values of graphemes depending on their consonantic environment (*cf.* above, [Fundamental chart])
 
@@ -148,40 +284,40 @@ Vowels not present in this chart:
 
 ## Les sons [i] et [u]
 
-* /\textipa{i:}/
+* /iː/
 
-* /\textipa{i}/
+* /i/
 
-* /\textipa{I}/
+* /ɪ/
 
-* /\textipa{u:}/
+* /uː/
 
-* /\textipa{u}/
+* /u/
 
-* /\textipa{U}/
+* /ʊ/
 
 Nous suivons ici @roach2009.
 
 
 
-Les sons /\textipa{i:}/ et /\textipa{u:}/ n'apparaissent que dans des syllabes accentuées.
+Les sons /iː/ et /uː/ n'apparaissent que dans des syllabes accentuées.
 
 Le problème est le symbole à adopter dans les syllabes inaccentuées.
 
 Exemples :
 
-* "*easy*"  $\rightarrow$ /\textipa{'i:zi:}/ (Welsh) ou /\textipa{'i:zI}/ (Yorshire) Mais qu'en est-il de RP ?
+* "*easy*"  $\rightarrow$ /'iːziː/ (Welsh) ou /'iːzɪ/ (Yorshire) Mais qu'en est-il de RP ?
 
-* "*to*" dans "*good to eat*" et "*food to eat*"  $\rightarrow$ /\textipa{u:}/ or /\textipa{U}/ ?
+* "*to*" dans "*good to eat*" et "*food to eat*"  $\rightarrow$ /uː/ or /ʊ/ ?
 
 
 
-Il n'existe pas de contrastes phonémiques dans ces contextes de syllabes inaccentuées entre /\textipa{i:}/ - /\textipa{I}/ d'une part et /\textipa{u:}/ - /\textipa{U}/ d'autre part.
+Il n'existe pas de contrastes phonémiques dans ces contextes de syllabes inaccentuées entre /iː/ - /ɪ/ d'une part et /uː/ - /ʊ/ d'autre part.
 
 Peu de locuteurs natifs semblent satisfaits des transcriptions de "*easy*" mentionnées plus haut. 
 
 Une solution largement adoptée est donc de transcrire par /i/ et /u/.
-On dira donc que la différence entre /\textipa{i:}/ et /\textipa{I}/ est **neutralisée**.
+On dira donc que la différence entre /iː/ et /ɪ/ est **neutralisée**.
 
 La neutralisation en phonologie fait référence à la disparition d'un contraste phonémique dans certains contextes.
 
@@ -189,10 +325,10 @@ La neutralisation en phonologie fait référence à la disparition d'un contrast
 
 Exemples de neutralisation en anglais :
 
-* /m/, /n/ et /\textipa{N}/ : *cf.* "*sum*", "*sun*" et "*sung*". Cependant la présence d'une plosive en position de coda (sans frontière morphématique) impose une unique nasale : "*limp"*, "*lint*", "*link*". Les différences sont donc neutralisées. (d'où l'adoption par certains linguistes d'un archiphonème pour analyser ces phones). 
+* /m/, /n/ et /ŋ/ : *cf.* "*sum*", "*sun*" et "*sung*". Cependant la présence d'une plosive en position de coda (sans frontière morphématique) impose une unique nasale : "*limp"*, "*lint*", "*link*". Les différences sont donc neutralisées. (d'où l'adoption par certains linguistes d'un archiphonème pour analyser ces phones). 
 
 * En GenAm, le contraste entre /t/ et /d/ est neutralisé en contexte intervocalique :
-   /\textipa{'l\ae R@r}/
+   /'læɾər/
 
 Ceci pose un autre problème théorique : avec l'adoption de symboles non-phonémiques (/i/ et /u/) les transcriptions larges que nous utilisons ne sont plus phonémiques au sens strict.
 
@@ -202,25 +338,25 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 
 @roach2009 mentionne les exemples suivants pour /i/ :
 
-* En fin de mot : (/\textipa{"h\ae p.i}/, /\textipa{"v\ae l.i}/) et en fin de morphème lorsque ces mots ont des suffixes commençant eux-mêmes par des voyelles ( "*happier*", "*hurying*")
+* En fin de mot : (/'hæp.i/, /'væl.i/) et en fin de morphème lorsque ces mots ont des suffixes commençant eux-mêmes par des voyelles ( "*happier*", "*hurying*")
  
-* Dans des préfixes tels que < re- >, < de- >, < pre- >, si celui-ci est inaccentué et précède une voyelle ( /\textipa{kri."eIt}/, /\textipa{di."@Ud.@r.@nt}/, /\textipa{ri."\ae kt}/)
+* Dans des préfixes tels que < re- >, < de- >, < pre- >, si celui-ci est inaccentué et précède une voyelle ( /kri.'eɪt/, /di.'əʊd.ər.ənt/, /ri.'ækt/)
 
-* Dans les suffixes < -iate > et < -ious > lorsqu'ils ont deux syllabes ( /\textipa{@."pri:S.i.eIt}/, /\textipa{hi."le@r.i.@s}/)
+* Dans les suffixes < -iate > et < -ious > lorsqu'ils ont deux syllabes ( /ə.'priːʃ.i.eɪt/, /hi.'leər.i.əs/)
 
 * Dans "*he*", "*she*", "*we*", "*me*", "*be*" lorsqu'inaccentués, et dans "*the*" précédant une voyelle.
 
 
 
-### /\textipa{I}/
+### /ɪ/
 
- /\textipa{I}/ se retrouvera dans la plupart des autres cas (   /\textipa{"Ins.Id.@nt}/, /\textipa{"lIk.wId}/)
+ /ɪ/ se retrouvera dans la plupart des autres cas (   /'ɪns.ɪd.ənt/, /'lɪk.wɪd/)
 
 ### /u/
 
 * /u/ sera  dans "*you*", "*to*", "*into*", "*do*" lorsqu'inaccentués et précédant une voyelle, et dans "*through*" et "*who*" lorsqu'inaccentués. 
  
-* Dans certains mots ( /\textipa{I.""v\ae k.ju."eIS.@n}/, /\textipa{""Inf.lu."enz.@}/)
+* Dans certains mots ( /ɪ.ˌvæk.ju.'eɪʃ.ən/, /ˌɪnf.lu.'enz.ə/)
 
 ## Les disyllabiques
 
@@ -236,9 +372,9 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 
 Bien distinguer les préfixes:
 
-- séparables : "*rewrite*" /\textipa{"ri:.raIt}/. < re > peut recevoir un accent contrastif.
+- séparables : "*rewrite*" /'riː.raɪt/. < re > peut recevoir un accent contrastif.
 
-- inséparables : "*receive*" /\textipa{ri."si:v}/ < ceive> est ici un pseudo-lexème. Les préfixes inséparables des **verbes** ne sont pas accentués.
+- inséparables : "*receive*" /ri.'siːv/ < ceive> est ici un pseudo-lexème. Les préfixes inséparables des **verbes** ne sont pas accentués.
 
 ### Les verbes
  
@@ -246,33 +382,138 @@ Bien distinguer les préfixes:
 
 Ces verbes ont en général un schéma paroxyton (/10/).
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{follow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f6l.@U}/}\\
-borrow & /10/ & /\textipa{"b6r.@U}/\\
-\cellcolor{gray!6}{litter} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lIt.@}/}\\
-cater & /10/ & /\textipa{"keIt.@}/\\
-\cellcolor{gray!6}{bury} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ber.i}/}\\
-\addlinespace
-carry & /10/ & /\textipa{"k\ae r.i}/\\
-\cellcolor{gray!6}{cancel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae ns.@l}/}\\
-rattle & /10/ & /\textipa{"r\ae t.@l}/\\
-\cellcolor{gray!6}{settle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{\vphantom{1} /\textipa{"set.@l}/}\\
-marry & /10/ & /\textipa{"m\ae r.i}/\\
-\addlinespace
-\cellcolor{gray!6}{settle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"set.@l}/}\\
-meddle & /10/ & /\textipa{"med.@l}/\\
-\cellcolor{gray!6}{mellow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mel.@U}/}\\
-swallow & /10/ & /\textipa{"sw6l.@U}/\\
-\cellcolor{gray!6}{vary} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ve@r.i}/}\\
-\addlinespace
-beckon & /10/ & /\textipa{"bek.@n}/\\
-\cellcolor{gray!6}{reckon} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"rek.@n}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> follow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'fɒl.əʊ/ </td>
+   <td style="text-align:left;"> /'fɑːl.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/follow-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> borrow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'bɒr.əʊ/ </td>
+   <td style="text-align:left;"> /'bɑːr.ˌoʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/borrow-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> litter </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'lɪt.ə/ </td>
+   <td style="text-align:left;"> /'lɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/litter-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> cater </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'keɪt.ə/ </td>
+   <td style="text-align:left;"> /'keɪt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/cater-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> bury </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ber.i/ </td>
+   <td style="text-align:left;"> /'ber.i/ </td>
+   <td style="text-align:left;"> ![](sounds/bury-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> carry </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kær.i/ </td>
+   <td style="text-align:left;"> /'kær.i/ </td>
+   <td style="text-align:left;"> ![](sounds/carry-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> cancel </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kæns.əl/ </td>
+   <td style="text-align:left;"> /'kæns.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/cancel-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rattle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ræt.əl/ </td>
+   <td style="text-align:left;"> /'ræt.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/rattle-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> settle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'set.əl/ </td>
+   <td style="text-align:left;"> /'set.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/settle-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> marry </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mær.i/ </td>
+   <td style="text-align:left;"> /'mer.i/ </td>
+   <td style="text-align:left;"> ![](sounds/marry-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> settle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'set.əl/ </td>
+   <td style="text-align:left;"> /'set.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/settle-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> meddle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'med.əl/ </td>
+   <td style="text-align:left;"> /'med.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/meddle-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mellow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mel.əʊ/ </td>
+   <td style="text-align:left;"> /'mel.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/mellow-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> swallow </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'swɒl.əʊ/ </td>
+   <td style="text-align:left;"> /'swɑːl.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/swallow-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> vary </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'veər.i/ </td>
+   <td style="text-align:left;"> /'ver.i/ </td>
+   <td style="text-align:left;"> ![](sounds/vary-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> beckon </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'bek.ən/ </td>
+   <td style="text-align:left;"> /'bek.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/beckon-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> reckon </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'rek.ən/ </td>
+   <td style="text-align:left;"> /'rek.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/reckon-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 #### Les verbes monocatégoriels préfixés
 
@@ -280,106 +521,503 @@ Cette section ne porte que sur des mots qui ne peuvent être que des verbes.
 
 Ces verbes ont un schéma accentuel oxyton (/01/).
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{deny} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."naI}/}\\
-excel & /01/ & /\textipa{Ik."sel}/\\
-\cellcolor{gray!6}{deter} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."t3:}/}\\
-become & /01/ & /\textipa{bi."k2m}/\\
-\cellcolor{gray!6}{enrol} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."r@Ul}/}\\
-\addlinespace
-reduce & /01/ & /\textipa{ri."dju:s}/\\
-\cellcolor{gray!6}{insure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."SU@}/}\\
-begin & /01/ & /\textipa{bi."gIn}/\\
-\cellcolor{gray!6}{enact} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."\ae kt}/}\\
-resume & /01/ & /\textipa{ri."zju:m}/\\
-\addlinespace
-\cellcolor{gray!6}{deduce} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."dju:s}/}\\
-forget & /01/ & /\textipa{f@."get}/\\
-\cellcolor{gray!6}{mistake} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{mi."steIk}/}\\
-presume & /01/ & /\textipa{pri."zju:m}/\\
-\cellcolor{gray!6}{disclose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dIs."kl@Uz}/}\\
-\addlinespace
-forgive & /01/ & /\textipa{f@."gIv}/\\
-\cellcolor{gray!6}{arrange} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."reIndZ}/}\\
-resolve & /01/ & /\textipa{ri."z6lv}/\\
-\cellcolor{gray!6}{deserve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."z3:v}/}\\
-behead & /01/ & /\textipa{bi."hed}/\\
-\addlinespace
-\cellcolor{gray!6}{excite} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Ik."saIt}/}\\
-repair & /01/ & /\textipa{ri."pe@}/\\
-\cellcolor{gray!6}{impose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."p@Uz}/}\\
-believe & /01/ & /\textipa{bi."li:v}/\\
-\cellcolor{gray!6}{admit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@d."mIt}/}\\
-\addlinespace
-remind & /01/ & /\textipa{ri."maInd}/\\
-\cellcolor{gray!6}{compose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@m."p@Uz}/}\\
-betray & /01/ & /\textipa{bi."treI}/\\
-\cellcolor{gray!6}{arrive} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."raIv}/}\\
-resist & /01/ & /\textipa{ri."zIst}/\\
-\addlinespace
-\cellcolor{gray!6}{suppose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."p@Uz}/}\\
-forbid & /01/ & /\textipa{f@."bId}/\\
-\cellcolor{gray!6}{retain} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."teIn}/}\\
-oppose & /01/ & /\textipa{@."p@Uz}/\\
-\cellcolor{gray!6}{foresee} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{fO:."si:}/}\\
-\addlinespace
-accept & /01/ & /\textipa{@k."sept}/\\
-\cellcolor{gray!6}{refuse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."fju:z}/}\\
-offend & /01/ & /\textipa{@."fend}/\\
-\cellcolor{gray!6}{uphold} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{2p."h@Uld}/}\\
-appraise & /01/ & /\textipa{@."preIz}/\\
-\addlinespace
-\cellcolor{gray!6}{reprove} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."pru:v}/}\\
-demand & /01/ & /\textipa{di."mA:nd}/\\
-\cellcolor{gray!6}{abet} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."bet}/}\\
-allure & /01/ & /\textipa{@."lU@}/\\
-\cellcolor{gray!6}{rehearse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."h3:s}/}\\
-\addlinespace
-allege & /01/ & /\textipa{@."ledZ}/\\
-\cellcolor{gray!6}{resign} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."zaIn}/}\\
-refer & /01/ & /\textipa{ri."f3:}/\\
-\cellcolor{gray!6}{confer} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."f3:}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> deny </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'naɪ/ </td>
+   <td style="text-align:left;"> /di.'naɪ/ </td>
+   <td style="text-align:left;"> ![](sounds/deny-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> excel </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪk.'sel/ </td>
+   <td style="text-align:left;"> /ɪk.'sel/ </td>
+   <td style="text-align:left;"> ![](sounds/excel-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> deter </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'tɜː/ </td>
+   <td style="text-align:left;"> /di.'t3r ː/ </td>
+   <td style="text-align:left;"> ![](sounds/deter-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> become </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bi.'kʌm/ </td>
+   <td style="text-align:left;"> /bi.'kʌm/ </td>
+   <td style="text-align:left;"> ![](sounds/become-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> enrol </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪn.'rəʊl/ </td>
+   <td style="text-align:left;"> /ɪn.'roʊl/ </td>
+   <td style="text-align:left;"> ![](sounds/enrol-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> reduce </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'djuːs/ </td>
+   <td style="text-align:left;"> /ri.'djuːs/ </td>
+   <td style="text-align:left;"> ![](sounds/reduce-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> insure </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪn.'ʃʊə/ </td>
+   <td style="text-align:left;"> /ˌɪn.'ʃʊr/ </td>
+   <td style="text-align:left;"> ![](sounds/insure-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> begin </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bi.'gɪn/ </td>
+   <td style="text-align:left;"> /bi.'gɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/begin-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> enact </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪn.'ækt/ </td>
+   <td style="text-align:left;"> /ɪn.'ækt/ </td>
+   <td style="text-align:left;"> ![](sounds/enact-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> resume </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'zjuːm/ </td>
+   <td style="text-align:left;"> /ri.'zjuːm/ </td>
+   <td style="text-align:left;"> ![](sounds/resume-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> deduce </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'djuːs/ </td>
+   <td style="text-align:left;"> /di.'djuːs/ </td>
+   <td style="text-align:left;"> ![](sounds/deduce-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> forget </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /fə.'get/ </td>
+   <td style="text-align:left;"> /fə.'get/ </td>
+   <td style="text-align:left;"> ![](sounds/forget-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mistake </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /mi.'steɪk/ </td>
+   <td style="text-align:left;"> /ˌmɪ.'steɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/mistake-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> presume </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /pri.'zjuːm/ </td>
+   <td style="text-align:left;"> /pri.'zjuːm/ </td>
+   <td style="text-align:left;"> ![](sounds/presume-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> disclose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /dɪs.'kləʊz/ </td>
+   <td style="text-align:left;"> /ˌdɪs.'kloʊz/ </td>
+   <td style="text-align:left;"> ![](sounds/disclose-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> forgive </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /fə.'gɪv/ </td>
+   <td style="text-align:left;"> /fə.'gɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/forgive-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> arrange </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'reɪndʒ/ </td>
+   <td style="text-align:left;"> /ə.'reɪndʒ/ </td>
+   <td style="text-align:left;"> ![](sounds/arrange-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> resolve </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'zɒlv/ </td>
+   <td style="text-align:left;"> /ri.'zɑːlv/ </td>
+   <td style="text-align:left;"> ![](sounds/resolve-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> deserve </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'zɜːv/ </td>
+   <td style="text-align:left;"> /di.'z3r ːv/ </td>
+   <td style="text-align:left;"> ![](sounds/deserve-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> behead </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bi.'hed/ </td>
+   <td style="text-align:left;"> /bi.'hed/ </td>
+   <td style="text-align:left;"> ![](sounds/behead-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> excite </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪk.'saɪt/ </td>
+   <td style="text-align:left;"> /ɪk.'saɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/excite-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> repair </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'peə/ </td>
+   <td style="text-align:left;"> /ri.'per/ </td>
+   <td style="text-align:left;"> ![](sounds/repair-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> impose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ɪm.'pəʊz/ </td>
+   <td style="text-align:left;"> /ˌɪm.'poʊz/ </td>
+   <td style="text-align:left;"> ![](sounds/impose-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> believe </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bi.'liːv/ </td>
+   <td style="text-align:left;"> /bi.'liːv/ </td>
+   <td style="text-align:left;"> ![](sounds/believe-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> admit </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /əd.'mɪt/ </td>
+   <td style="text-align:left;"> /əd.'mɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/admit-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> remind </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'maɪnd/ </td>
+   <td style="text-align:left;"> /ri.'maɪnd/ </td>
+   <td style="text-align:left;"> ![](sounds/remind-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> compose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kəm.'pəʊz/ </td>
+   <td style="text-align:left;"> /kəm.'poʊz/ </td>
+   <td style="text-align:left;"> ![](sounds/compose-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> betray </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /bi.'treɪ/ </td>
+   <td style="text-align:left;"> /bi.'treɪ/ </td>
+   <td style="text-align:left;"> ![](sounds/betray-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> arrive </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'raɪv/ </td>
+   <td style="text-align:left;"> /ə.'raɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/arrive-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> resist </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'zɪst/ </td>
+   <td style="text-align:left;"> /ri.'zɪst/ </td>
+   <td style="text-align:left;"> ![](sounds/resist-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> suppose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /sə.'pəʊz/ </td>
+   <td style="text-align:left;"> /sə.'poʊz/ </td>
+   <td style="text-align:left;"> ![](sounds/suppose-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> forbid </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /fə.'bɪd/ </td>
+   <td style="text-align:left;"> /fə.'bɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/forbid-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> retain </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'teɪn/ </td>
+   <td style="text-align:left;"> /ri.'teɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/retain-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> oppose </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'pəʊz/ </td>
+   <td style="text-align:left;"> /ə.'poʊz/ </td>
+   <td style="text-align:left;"> ![](sounds/oppose-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> foresee </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /fɔː.'siː/ </td>
+   <td style="text-align:left;"> /fɔː.'siː/ </td>
+   <td style="text-align:left;"> ![](sounds/foresee-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> accept </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ək.'sept/ </td>
+   <td style="text-align:left;"> /ək.'sept/ </td>
+   <td style="text-align:left;"> ![](sounds/accept-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> refuse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'fjuːz/ </td>
+   <td style="text-align:left;"> /ri.'fjuːz/ </td>
+   <td style="text-align:left;"> ![](sounds/refuse-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> offend </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'fend/ </td>
+   <td style="text-align:left;"> /ə.'fend/ </td>
+   <td style="text-align:left;"> ![](sounds/offend-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> uphold </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ʌp.'həʊld/ </td>
+   <td style="text-align:left;"> /ʌp.'hoʊld/ </td>
+   <td style="text-align:left;"> ![](sounds/uphold-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> appraise </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'preɪz/ </td>
+   <td style="text-align:left;"> /ə.'preɪz/ </td>
+   <td style="text-align:left;"> ![](sounds/appraise-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> reprove </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'pruːv/ </td>
+   <td style="text-align:left;"> reprove </td>
+   <td style="text-align:left;"> ![](sounds/reprove-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> demand </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /di.'mɑːnd/ </td>
+   <td style="text-align:left;"> /ˌdɪ.'mænd/ </td>
+   <td style="text-align:left;"> ![](sounds/demand-11.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> abet </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'bet/ </td>
+   <td style="text-align:left;"> /ə.'bet/ </td>
+   <td style="text-align:left;"> ![](sounds/abet-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> allure </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'lʊə/ </td>
+   <td style="text-align:left;"> /ə.'lʊr/ </td>
+   <td style="text-align:left;"> ![](sounds/allure-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rehearse </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'hɜːs/ </td>
+   <td style="text-align:left;"> /ri.'h3r ːs/ </td>
+   <td style="text-align:left;"> ![](sounds/rehearse-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> allege </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'ledʒ/ </td>
+   <td style="text-align:left;"> /ə.'ledʒ/ </td>
+   <td style="text-align:left;"> ![](sounds/allege-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> resign </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'zaɪn/ </td>
+   <td style="text-align:left;"> /ri.'zaɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/resign-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> refer </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ri.'fɜː/ </td>
+   <td style="text-align:left;"> /ri.'f3r ː/ </td>
+   <td style="text-align:left;"> ![](sounds/prefer-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> confer </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /kən.'fɜː/ </td>
+   <td style="text-align:left;"> /kən.'f3r ː/ </td>
+   <td style="text-align:left;"> ![](sounds/confer-2.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 **Note :** dans le cas de préfixes de deux syllabes, le pseudo-lexème garde l'accent primaire, et l'accent secondaire est porté par la première syllabe du préfixe (/201/) :
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{understand} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""2nd.@."st\ae nd}/}\\
-intervene & /201/ & /\textipa{""Int.@."vi:n}/\\
-\cellcolor{gray!6}{supersede} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""su:p.@."si:d}/}\\
-circumvent & /201/ & /\textipa{""s3:k.@m."vent}/\\
-\cellcolor{gray!6}{override} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""@Uv.@."raId}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> understand </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌʌnd.ə.'stænd/ </td>
+   <td style="text-align:left;"> /ˌʌnd.ə.'stænd/ </td>
+   <td style="text-align:left;"> ![](sounds/understand-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> intervene </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌɪnt.ə.'viːn/ </td>
+   <td style="text-align:left;"> /ˌɪnt.ə.'viːn/ </td>
+   <td style="text-align:left;"> ![](sounds/intervene-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> supersede </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌsuːp.ə.'siːd/ </td>
+   <td style="text-align:left;"> /ˌsuːp.ə.'siːd/ </td>
+   <td style="text-align:left;"> ![](sounds/supersede-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> circumvent </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌsɜːk.əm.'vent/ </td>
+   <td style="text-align:left;"> /ˌs3r ːk.əm.'vent/ </td>
+   <td style="text-align:left;"> ![](sounds/circumvent-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> override </td>
+   <td style="text-align:left;"> /201/ </td>
+   <td style="text-align:left;"> /ˌəʊv.ə.'raɪd/ </td>
+   <td style="text-align:left;"> /'oʊv.ə.ˌraɪd/ </td>
+   <td style="text-align:left;"> ![](sounds/override-2.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et sont donc paroxytons (10) :
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{edit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ed.It}/}\\
-enter & /10/ & /\textipa{"ent.@}/\\
-\cellcolor{gray!6}{destine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dest.In}/}\\
-sever & /10/ & /\textipa{"sev.@}/\\
-\cellcolor{gray!6}{prosper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6sp.@}/}\\
-\addlinespace
-suffer & /10/ & /\textipa{"s2f.@}/\\
-\cellcolor{gray!6}{differ} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIf.@}/}\\
-proffer & /10/ & /\textipa{"pr6f.@}/\\
-\cellcolor{gray!6}{conjure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2ndZ.@}/}\\
-injure & /10/ & /\textipa{"IndZ.@}/\\
-\addlinespace
-\cellcolor{gray!6}{conquer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6Nk.@}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> edit </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ed.ɪt/ </td>
+   <td style="text-align:left;"> /'ed.ɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/edit-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> enter </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ent.ə/ </td>
+   <td style="text-align:left;"> /'ent.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/enter-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> destine </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dest.ɪn/ </td>
+   <td style="text-align:left;"> /'dest.ɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/destine-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sever </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sev.ə/ </td>
+   <td style="text-align:left;"> /'sev.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/sever-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> prosper </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prɒsp.ə/ </td>
+   <td style="text-align:left;"> /'prɑːsp.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/prosper-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> suffer </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'sʌf.ə/ </td>
+   <td style="text-align:left;"> /'sʌf.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/suffer-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> differ </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dɪf.ə/ </td>
+   <td style="text-align:left;"> /'dɪf.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/differ-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> proffer </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'prɒf.ə/ </td>
+   <td style="text-align:left;"> /'prɑːf.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/proffer-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> conjure </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kʌndʒ.ə/ </td>
+   <td style="text-align:left;"> /'kɑːndʒ.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/conjure-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> injure </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɪndʒ.ə/ </td>
+   <td style="text-align:left;"> /'ɪndʒ.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/injure-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> conquer </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kɒŋk.ə/ </td>
+   <td style="text-align:left;"> /'kɑːŋk.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/conquer-3.mp3) </td>
+  </tr>
+</tbody>
+</table>

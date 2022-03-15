@@ -8,57 +8,146 @@
 
 Considérez les mots suivants (les *dérivants* des mots en <-ian> vus précédemment) :
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
-comedy & /100/ & /\textipa{"k6m.@d.i}/\\
-\cellcolor{gray!6}{magic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae dZ.Ik}/}\\
-custody & /100/ & /\textipa{"k2st.@d.i}/\\
-\cellcolor{gray!6}{venus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vi:n.@s}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> canada </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
+   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
+   <td style="text-align:left;"> ![](sounds/canada-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> comedy </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kɒm.əd.i/ </td>
+   <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
+   <td style="text-align:left;"> ![](sounds/comedy-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> magic </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
+   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/magic-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> custody </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
+   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
+   <td style="text-align:left;"> ![](sounds/custody-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> venus </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'viːn.əs/ </td>
+   <td style="text-align:left;"> /'viːn.əs/ </td>
+   <td style="text-align:left;"> ![](sounds/venus-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 Que remarquez-vous concernant la qualité de la voyelle accentuée ?
 
-
+---
 
 Les qualités de la voyelle accentuée semblent:
  
-* irrégulière dans "Canada" : VCV $\rightarrow$ /\textipa{\ae }/ au lieu de /\textipa{eI
-  }/ 
-* irrégulière "comedy" : VCV $\rightarrow$  /\textipa{6}/ au lieu de /\textipa{@U}/ 
-* irrégulière dans "magic" : VCV $\rightarrow$  /\textipa{\ae }/ au lieu de /\textipa{eI}/ 
-* régulière dans "custody" : VCC $\rightarrow$  /\textipa{2}/ 
-* régulière dans "Venus" : VCV $\rightarrow$  \textipa{i:}/ 
+* irrégulière dans "Canada" : VCV $\rightarrow$ /æ/ au lieu de /eɪ
+  / 
+* irrégulière "comedy" : VCV $\rightarrow$  /ɒ/ au lieu de /əʊ/ 
+* irrégulière dans "magic" : VCV $\rightarrow$  /æ/ au lieu de /eɪ/ 
+* régulière dans "custody" : VCC $\rightarrow$  /ʌ/ 
+* régulière dans "Venus" : VCV $\rightarrow$  iː/ 
  
-
+---
 
 ### Exemple 2
 
 Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes accentuées :
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
-\addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> energy </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> ![](sounds/energy-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> elephant </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/elephant-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> library </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'laɪb.rər.i/ </td>
+   <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> taciturn </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> develop </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> ![](sounds/develop-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> origin </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/origin-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> paradise </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
+   <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/paradise-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> demonstrate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
+   <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 La qualité "irrégulière" des voyelles peut être remise en cause...
 
-
+---
  
 ### Deux règles importantes
 
@@ -68,63 +157,169 @@ Nous appellerons "Normal Stress Rule" (NSR) la règle suivante :
 
 > Les mots de trois syllabes ou plus ont un schéma accentuel de type proparoxyton.
 
-
+---
 
 Trouvez l'exception dans les mots suivants :
  
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> energy </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> ![](sounds/energy-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> elephant </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/elephant-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> library </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'laɪb.rər.i/ </td>
+   <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> taciturn </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> develop </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> ![](sounds/develop-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> origin </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/origin-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> paradise </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
+   <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/paradise-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> demonstrate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
+   <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
-\addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 L'exception était : "develop"
  
-
+---
 
 ### La règle de Luick
 
 > La voyelle accentuée de mots présentant un schéma de type proparoxyton est relâchée.
 
-
+---
 
 Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans notre liste de mots :
  
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> energy </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
+   <td style="text-align:left;"> ![](sounds/energy-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> elephant </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
+   <td style="text-align:left;"> ![](sounds/elephant-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> library </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'laɪb.rər.i/ </td>
+   <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> taciturn </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
+   <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> develop </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> /di.'vel.əp/ </td>
+   <td style="text-align:left;"> ![](sounds/develop-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> origin </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/origin-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> paradise </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
+   <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/paradise-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> demonstrate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
+   <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
-elephant & /100/ & /\textipa{"el.If.@nt}/\\
-\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
-taciturn & /100/ & /\textipa{"t\ae s.I.t3:n}/\\
-\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
-\addlinespace
-origin & /100/ & /\textipa{"6r.IdZ.In}/\\
-\cellcolor{gray!6}{paradise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.daIs}/}\\
-demonstrate & /100/ & /\textipa{"dem.@n.streIt}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 L'exception était : "library"
 
-
+---
 
 ### Les composé grecs
 
@@ -133,19 +328,49 @@ L'exception était : "library"
 Discuss the stress patterns of the following words, and account for the quality of the 
 vowel in the stress syllable:
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> photograph </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'fəʊt.ə.grɑːf/ </td>
+   <td style="text-align:left;"> /'foʊt.ə.ˌgræf/ </td>
+   <td style="text-align:left;"> ![](sounds/photograph-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> photographer </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /fə.'tɒg.rəf.ə/ </td>
+   <td style="text-align:left;"> /fə.'tɑːg.rəf.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/photographer-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> photographic </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌfəʊt.ə.'græf.ɪk/ </td>
+   <td style="text-align:left;"> /ˌfoʊt.ə.'græf.ɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/photographic-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> photography </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /fə.'tɒg.rəf.i/ </td>
+   <td style="text-align:left;"> /fə.'tɑːg.rəf.i/ </td>
+   <td style="text-align:left;"> ![](sounds/photography-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{photograph} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f@Ut.@.grA:f}/}\\
-photographer & /0100/ & /\textipa{f@."t6g.r@f.@}/\\
-\cellcolor{gray!6}{photographic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""f@Ut.@."gr\ae f.Ik}/}\\
-photography & /0100/ & /\textipa{f@."t6g.r@f.i}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ### Explications classiques 
 
@@ -155,24 +380,34 @@ Rappel : un lexème est une unité minimale de signification appartenant au lexi
 
 Explications en termes de quasi-lexèmes :
 
+---
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> X </th>
+   <th style="text-align:left;"> Élément.A </th>
+   <th style="text-align:left;"> élément.B </th>
+   <th style="text-align:left;"> élément.C </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Nombre de syllabes </td>
+   <td style="text-align:left;"> de 1 à 3 </td>
+   <td style="text-align:left;"> 1 </td>
+   <td style="text-align:left;"> 1 ou 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Examples </td>
+   <td style="text-align:left;"> eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, radio-, stereo- </td>
+   <td style="text-align:left;"> -arch-, -crat-, -gram-, -graph-, -log-, -phon-, -thes-, ... </td>
+   <td style="text-align:left;"> suffixes mixtes : -al, -ence, -er, -is, -ism, -ist, -ize, -ous, -y </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{table}
-\centering\begingroup\fontsize{7}{9}\selectfont
-
-\resizebox{\linewidth}{!}{
-\begin{tabular}{>{\raggedright\arraybackslash}p{2cm}>{\raggedright\arraybackslash}p{2cm}>{\raggedright\arraybackslash}p{2cm}>{\raggedright\arraybackslash}p{2cm}}
-\toprule
-X & Élément.A & élément.B & élément.C\\
-\midrule
-\cellcolor{gray!6}{Nombre de syllabes} & \cellcolor{gray!6}{de 1 à 3} & \cellcolor{gray!6}{1} & \cellcolor{gray!6}{1 ou 2}\\
-Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, radio-, stereo- & -arch-, -crat-, -gram-, -graph-, -log-, -phon-, -thes-, ... & suffixes mixtes : -al, -ence, -er, -is, -ism, -ist, -ize, -ous, -y\\
-\bottomrule
-\end{tabular}}
-\endgroup{}
-\end{table}
-
-
+---
 
 ### Règles 
 
@@ -184,7 +419,7 @@ Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, rad
 
 * Si l'on a un composé A + B + C, où C est une terminaison contraignante, les contraintes jouent normalement (**telegraphic**)
 
-
+---
 
 #### Ginésy
 
@@ -198,30 +433,95 @@ Examples & eu-, syn-, anti-, auto-, bio-, photo-, tele-, anthropo-, biblio-, rad
 
 * RAPPEL : les suffixes forts sont prédominants avec ce type de mots, comme avec tous les autres (*cf.* "photographic")
 
-
+---
 
 ### Quasi-lexèmes AB
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> autocrat </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɔːt.ə.kræt/ </td>
+   <td style="text-align:left;"> /'ɔːt.ə.ˌkræt/ </td>
+   <td style="text-align:left;"> ![](sounds/autocrat-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> epilogue </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ep.ɪ.lɒg/ </td>
+   <td style="text-align:left;"> /'ep.ɪ.ˌlɔːg/ </td>
+   <td style="text-align:left;"> ![](sounds/epilogue-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> synonym </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'sɪn.ə.nɪm/ </td>
+   <td style="text-align:left;"> /'sɪn.ə.ˌnɪm/ </td>
+   <td style="text-align:left;"> ![](sounds/synonym-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> microscope </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'maɪk.rə.skəʊp/ </td>
+   <td style="text-align:left;"> /'maɪk.rə.ˌskoʊp/ </td>
+   <td style="text-align:left;"> ![](sounds/microscope-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> synagogue </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'sɪn.ə.gɒg/ </td>
+   <td style="text-align:left;"> /'sɪn.ə.ˌgɔːg/ </td>
+   <td style="text-align:left;"> ![](sounds/synagogue-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> dialogue </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'daɪ.ə.lɒg/ </td>
+   <td style="text-align:left;"> /'daɪ.ə.ˌlɔːg/ </td>
+   <td style="text-align:left;"> ![](sounds/dialogue-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hydrofoil </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'haɪdr.əʊ.fɔɪəl/ </td>
+   <td style="text-align:left;"> /'haɪdr.əʊ.ˌfɔɪl/ </td>
+   <td style="text-align:left;"> ![](sounds/hydrofoil-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pentagon </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'pent.əg.ən/ </td>
+   <td style="text-align:left;"> /'pent.əg.ˌɑːn/ </td>
+   <td style="text-align:left;"> ![](sounds/pentagon-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> megaphone </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'meg.ə.fəʊn/ </td>
+   <td style="text-align:left;"> /'meg.ə.ˌfoʊn/ </td>
+   <td style="text-align:left;"> ![](sounds/megaphone-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> thermostat </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'θɜːm.əʊ.stæt/ </td>
+   <td style="text-align:left;"> /'θ3r ːm.əʊ.ˌstæt/ </td>
+   <td style="text-align:left;"> ![](sounds/thermostat-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{autocrat} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"O:t.@.kr\ae t}/}\\
-epilogue & /100/ & /\textipa{"ep.I.l6g}/\\
-\cellcolor{gray!6}{synonym} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIn.@.nIm}/}\\
-microscope & /100/ & /\textipa{"maIk.r@.sk@Up}/\\
-\cellcolor{gray!6}{synagogue} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIn.@.g6g}/}\\
-\addlinespace
-dialogue & /100/ & /\textipa{"daI.@.l6g}/\\
-\cellcolor{gray!6}{hydrofoil} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"haIdr.@U.fOI@l}/}\\
-pentagon & /100/ & /\textipa{"pent.@g.@n}/\\
-\cellcolor{gray!6}{megaphone} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"meg.@.f@Un}/}\\
-thermostat & /100/ & /\textipa{"T3:m.@U.st\ae t}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 @duchet2018, p.55
 
@@ -231,42 +531,59 @@ thermostat & /100/ & /\textipa{"T3:m.@U.st\ae t}/\\
 
 * le quasi-lexème B ne neutralise pas sa voyelle
 
-
+---
 
 ### Quasi-lexèmes ABC
 
 Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
-\toprule
-\textbf{\textbf{Words}}\\
-\midrule
-\cellcolor{gray!6}{analogy}\\
-economy\\
-\cellcolor{gray!6}{phenomenon}\\
-hypothesis\\
-\cellcolor{gray!6}{biography}\\
-\addlinespace
-bureaucracy\\
-\cellcolor{gray!6}{monogamy}\\
-anachronism\\
-\cellcolor{gray!6}{antagonism}\\
-metabolism\\
-\bottomrule
-\end{longtable} 
-
----
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-weight: bold;"> Words </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/analogy-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/economy-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/phenomenon-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/hypothesis-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/biography-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/bureaucracy-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/monogamy-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/anachronism-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/antagonism-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/metabolism-3.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### Homework
 
-
-\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
-\toprule
-Échéances & Instructions\\
-\midrule
-\cellcolor{gray!6}{18/10/2021} & \cellcolor{gray!6}{Transcrire les mots de la section Quasi-lexèmes ABC. Ces mots respectent-ils : la NSR ? la règle de Luick ? Si non, existe-t-il des régularités dans ces exceptions ?}\\
-\bottomrule
-\end{longtable}
+<table class="table table-hover" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 20%; font-weight: bold;"> 18/10/2021 </td>
+   <td style="text-align:center;"> Transcrire les mots de la section Quasi-lexèmes ABC. Ces mots respectent-ils : la NSR ? la règle de Luick ? Si non, existe-t-il des régularités dans ces exceptions ? </td>
+  </tr>
+</tbody>
+</table>

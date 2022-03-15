@@ -10,11 +10,11 @@
 
 * Deux syllabes accentuées ne peuvent pas se succéder.
 
-* /\textipa{@}/ ne se trouve que dans les syllabes inaccentuées.
+* /ə/ ne se trouve que dans les syllabes inaccentuées.
 
 * Les schémas accentuels se lisent par la droite.
 
-
+---
 
 ### Petit exemple d'explication
 
@@ -37,7 +37,7 @@
   $\rightarrow$
 * Exemple : /100/, /2010/
 
-
+---
 
 ## La règle orthographique
 
@@ -45,182 +45,395 @@ Outre la détermination du schéma accentuel des mots, un autre enjeu est la dé
 
 Nous appellerons "règle orthographique" le tableau de correspondance entre orthographe et prononciation ci-dessous. Nous dirons que les voyelles orthographiques apparaissant dans les contextes décrits dans ce tableau, et se prononçant comme indiqué dans ce tableau, suivent la règle orthographique.
  
+---
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> hat </td>
+   <td style="text-align:left;"> hate </td>
+   <td style="text-align:left;"> car </td>
+   <td style="text-align:left;"> care </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> pet </td>
+   <td style="text-align:left;"> Pete </td>
+   <td style="text-align:left;"> her </td>
+   <td style="text-align:left;"> here </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> sit </td>
+   <td style="text-align:left;"> site </td>
+   <td style="text-align:left;"> fir </td>
+   <td style="text-align:left;"> fire </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> not </td>
+   <td style="text-align:left;"> note </td>
+   <td style="text-align:left;"> or </td>
+   <td style="text-align:left;"> ore </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> cut </td>
+   <td style="text-align:left;"> cute </td>
+   <td style="text-align:left;"> purr </td>
+   <td style="text-align:left;"> pure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> put </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
- & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
-\midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{hat} & \cellcolor{gray!6}{hate} & \cellcolor{gray!6}{car} & \cellcolor{gray!6}{care}\\
-<e> & pet & Pete & her & here\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
-<o> & not & note & or & ore\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{cut} & \cellcolor{gray!6}{cute} & \cellcolor{gray!6}{purr} & \cellcolor{gray!6}{pure}\\
-\addlinespace
-<u2> & put &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
+Ce tableau est **<span style='color: #f44336;'>fondamental</span>**.
 
 --
 
+<table class="table table-hover" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 20%; font-weight: bold;"> 27/09/2021 </td>
+   <td style="text-align:center;"> Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ? </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
-\toprule
-Échéances & Instructions\\
-\midrule
-\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Quelle(s) voyelle(s) phonologiques n'apparaissent pas dans le tableau ? Comment appelle-t-on les voyelles de la première colonne ?}\\
-\bottomrule
-\end{longtable}
+---
 
 
 
-
-
-\vspace*{0.2cm}
+---
 
 ### Transcription britannique
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{/\textipa{h\ae t}/} & \cellcolor{gray!6}{/\textipa{heIt}/} & \cellcolor{gray!6}{/\textipa{kA:}/} & \cellcolor{gray!6}{/\textipa{ke@}/}\\
-<e> & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
-<o> & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
-\addlinespace
-<u2> & /\textipa{pUt}/ &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑː/ </td>
+   <td style="text-align:left;"> /keə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hɜː/ </td>
+   <td style="text-align:left;"> /hɪə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜː/ </td>
+   <td style="text-align:left;"> /'faɪ.ə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɒt/ </td>
+   <td style="text-align:left;"> /nəʊt/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜː/ </td>
+   <td style="text-align:left;"> /pjʊə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
-\vspace*{0.2cm}
+---
 
 ### Transcription américaine
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{\textipa{/h\ae t/}} & \cellcolor{gray!6}{\textipa{/heIt/}} & \cellcolor{gray!6}{\textipa{/kA:r/}} & \cellcolor{gray!6}{\textipa{/ker/}}\\
-<e> & \textipa{/pet/} & \textipa{/pi:t/} & \textipa{/h@r/} & \textipa{/hIr/}\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{\textipa{/sIt/}} & \cellcolor{gray!6}{\textipa{/saIt/}} & \cellcolor{gray!6}{\textipa{/f3 \textrhoticity :/}} & \cellcolor{gray!6}{/\textipa{"faI.@r}/}\\
-<o> & \textipa{/nA:t/} & \textipa{/noUt/} & \textipa{/O:r/} & \textipa{/O:r/}\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{\textipa{/k2t/}} & \cellcolor{gray!6}{\textipa{/kju:t/}} & \cellcolor{gray!6}{\textipa{/p3 \textrhoticity :/}} & \cellcolor{gray!6}{\textipa{/pjUr/}}\\
-\addlinespace
-<u2> & \textipa{/pUt/} &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑːr/ </td>
+   <td style="text-align:left;"> /ker/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hər/ </td>
+   <td style="text-align:left;"> /hɪr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜ˞ː/ </td>
+   <td style="text-align:left;"> /'faɪ.ər/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɑːt/ </td>
+   <td style="text-align:left;"> /noʊt/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜ˞ː/ </td>
+   <td style="text-align:left;"> /pjʊr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
-\vspace*{0.2cm}
+---
 
 Quelle(s) voyelle(s) ce tableau ne présente-t-il pas ?
 
 --
 
-* /\textipa{OI}/
+* /ɔɪ/
 
 -- 
 
-* /\textipa{aU}/
+* /aʊ/
 
 --
 
-* /\textipa{@}/
+* /ə/
 
-
+---
 
 ### Écriture des symboles
 
 * Les lettres doivent être formées à la façon des caractères d'imprimerie, pas des caractères manuscrits.
 
 * Attention aux symboles suivants :
-   /\textipa{@ O I U 3 \ae  a 6 S Z T D g}/
+   /ə ɔ ɪ ʊ ɜ æ a ɒ ʃ ʒ θ ð g/
 
 * Distinguez :
 
+.pull-left[
 
+* /ɪ i/
 
-* /\textipa{I i}/
+* /ə a/
 
-* /\textipa{@ a}/
+* /æ ɑ a/
 
-* /\textipa{\ae  A a}/
+* /z ʒ/
 
-* /\textipa{z Z}/
+]
 
+.pull-left[
 
+* /ʒ ɜ/
 
+* /θ ə ɔ/
 
+* /ʊ u/
 
-* /\textipa{Z 3}/
+* /s ʃ/
 
-* /\textipa{T @ O}/
+* /ɒ ɔ ɑ/
 
-* /\textipa{U u}/
+]
 
-* /\textipa{s S}/
+---
 
-* /\textipa{6 O A}/
+* /f/ n'a pas de hampe descendante.
 
-
-
-
-
-* /\textipa{f}/ n'a pas de hampe descendante.
-
-* /\textipa{6}/ s'écrit comme un /b/ sans hampe montante.
+* /ɒ/ s'écrit comme un /b/ sans hampe montante.
 
 * **Il n'y a ni majuscules ni ponctuation dans les transcriptions.**
 
 * Les lettres < **c o q x y** > sont elles aussi inutilisées.
 
-
+---
 
  
 ### Les voyelles /i/ et /u/
 
-Le tableau suivant résume les principes régissant l'utilisation des voyelles /\textipa{i: i I u: u U}/.
+Le tableau suivant résume les principes régissant l'utilisation des voyelles /iː i ɪ uː u ʊ/.
 
-
-\begin{longtable}{lll}
-\toprule
-Voyelle & Structure syllabique & Accent\\
-\midrule
-\cellcolor{gray!6}{\textipa{i:}} & \cellcolor{gray!6}{libre} & \cellcolor{gray!6}{oui}\\
-\textipa{i} & ouverte & non\\
-\cellcolor{gray!6}{\textipa{I}} & \cellcolor{gray!6}{fermée} & \cellcolor{gray!6}{libre}\\
-\textipa{u:} & libre & oui\\
-\cellcolor{gray!6}{\textipa{u}} & \cellcolor{gray!6}{ouverte} & \cellcolor{gray!6}{non}\\
-\addlinespace
-\textipa{U} & fermée & libre\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Voyelle </th>
+   <th style="text-align:left;"> Structure syllabique </th>
+   <th style="text-align:left;"> Accent </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> iː </td>
+   <td style="text-align:left;"> libre </td>
+   <td style="text-align:left;"> oui </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> i </td>
+   <td style="text-align:left;"> ouverte </td>
+   <td style="text-align:left;"> non </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ɪ </td>
+   <td style="text-align:left;"> fermée </td>
+   <td style="text-align:left;"> libre </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> uː </td>
+   <td style="text-align:left;"> libre </td>
+   <td style="text-align:left;"> oui </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> u </td>
+   <td style="text-align:left;"> ouverte </td>
+   <td style="text-align:left;"> non </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ʊ </td>
+   <td style="text-align:left;"> fermée </td>
+   <td style="text-align:left;"> libre </td>
+  </tr>
+</tbody>
+</table>
 
 ### Exemples
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{influence} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Inf.lu.@ns}/}\\
-supreme & /01/ & /\textipa{su."pri:m}/\\
-\cellcolor{gray!6}{spiritual} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"spIr.ItS.u.@l}/}\\
-situation & /2010/ & /\textipa{""sItS.u."eIS.@n}/\\
-\cellcolor{gray!6}{warrior} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"w6r.i.@}/}\\
-\addlinespace
-trivial & /100/ & /\textipa{"trIv.i.@l}/\\
-\cellcolor{gray!6}{experience} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{Ik."spI@r.i.@ns}/}\\
-familiar & /0100/ & /\textipa{f@."mIl.i.@}/\\
-\cellcolor{gray!6}{genius} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"dZi:n.i.@s}/}\\
-regulate & /100/ & /\textipa{"reg.ju.leIt}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> influence </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
+   <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
+   <td style="text-align:left;"> ![](sounds/influence-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> supreme </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> /su.'priːm/ </td>
+   <td style="text-align:left;"> ![](sounds/supreme-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> spiritual </td>
+   <td style="text-align:left;"> /1000/ </td>
+   <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
+   <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/spiritual-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> situation </td>
+   <td style="text-align:left;"> /2010/ </td>
+   <td style="text-align:left;"> /ˌsɪtʃ.u.'eɪʃ.ən/ </td>
+   <td style="text-align:left;"> /ˌsɪtʃ.u.'eɪʃ.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/situation-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> warrior </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'wɒr.i.ə/ </td>
+   <td style="text-align:left;"> /'wɔːr.i.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/warrior-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> trivial </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'trɪv.i.əl/ </td>
+   <td style="text-align:left;"> /'trɪv.i.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/trivial-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> experience </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /ɪk.'spɪər.i.əns/ </td>
+   <td style="text-align:left;"> /ɪk.'spɪr.i.əns/ </td>
+   <td style="text-align:left;"> ![](sounds/experience-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> familiar </td>
+   <td style="text-align:left;"> /0100/ </td>
+   <td style="text-align:left;"> /fə.'mɪl.i.ə/ </td>
+   <td style="text-align:left;"> familiar </td>
+   <td style="text-align:left;"> ![](sounds/familiar-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> genius </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'dʒiːn.i.əs/ </td>
+   <td style="text-align:left;"> genius </td>
+   <td style="text-align:left;"> ![](sounds/genius-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> regulate </td>
+   <td style="text-align:left;"> /100/ </td>
+   <td style="text-align:left;"> /'reg.ju.leɪt/ </td>
+   <td style="text-align:left;"> /'reg.ju.ˌleɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/regulate-6.mp3) </td>
+  </tr>
+</tbody>
+</table>
