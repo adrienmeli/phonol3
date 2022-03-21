@@ -26,63 +26,63 @@ Considérez les verbes suivants, mentionnés chez @duchet2018 :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'rek.əg.naɪz/ </td>
    <td style="text-align:left;"> /'rek.əg.ˌnaɪz/ </td>
-   <td style="text-align:left;"> ![](sounds/recognize-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/recognize-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> occupy </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɒk.ju.paɪ/ </td>
    <td style="text-align:left;"> /'ɑːk.ju.ˌpaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/occupy-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/occupy-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> execute </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'eks.ɪ.kjuːt/ </td>
    <td style="text-align:left;"> /'eks.ɪ.ˌkjuːt/ </td>
-   <td style="text-align:left;"> ![](sounds/execute-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/execute-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> exercise </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'eks.ə.saɪz/ </td>
    <td style="text-align:left;"> /'eks.ə.ˌsaɪz/ </td>
-   <td style="text-align:left;"> ![](sounds/exercise-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/exercise-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prosecute </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'prɒs.ɪ.kjuːt/ </td>
    <td style="text-align:left;"> /'prɑːs.ɪ.ˌkjuːt/ </td>
-   <td style="text-align:left;"> ![](sounds/prosecute-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prosecute-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> register </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'redʒ.ɪst.ə/ </td>
    <td style="text-align:left;"> /'redʒ.ɪst.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/register-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/register-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> substitute </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sʌb.sti.tjuːt/ </td>
    <td style="text-align:left;"> /'sʌb.sti.ˌtjuːt/ </td>
-   <td style="text-align:left;"> ![](sounds/substitute-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/substitute-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> improvise </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɪm.prə.vaɪz/ </td>
    <td style="text-align:left;"> /'ɪm.prə.ˌvaɪz/ </td>
-   <td style="text-align:left;"> ![](sounds/improvise-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/improvise-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reconcile </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'rek.ən.saɪəl/ </td>
    <td style="text-align:left;"> /'rek.ən.ˌsaɪl/ </td>
-   <td style="text-align:left;"> ![](sounds/reconcile-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reconcile-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> advertise </td>
@@ -145,63 +145,63 @@ Dans ce paradigme, "improvise" et "reconcile" sont deux exceptions réelles puis
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌfʌnd.ə.'ment.əl/ </td>
    <td style="text-align:left;"> /ˌfʌnd.ə.'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/fundamental-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fundamental-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> original </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'rɪdʒ.ən.əl/ </td>
    <td style="text-align:left;"> /ə.'rɪdʒ.ən.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/original-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/original-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> criminal </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'krɪm.ɪn.əl/ </td>
    <td style="text-align:left;"> /'krɪm.ɪn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/criminal-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/criminal-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> parental </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /pə.'rent.əl/ </td>
    <td style="text-align:left;"> /pə.'rent.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/parental-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parental-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tremendous </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /trə.'mend.əs/ </td>
    <td style="text-align:left;"> /trə.'mend.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/tremendous-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tremendous-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gratuitous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /grə.'tjuː.ɪt.əs/ </td>
    <td style="text-align:left;"> /grə.'tjuː.ɪt.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/gratuitous-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gratuitous-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fabulous </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fæb.jʊl.əs/ </td>
    <td style="text-align:left;"> /'fæb.jʊl.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/fabulous-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fabulous-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> horrendous </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hɒ.'rend.əs/ </td>
    <td style="text-align:left;"> /ˌhɔː.'rend.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/horrendous-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/horrendous-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> felicitous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'lɪs.ɪt.əs/ </td>
    <td style="text-align:left;"> /fə.'lɪs.ɪt.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/felicitous-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/felicitous-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -259,14 +259,14 @@ En l'absence d'agrégat consonantique, ces suffixes adjectivaux ont la propriét
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /prəʊ.'nɒm.ɪn.əl/ </td>
    <td style="text-align:left;"> pronominal </td>
-   <td style="text-align:left;"> ![](sounds/pronominal-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pronominal-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> monotonous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'nɒt.ən.əs/ </td>
    <td style="text-align:left;"> /mə.'nɑːt.ən.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/monotonous-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monotonous-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> occidental </td>
@@ -280,7 +280,7 @@ En l'absence d'agrégat consonantique, ces suffixes adjectivaux ont la propriét
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌjuːn.ɪ.'vɜːs.əl/ </td>
    <td style="text-align:left;"> /ˌjuːn.ɪ.'v3r ːs.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/universal-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/universal-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> disastrous </td>
@@ -333,35 +333,35 @@ Le raisonnement est limité aux adjectifs, et est applicable dans son entier aux
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪm.'pɔːt.ənt/ </td>
    <td style="text-align:left;"> /ˌɪm.'pɔːt.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/important-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/important-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tolerant </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tɒl.ər.ənt/ </td>
    <td style="text-align:left;"> /'tɑːl.ər.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/tolerant-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tolerant-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> persistent </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /pə.'sɪst.ənt/ </td>
    <td style="text-align:left;"> /pə.'sɪst.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/persistent-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/persistent-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> confident </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒn.fɪd.ənt/ </td>
    <td style="text-align:left;"> /'kɑːn.fɪd.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/confident-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/confident-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reluctant </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ri.'lʌkt.ənt/ </td>
    <td style="text-align:left;"> /ri.'lʌkt.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/reluctant-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reluctant-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -384,7 +384,7 @@ Le raisonnement est limité aux adjectifs, et est applicable dans son entier aux
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌfʌnd.ə.'ment.əl/ </td>
    <td style="text-align:left;"> /ˌfʌnd.ə.'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/fundamental-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fundamental-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> momentous </td>
@@ -398,7 +398,7 @@ Le raisonnement est limité aux adjectifs, et est applicable dans son entier aux
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪk.ˌsper.ɪ.'ment.əl/ </td>
    <td style="text-align:left;"> /ɪk.ˌsper.ɪ.'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/experimental-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/experimental-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -422,35 +422,35 @@ obéit lui aussi à cette règle :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reg.jʊl.ə/ </td>
    <td style="text-align:left;"> /'reg.jʊl.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/regular-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regular-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> particular </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'tɪk.jʊl.ə/ </td>
    <td style="text-align:left;"> /pə.'tɪk.jʊl.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/particular-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/particular-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> popular </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɒp.jʊl.ə/ </td>
    <td style="text-align:left;"> /'pɑːp.jʊl.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/popular-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/popular-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> criminal </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'krɪm.ɪn.əl/ </td>
    <td style="text-align:left;"> /'krɪm.ɪn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/criminal-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/criminal-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> original </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'rɪdʒ.ən.əl/ </td>
    <td style="text-align:left;"> /ə.'rɪdʒ.ən.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/original-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/original-9.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -481,28 +481,28 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'hɔːm.əʊn/ </td>
    <td style="text-align:left;"> /'hɔːm.ˌoʊn/ </td>
-   <td style="text-align:left;"> ![](sounds/hormone-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hormone-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hormonal </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hɔː.'məʊn.əl/ </td>
    <td style="text-align:left;"> /'hɔː.ˌmoʊn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/hormonal-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hormonal-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tribune </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'trɪb.juːn/ </td>
    <td style="text-align:left;"> /'trɪb.juːn/ </td>
-   <td style="text-align:left;"> ![](sounds/tribune-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tribune-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tribunal </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /traɪ.'bjuːn.əl/ </td>
    <td style="text-align:left;"> /traɪ.'bjuːn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/tribunal-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tribunal-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> poverty </td>
@@ -574,14 +574,14 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪn.'stɪŋkt.ɪv/ </td>
    <td style="text-align:left;"> /ˌɪn.'stɪŋkt.ɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/instinctive-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/instinctive-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> punitive </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pjuːn.ət.ɪv/ </td>
    <td style="text-align:left;"> /'pjuːn.ət.ɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/punitive-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/punitive-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> agentive </td>
@@ -595,7 +595,7 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'vaɪs.ɪv/ </td>
    <td style="text-align:left;"> /di.'vaɪs.ɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/divisive-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/divisive-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> executive </td>
@@ -609,7 +609,7 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /nə.'reɪt.ə/ </td>
    <td style="text-align:left;"> /'ne.reɪt.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/narrator-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/narrator-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> narrative </td>
@@ -630,14 +630,14 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prə.'dʌkt.ɪv/ </td>
    <td style="text-align:left;"> /prə.'dʌkt.ɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/productive-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/productive-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> productivity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌprɒd.ʌk.'tɪv.ət.i/ </td>
    <td style="text-align:left;"> /ˌproʊd.ʌk.'tɪv.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/productivity-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/productivity-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -661,14 +661,14 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'pred.ət.ər.i/ </td>
    <td style="text-align:left;"> /'pred.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/predatory-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/predatory-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> victory </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'vɪkt.ər.i/ </td>
    <td style="text-align:left;"> /'vɪkt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/victory-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/victory-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> territory </td>
@@ -682,14 +682,14 @@ Ginésy distingue des sous-règles :
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒntr.ə.'dɪkt.ər.i/ </td>
    <td style="text-align:left;"> /ˌkɑːntr.ə.'dɪkt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/contradictory-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/contradictory-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> satisfactory </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌsæt.ɪs.'fækt.ər.i/ </td>
    <td style="text-align:left;"> /ˌsæt.ɪs.'fækt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/satisfactory-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/satisfactory-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -747,21 +747,21 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
    <td style="text-align:left;"> /020100/ </td>
    <td style="text-align:left;"> /kən.ˌgrætʃ.u.'leɪt.ər.i/ </td>
    <td style="text-align:left;"> /kən.'grætʃ.u.leɪt.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/congratulatory-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/congratulatory-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regulatory </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌreg.ju.'leɪt.ər.i/ </td>
    <td style="text-align:left;"> /'reg.ju.leɪt.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/regulatory-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regulatory-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> approbatory </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌæp.rəʊ.'beɪt.ər.i/ </td>
    <td style="text-align:left;"> approbatory </td>
-   <td style="text-align:left;"> ![](sounds/approbatory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/approbatory-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> compensatory </td>
@@ -775,7 +775,7 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
    <td style="text-align:left;"> /10000/ </td>
    <td style="text-align:left;"> /'ɒs.ɪl.ət.ər.i/ </td>
    <td style="text-align:left;"> /'ɑːs.ɪl.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/oscillatory-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/oscillatory-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> investigatory </td>
@@ -789,7 +789,7 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
    <td style="text-align:left;"> /10000/ </td>
    <td style="text-align:left;"> /'dep.rə.keɪt.ər.i/ </td>
    <td style="text-align:left;"> deprecatory </td>
-   <td style="text-align:left;"> ![](sounds/deprecatory-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deprecatory-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> imprecatory </td>
@@ -833,7 +833,7 @@ Dans les adjectifs dérivés de verbes en <-ate>, les choses changent :
    <td style="text-align:left;"> /200100/ </td>
    <td style="text-align:left;"> /ˌklæs.ɪf.ɪ.'keɪt.ər.i/ </td>
    <td style="text-align:left;"> classificatory </td>
-   <td style="text-align:left;"> ![](sounds/classificatory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/classificatory-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> justificatory </td>

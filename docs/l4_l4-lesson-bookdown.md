@@ -31,21 +31,21 @@ Considérez les mots suivants (les *dérivants* des mots en <-ian> vus précéde
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒm.əd.i/ </td>
    <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
-   <td style="text-align:left;"> ![](sounds/comedy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comedy-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/magic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/magic-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custody </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>
-   <td style="text-align:left;"> ![](sounds/custody-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/custody-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> venus </td>
@@ -91,28 +91,28 @@ Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
-   <td style="text-align:left;"> ![](sounds/energy-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/energy-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> elephant </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/elephant-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/elephant-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> library </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'laɪb.rər.i/ </td>
    <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/library-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> taciturn </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
-   <td style="text-align:left;"> ![](sounds/taciturn-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> develop </td>
@@ -126,21 +126,21 @@ Comme précédemment,  concentrez-vous sur la qualité des voyelles des syllabes
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
    <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/origin-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/origin-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> paradise </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
    <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/paradise-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/paradise-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demonstrate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
    <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -177,28 +177,28 @@ Trouvez l'exception dans les mots suivants :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
-   <td style="text-align:left;"> ![](sounds/energy-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/energy-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> elephant </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/elephant-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/elephant-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> library </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'laɪb.rər.i/ </td>
    <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/library-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> taciturn </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
-   <td style="text-align:left;"> ![](sounds/taciturn-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> develop </td>
@@ -212,21 +212,21 @@ Trouvez l'exception dans les mots suivants :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
    <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/origin-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/origin-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> paradise </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
    <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/paradise-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/paradise-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demonstrate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
    <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -261,28 +261,28 @@ Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans n
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
-   <td style="text-align:left;"> ![](sounds/energy-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/energy-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> elephant </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/elephant-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/elephant-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> library </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'laɪb.rər.i/ </td>
    <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/library-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/library-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> taciturn </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
    <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
-   <td style="text-align:left;"> ![](sounds/taciturn-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/taciturn-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> develop </td>
@@ -296,21 +296,21 @@ Parmi les mots suivants la NSR, trouvez l'exception à la règle de Luick dans n
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɒr.ɪdʒ.ɪn/ </td>
    <td style="text-align:left;"> /'ɔːr.ɪdʒ.ɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/origin-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/origin-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> paradise </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pær.ə.daɪs/ </td>
    <td style="text-align:left;"> /'per.ə.ˌdaɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/paradise-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/paradise-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demonstrate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dem.ən.streɪt/ </td>
    <td style="text-align:left;"> /'dem.ən.ˌstreɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/demonstrate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demonstrate-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -344,28 +344,28 @@ vowel in the stress syllable:
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fəʊt.ə.grɑːf/ </td>
    <td style="text-align:left;"> /'foʊt.ə.ˌgræf/ </td>
-   <td style="text-align:left;"> ![](sounds/photograph-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/photograph-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> photographer </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'tɒg.rəf.ə/ </td>
    <td style="text-align:left;"> /fə.'tɑːg.rəf.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/photographer-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/photographer-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> photographic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌfəʊt.ə.'græf.ɪk/ </td>
    <td style="text-align:left;"> /ˌfoʊt.ə.'græf.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/photographic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/photographic-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> photography </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'tɒg.rəf.i/ </td>
    <td style="text-align:left;"> /fə.'tɑːg.rəf.i/ </td>
-   <td style="text-align:left;"> ![](sounds/photography-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/photography-6.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -453,21 +453,21 @@ Explications en termes de quasi-lexèmes :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɔːt.ə.kræt/ </td>
    <td style="text-align:left;"> /'ɔːt.ə.ˌkræt/ </td>
-   <td style="text-align:left;"> ![](sounds/autocrat-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/autocrat-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> epilogue </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ep.ɪ.lɒg/ </td>
    <td style="text-align:left;"> /'ep.ɪ.ˌlɔːg/ </td>
-   <td style="text-align:left;"> ![](sounds/epilogue-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/epilogue-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> synonym </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sɪn.ə.nɪm/ </td>
    <td style="text-align:left;"> /'sɪn.ə.ˌnɪm/ </td>
-   <td style="text-align:left;"> ![](sounds/synonym-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/synonym-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> microscope </td>
@@ -481,35 +481,35 @@ Explications en termes de quasi-lexèmes :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sɪn.ə.gɒg/ </td>
    <td style="text-align:left;"> /'sɪn.ə.ˌgɔːg/ </td>
-   <td style="text-align:left;"> ![](sounds/synagogue-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/synagogue-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> dialogue </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'daɪ.ə.lɒg/ </td>
    <td style="text-align:left;"> /'daɪ.ə.ˌlɔːg/ </td>
-   <td style="text-align:left;"> ![](sounds/dialogue-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/dialogue-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hydrofoil </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'haɪdr.əʊ.fɔɪəl/ </td>
    <td style="text-align:left;"> /'haɪdr.əʊ.ˌfɔɪl/ </td>
-   <td style="text-align:left;"> ![](sounds/hydrofoil-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hydrofoil-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pentagon </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pent.əg.ən/ </td>
    <td style="text-align:left;"> /'pent.əg.ˌɑːn/ </td>
-   <td style="text-align:left;"> ![](sounds/pentagon-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pentagon-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> megaphone </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'meg.ə.fəʊn/ </td>
    <td style="text-align:left;"> /'meg.ə.ˌfoʊn/ </td>
-   <td style="text-align:left;"> ![](sounds/megaphone-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/megaphone-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thermostat </td>
@@ -545,34 +545,34 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/analogy-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/analogy-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/economy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/economy-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/phenomenon-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phenomenon-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/hypothesis-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hypothesis-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/biography-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/biography-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/bureaucracy-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bureaucracy-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/monogamy-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monogamy-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/anachronism-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/anachronism-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/antagonism-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/antagonism-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/metabolism-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/metabolism-6.mp3) </td>
   </tr>
 </tbody>
 </table>

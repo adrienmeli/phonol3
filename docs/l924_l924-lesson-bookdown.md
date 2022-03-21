@@ -32,7 +32,7 @@ Il est toujours prononcé /əbəl/
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'kælk.jʊl.əb.əl/ </td>
    <td style="text-align:left;"> calculable </td>
-   <td style="text-align:left;"> ![](sounds/calculable-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/calculable-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> educable </td>
@@ -46,14 +46,14 @@ Il est toujours prononcé /əbəl/
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kʌmft.əb.əl/ </td>
    <td style="text-align:left;"> comfortable </td>
-   <td style="text-align:left;"> ![](sounds/comfortable-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comfortable-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> executable </td>
    <td style="text-align:left;"> /10000/ </td>
    <td style="text-align:left;"> /'eks.ɪ.kjuːt.əb.əl/ </td>
    <td style="text-align:left;"> executable </td>
-   <td style="text-align:left;"> ![](sounds/executable-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/executable-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demonstrable </td>
@@ -74,7 +74,7 @@ Il est toujours prononcé /əbəl/
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ni.'gəʊʃ.i.əb.əl/ </td>
    <td style="text-align:left;"> negotiable </td>
-   <td style="text-align:left;"> ![](sounds/negotiable-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/negotiable-6.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -121,28 +121,28 @@ Prononciations :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɒz.'məʊs.ɪs/ </td>
    <td style="text-align:left;"> /ˌɔːz.'moʊs.ˌɔːs/ </td>
-   <td style="text-align:left;"> ![](sounds/osmosis-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/osmosis-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> psychosis </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /saɪ.'kəʊs.ɪs/ </td>
    <td style="text-align:left;"> /saɪ.'koʊs.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/psychosis-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/psychosis-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prognosis </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prɒg.'nəʊs.ɪs/ </td>
    <td style="text-align:left;"> /prɒg.'noʊs.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/prognosis-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prognosis-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bronchitis </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /brɒŋ.'kaɪt.ɪs/ </td>
    <td style="text-align:left;"> /brɒŋ.'kaɪt.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/bronchitis-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bronchitis-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> otitis </td>
@@ -156,7 +156,7 @@ Prononciations :
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌhiːm.ə.'təʊm.ə/ </td>
    <td style="text-align:left;"> hematoma </td>
-   <td style="text-align:left;"> ![](sounds/hematoma-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hematoma-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> diploma </td>
@@ -170,21 +170,21 @@ Prononciations :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'rəʊm.ə/ </td>
    <td style="text-align:left;"> /ə.'roʊm.ə/ </td>
-   <td style="text-align:left;"> ![](sounds/aroma-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/aroma-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> glaucoma </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /glɔː.'kəʊm.ə/ </td>
    <td style="text-align:left;"> /glɔː.'koʊm.ə/ </td>
-   <td style="text-align:left;"> ![](sounds/glaucoma-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/glaucoma-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hepatitis </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌhep.ə.'taɪt.ɪs/ </td>
    <td style="text-align:left;"> /ˌhep.ə.'taɪt.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/hepatitis-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hepatitis-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -209,35 +209,35 @@ La question de la place de l'accent secondaire n'est pas abordée dans @duchet20
    <td style="text-align:left;"> /20010/ </td>
    <td style="text-align:left;"> /ˌper.ɪ.təʊ.'naɪt.ɪs/ </td>
    <td style="text-align:left;"> peritonitis </td>
-   <td style="text-align:left;"> ![](sounds/peritonitis-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/peritonitis-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> appendicitis </td>
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ə.ˌpend.ə.'saɪt.ɪs/ </td>
    <td style="text-align:left;"> appendicitis </td>
-   <td style="text-align:left;"> ![](sounds/appendicitis-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/appendicitis-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pericarditis </td>
    <td style="text-align:left;"> /20010/ </td>
    <td style="text-align:left;"> /ˌper.i.kɑː.'daɪt.ɪs/ </td>
    <td style="text-align:left;"> pericarditis </td>
-   <td style="text-align:left;"> ![](sounds/pericarditis-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pericarditis-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> metempsychosis </td>
    <td style="text-align:left;"> /20010/ </td>
    <td style="text-align:left;"> /ˌmet.emp.saɪ.'kəʊs.ɪs/ </td>
    <td style="text-align:left;"> metempsychosis </td>
-   <td style="text-align:left;"> ![](sounds/metempsychosis-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/metempsychosis-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mesothelioma </td>
    <td style="text-align:left;"> /202010/ </td>
    <td style="text-align:left;"> /ˌmes.əʊ.ˌθiːl.i.'əʊm.ə/ </td>
    <td style="text-align:left;"> /ˌmiːs.əʊ.ˌθiːl.i.'oʊm.ə/ </td>
-   <td style="text-align:left;"> ![](sounds/mesothelioma-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mesothelioma-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -268,21 +268,21 @@ Nous suivons ici à peu près @duchet2018.
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /əʊ.'veɪʃ.ən/ </td>
    <td style="text-align:left;"> /əʊ.'veɪʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/ovation-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ovation-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> depletion </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'pliːʃ.ən/ </td>
    <td style="text-align:left;"> /di.'pliːʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/depletion-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/depletion-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> condition </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
    <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/condition-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/condition-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> devotion </td>
@@ -296,42 +296,42 @@ Nous suivons ici à peu près @duchet2018.
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
    <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/solution-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/solution-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> various </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'veər.i.əs/ </td>
    <td style="text-align:left;"> /'ver.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/various-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/various-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> serious </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sɪər.i.əs/ </td>
    <td style="text-align:left;"> /'sɪr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/serious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/serious-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> delirious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
    <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/delirious-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/delirious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> notorious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
    <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/notorious-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/notorious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> furious </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fjʊər.i.əs/ </td>
    <td style="text-align:left;"> /'fjʊr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/furious-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/furious-4.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -362,21 +362,21 @@ Rappel : <-ic> est un suffixe contraignant qui impose un schéma paroxyton (acce
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /trɔː.'mæt.ɪk/ </td>
    <td style="text-align:left;"> /trɔː.'mæt.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/traumatic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/traumatic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> systemic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /si.'stiːm.ɪk/ </td>
    <td style="text-align:left;"> /ˌsɪ.'stem.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/systemic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/systemic-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> specific </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /spə.'sɪf.ɪk/ </td>
    <td style="text-align:left;"> /spə.'sɪf.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/specific-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/specific-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prosodic </td>
@@ -390,21 +390,21 @@ Rappel : <-ic> est un suffixe contraignant qui impose un schéma paroxyton (acce
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/cubic-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cubic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> barbaric </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /bɑː.'bær.ɪk/ </td>
    <td style="text-align:left;"> /bɑː.'bær.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/barbaric-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/barbaric-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> generic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /dʒə.'ner.ɪk/ </td>
    <td style="text-align:left;"> /dʒə.'ner.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/generic-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/generic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> satiric </td>
@@ -456,14 +456,14 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'beɪs.ɪk/ </td>
    <td style="text-align:left;"> /'beɪs.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/basic-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/basic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> phonic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'fɒn.ɪk/ </td>
    <td style="text-align:left;"> /'fɑːn.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/phonic-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phonic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> rhymic </td>
@@ -477,42 +477,42 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪn.ˌsaɪk.lə.'piːd.ɪk/ </td>
    <td style="text-align:left;"> /ɪn.ˌsaɪk.lə.'piːd.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/encyclopedic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/encyclopedic-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> phonemic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /fəʊ.'niːm.ɪk/ </td>
    <td style="text-align:left;"> phonemic </td>
-   <td style="text-align:left;"> ![](sounds/phonemic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phonemic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> echoic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /e.'kəʊ.ɪk/ </td>
    <td style="text-align:left;"> echoic </td>
-   <td style="text-align:left;"> ![](sounds/echoic-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/echoic-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> stoic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'stəʊ.ɪk/ </td>
    <td style="text-align:left;"> /'stoʊ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/stoic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/stoic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> heroic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hə.'rəʊ.ɪk/ </td>
    <td style="text-align:left;"> /hə.'roʊ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/heroic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/heroic-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> archaic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɑː.'keɪ.ɪk/ </td>
    <td style="text-align:left;"> /ɑː.'keɪ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/archaic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/archaic-5.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -537,7 +537,7 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ment.əl/ </td>
    <td style="text-align:left;"> /'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/experimental-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/experimental-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> serene </td>
@@ -551,42 +551,42 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'væl.ɪd/ </td>
    <td style="text-align:left;"> /'væl.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/valid-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/valid-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> senior </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'siːn.i.ə/ </td>
    <td style="text-align:left;"> senior </td>
-   <td style="text-align:left;"> ![](sounds/senior-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/senior-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mature </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /mə.'tʃʊə/ </td>
    <td style="text-align:left;"> /mə.'tʃʊr/ </td>
-   <td style="text-align:left;"> ![](sounds/mature-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mature-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regular </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reg.jʊl.ə/ </td>
    <td style="text-align:left;"> /'reg.jʊl.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/regular-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regular-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sincere </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /sɪn.'sɪə/ </td>
    <td style="text-align:left;"> /ˌsɪn.'sɪr/ </td>
-   <td style="text-align:left;"> ![](sounds/sincere-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sincere-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jocose </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /dʒəʊ.'kəʊs/ </td>
    <td style="text-align:left;"> jocose </td>
-   <td style="text-align:left;"> ![](sounds/jocose-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jocose-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> immune </td>
@@ -614,14 +614,14 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /men.'tæl.ət.i/ </td>
    <td style="text-align:left;"> /men.'tæl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/mentality-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mentality-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> serenity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /sə.'ren.ət.i/ </td>
    <td style="text-align:left;"> /sə.'ren.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/serenity-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/serenity-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> validity </td>
@@ -642,21 +642,21 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'tʃʊər.ət.i/ </td>
    <td style="text-align:left;"> /mə.'tʃʊr.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/maturity-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/maturity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regularity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌreg.ju.'lær.ət.i/ </td>
    <td style="text-align:left;"> /ˌreg.ju.'ler.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/regularity-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regularity-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sincerity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /sɪn.'ser.ət.i/ </td>
    <td style="text-align:left;"> /ˌsɪn.'ser.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/sincerity-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sincerity-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jocosity </td>
@@ -670,7 +670,7 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪ.'mjuːn.ət.i/ </td>
    <td style="text-align:left;"> /ˌɪ.'mjuːn.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/immunity-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/immunity-4.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -708,14 +708,14 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dʒen.ə.reɪt/ </td>
    <td style="text-align:left;"> /'dʒen.ə.ˌreɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/generate-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/generate-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> articulate </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɑː.'tɪk.jʊl.ət/ </td>
    <td style="text-align:left;"> /ɑː.'tɪk.jʊl.ˌeɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/articulate-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/articulate-12.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> corroborate </td>
@@ -729,14 +729,14 @@ Les exceptions sont quelques adjectifs savants, et lorsqu'il n'y a pas de conson
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'kɒm.ə.deɪt/ </td>
    <td style="text-align:left;"> /ə.'kɑːm.ə.ˌdeɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/accommodate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/accommodate-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mutate </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /mju.'teɪt/ </td>
    <td style="text-align:left;"> /'mjuː.ˌteɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/mutate-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mutate-2.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -767,35 +767,35 @@ Ces cas-là participent soit de la règle <-ion> étendue, soit de la présence 
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'vaɪ.ə.leɪt/ </td>
    <td style="text-align:left;"> /'vaɪ.ə.leɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/violate-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/violate-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> annihilate </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'naɪ.ə.leɪt/ </td>
    <td style="text-align:left;"> /ə.'naɪ.ə.ˌleɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/annihilate-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/annihilate-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ameliorate </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ə.'miːl.i.ə.reɪt/ </td>
    <td style="text-align:left;"> ameliorate </td>
-   <td style="text-align:left;"> ![](sounds/ameliorate-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ameliorate-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deteriorate </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /di.'tɪər.i.ə.reɪt/ </td>
    <td style="text-align:left;"> /di.'tɪr.i.ə.ˌreɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/deteriorate-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deteriorate-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> alienate </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'eɪl.i.ə.neɪt/ </td>
    <td style="text-align:left;"> alienate </td>
-   <td style="text-align:left;"> ![](sounds/alienate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/alienate-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -818,35 +818,35 @@ Ces cas-là participent soit de la règle <-ion> étendue, soit de la présence 
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'məʊt.ɪ.veɪt/ </td>
    <td style="text-align:left;"> /'moʊt.ɪ.ˌveɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/motivate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/motivate-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> isolate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'aɪs.ə.leɪt/ </td>
    <td style="text-align:left;"> /'aɪs.ə.ˌleɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/isolate-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/isolate-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> elongate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'iː.lɒŋ.geɪt/ </td>
    <td style="text-align:left;"> /iː.'lɔːŋ.geɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/elongate-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/elongate-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hibernate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'haɪb.ə.neɪt/ </td>
    <td style="text-align:left;"> /'haɪb.ə.ˌneɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/hibernate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hibernate-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hyphenate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'haɪf.ə.neɪt/ </td>
    <td style="text-align:left;"> /'haɪf.ə.ˌneɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/hyphenate-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hyphenate-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> divagate </td>
@@ -860,21 +860,21 @@ Ces cas-là participent soit de la règle <-ion> étendue, soit de la présence 
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'siːk.wə.streɪt/ </td>
    <td style="text-align:left;"> sequestrate </td>
-   <td style="text-align:left;"> ![](sounds/sequestrate-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sequestrate-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> potentate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pəʊt.ən.teɪt/ </td>
    <td style="text-align:left;"> /'poʊt.ən.ˌteɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/potentate-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/potentate-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> equilibrate </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌiːk.wi.'laɪb.reɪt/ </td>
    <td style="text-align:left;"> equilibrate </td>
-   <td style="text-align:left;"> ![](sounds/equilibrate-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/equilibrate-4.mp3) </td>
   </tr>
 </tbody>
 </table>

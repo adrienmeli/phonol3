@@ -275,4 +275,16 @@ aperçu-des-constituants-de-lintonation
 les-unités-intonatives-tonality
 la-détermination-du-noyau-tonicity
 les-constituants-dune-unité-intonative
+lesson-n9-1
+todays-derivations
+connected-speech-practice
+exemple-plus-complexe
+le-ton-1
+les-fonctions-de-lintonation
+le-ton-2
+tons-descendants-ou-non
+ton-par-défaut-2-généralisations-utiles
+les-tons-descendants-falls
+la-queue
+illustration-du-décalage-mélodique-sur-le-noyau
 références
