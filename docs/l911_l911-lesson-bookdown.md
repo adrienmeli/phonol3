@@ -63,63 +63,63 @@ Le suffixe <-ative> est neutre lorsque le dérivant est un verbe en <-ate> de tr
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /əd.'ventʃ.ər.əs/ </td>
    <td style="text-align:left;"> /əd.'ventʃ.ər.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/adventurous-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/adventurous-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sentimental </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌsent.ɪ.'ment.əl/ </td>
    <td style="text-align:left;"> /ˌsent.ɪ.'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/sentimental-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sentimental-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> momentous </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /məʊ.'ment.əs/ </td>
    <td style="text-align:left;"> /məʊ.'ment.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/momentous-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/momentous-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> disastrous </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'zɑːs.trəs/ </td>
    <td style="text-align:left;"> /ˌdɪ.'zæs.trəs/ </td>
-   <td style="text-align:left;"> ![](sounds/disastrous-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/disastrous-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> orchestral </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɔː.'kes.trəl/ </td>
    <td style="text-align:left;"> /ɔː.'kes.trəl/ </td>
-   <td style="text-align:left;"> ![](sounds/orchestral-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/orchestral-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> natural </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'nætʃ.ər.əl/ </td>
    <td style="text-align:left;"> /'nætʃ.ər.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/natural-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/natural-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> analogous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'næl.əg.əs/ </td>
    <td style="text-align:left;"> /ə.'næl.əg.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/analogous-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/analogous-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> scandalous </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'skænd.əl.əs/ </td>
    <td style="text-align:left;"> /'skænd.əl.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/scandalous-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/scandalous-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> infamous </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɪn.fəm.əs/ </td>
    <td style="text-align:left;"> /'ɪn.fəm.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/infamous-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/infamous-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -170,35 +170,35 @@ Lorsque les dérivés proviennent de verbes à schémas oxytons, la dérivation 
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪk.'splɒr.ət.ər.i/ </td>
    <td style="text-align:left;"> /ɪk.'splɔːr.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/exploratory-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/exploratory-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> exclamatory </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪk.'sklæm.ət.ər.i/ </td>
    <td style="text-align:left;"> exclamatory </td>
-   <td style="text-align:left;"> ![](sounds/exclamatory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/exclamatory-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> explanatory </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪk.'splæn.ət.ər.i/ </td>
    <td style="text-align:left;"> /ɪk.'splæn.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/explanatory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/explanatory-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> obligatory </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ə.'blɪg.ət.ər.i/ </td>
    <td style="text-align:left;"> /ə.'blɪg.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/obligatory-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/obligatory-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> defamatory </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /di.'fæm.ə.tər.i/ </td>
    <td style="text-align:left;"> /di.'fæm.ə.ˌtɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/defamatory-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/defamatory-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -246,21 +246,21 @@ Pour les dérivés de paroxytons, c'est la même chose :
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /prə.'beɪʃ.ən.ər.i/ </td>
    <td style="text-align:left;"> /prə.'beɪʃ.ən.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/probationary-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/probationary-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> visionary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'vɪʒ.ən.ər.i/ </td>
    <td style="text-align:left;"> /'vɪʒ.ən.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/visionary-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/visionary-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> insurrectionary </td>
    <td style="text-align:left;"> /201000/ </td>
    <td style="text-align:left;"> /ˌɪn.sə.'rek.ʃən.ər.i/ </td>
    <td style="text-align:left;"> insurrectionary </td>
-   <td style="text-align:left;"> ![](sounds/insurrectionary-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/insurrectionary-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -285,14 +285,14 @@ Un schéma /-1000/ avec rétraction accentuelle et trois syllabes inaccentuées 
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'pred.ət.ər.i/ </td>
    <td style="text-align:left;"> /'pred.ət.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/predatory-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/predatory-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> seminary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'sem.ɪn.ər.i/ </td>
    <td style="text-align:left;"> /'sem.ɪn.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/seminary-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/seminary-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> literary </td>
@@ -306,35 +306,35 @@ Un schéma /-1000/ avec rétraction accentuelle et trois syllabes inaccentuées 
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'stætʃ.ʊt.ər.i/ </td>
    <td style="text-align:left;"> /'stætʃ.ʊt.ˌɔːr.i/ </td>
-   <td style="text-align:left;"> ![](sounds/statutory-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/statutory-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> monetary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'mʌn.ɪt.ər.i/ </td>
    <td style="text-align:left;"> /'mɑːn.ɪt.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/monetary-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monetary-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> purgatory </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɜːg.ətr.i/ </td>
    <td style="text-align:left;"> purgatory </td>
-   <td style="text-align:left;"> ![](sounds/purgatory-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/purgatory-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> solitary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'sɒl.ə.tər.i/ </td>
    <td style="text-align:left;"> /'sɑːl.ə.ˌter.i/ </td>
-   <td style="text-align:left;"> ![](sounds/solitary-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/solitary-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> military </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'mɪl.ɪ.tər.i/ </td>
    <td style="text-align:left;"> /'mɪl.ɪ.ˌter.i/ </td>
-   <td style="text-align:left;"> ![](sounds/military-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/military-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> premonitory </td>
@@ -348,7 +348,7 @@ Un schéma /-1000/ avec rétraction accentuelle et trois syllabes inaccentuées 
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'sek.rət.ər.i/ </td>
    <td style="text-align:left;"> /'sek.rət.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/secretary-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/secretary-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -373,42 +373,42 @@ Les agrégats consonantiques importent :
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌɪntr.ə.'dʌkt.ər.i/ </td>
    <td style="text-align:left;"> /ˌɪntr.ə.'dʌkt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/introductory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/introductory-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> factory </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'fæk.tri/ </td>
    <td style="text-align:left;"> factory </td>
-   <td style="text-align:left;"> ![](sounds/factory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/factory-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> refectory </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ri.'fekt.ər.i/ </td>
    <td style="text-align:left;"> refectory </td>
-   <td style="text-align:left;"> ![](sounds/refectory-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/refectory-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> victory </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'vɪkt.ər.i/ </td>
    <td style="text-align:left;"> /'vɪkt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/victory-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/victory-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> satisfactory </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌsæt.ɪs.'fækt.ər.i/ </td>
    <td style="text-align:left;"> /ˌsæt.ɪs.'fækt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/satisfactory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/satisfactory-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> valedictory </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌvæl.ɪ.'dɪk.tər.i/ </td>
    <td style="text-align:left;"> /ˌvæl.ɪ.'dɪk.tər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/valedictory-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/valedictory-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> contradictory </td>
@@ -422,21 +422,21 @@ Les agrégats consonantiques importent :
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌpɑːl.ə.'ment.ər.i/ </td>
    <td style="text-align:left;"> /ˌpɑːl.ə.'ment.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/parliamentary-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parliamentary-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> rudimentary </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌruːd.ɪ.'ment.ər.i/ </td>
    <td style="text-align:left;"> /ˌruːd.ɪ.'ment.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/rudimentary-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rudimentary-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> complementary </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒmp.li.'ment.ər.i/ </td>
    <td style="text-align:left;"> complementary </td>
-   <td style="text-align:left;"> ![](sounds/complementary-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/complementary-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -459,28 +459,28 @@ Cela inclut les mots en <-illary> :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɪl.ər.i/ </td>
    <td style="text-align:left;"> /'pɪl.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/pillory-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pillory-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> capillary </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'pɪl.ər.i/ </td>
    <td style="text-align:left;"> /'kæ.pɪl.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/capillary-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/capillary-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> maxillary </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mæk.'sɪl.ər.i/ </td>
    <td style="text-align:left;"> maxillary </td>
-   <td style="text-align:left;"> ![](sounds/maxillary-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/maxillary-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> artillery </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɑː.'tɪl.ər.i/ </td>
    <td style="text-align:left;"> /ɑː.'tɪl.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/artillery-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/artillery-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ancillary </td>
@@ -510,35 +510,35 @@ Cela inclut les mots en <-illary> :
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'fræg.mənt.ər.i/ </td>
    <td style="text-align:left;"> /'fræg.mənt.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/fragmentary-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fragmentary-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> momentary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'məʊm.ənt.ər.i/ </td>
    <td style="text-align:left;"> /'moʊm.ənt.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/momentary-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/momentary-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> commentary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'kɒm.ent.ər.i/ </td>
    <td style="text-align:left;"> /'kɑːm.ent.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/commentary-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/commentary-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sedentary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'sed.ənt.ər.i/ </td>
    <td style="text-align:left;"> /'sed.ənt.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/sedentary-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sedentary-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> voluntary </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'vɒl.ənt.ər.i/ </td>
    <td style="text-align:left;"> /'vɑːl.ənt.ər.i/ </td>
-   <td style="text-align:left;"> ![](sounds/voluntary-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/voluntary-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> desultory </td>
@@ -552,21 +552,21 @@ Cela inclut les mots en <-illary> :
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'sek.ənd.ər.i/ </td>
    <td style="text-align:left;"> /'sek.ənd.ˌer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/secondary-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/secondary-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> monastery </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'mɒn.əs.tər.i/ </td>
    <td style="text-align:left;"> /'mɑːn.əs.ˌter.i/ </td>
-   <td style="text-align:left;"> ![](sounds/monastery-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monastery-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> baptistery </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'bæpt.ɪst.ər.i/ </td>
    <td style="text-align:left;"> baptistery </td>
-   <td style="text-align:left;"> ![](sounds/baptistery-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/baptistery-2.mp3) </td>
   </tr>
 </tbody>
 </table>

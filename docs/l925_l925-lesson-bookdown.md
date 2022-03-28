@@ -30,14 +30,14 @@ Même principe que les examens du semestre impair :
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /si.'læb.ɪ.faɪ/ </td>
    <td style="text-align:left;"> syllabify </td>
-   <td style="text-align:left;"> ![](sounds/syllabify-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/syllabify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> verify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ver.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ver.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/verify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/verify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> solidify </td>
@@ -79,7 +79,7 @@ Même principe que les examens du semestre impair :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/glorify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/glorify-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> horrify </td>
@@ -100,7 +100,7 @@ Même principe que les examens du semestre impair :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reər.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'rer.ɪ.faɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/rarefy-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rarefy-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> torrefy </td>
@@ -128,7 +128,7 @@ Même principe que les examens du semestre impair :
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tjuːm.ɪ.faɪ/ </td>
    <td style="text-align:left;"> tumefy </td>
-   <td style="text-align:left;"> ![](sounds/tumefy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tumefy-2.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -159,14 +159,14 @@ Toutefois @duchet2018 ne mentionne pas le cas des voyelles suivies de <-rify>.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pæs.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'pæs.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/pacify-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pacify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> edify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ed.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ed.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/edify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/edify-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> solidify </td>
@@ -201,14 +201,14 @@ Toutefois @duchet2018 ne mentionne pas le cas des voyelles suivies de <-rify>.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ver.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ver.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/verify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/verify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> glorify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/glorify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/glorify-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> horrify </td>
@@ -259,42 +259,42 @@ Il faut distinguer :
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/vanish-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vanish-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> relish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'rel.ɪʃ/ </td>
    <td style="text-align:left;"> /'rel.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/relish-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/relish-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> diminish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/diminish-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/diminish-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> astonish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'stɒn.ɪʃ/ </td>
    <td style="text-align:left;"> /ə.'stɑːn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/astonish-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/astonish-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> punish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/punish-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/punish-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> feverish </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fiːv.ər.ɪʃ/ </td>
    <td style="text-align:left;"> /'fiːv.ər.ˌɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/feverish-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/feverish-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prudish </td>
@@ -308,14 +308,14 @@ Il faut distinguer :
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'geər.ɪʃ/ </td>
    <td style="text-align:left;"> /'ger.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/garish-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/garish-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> modish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'məʊd.ɪʃ/ </td>
    <td style="text-align:left;"> modish </td>
-   <td style="text-align:left;"> ![](sounds/modish-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/modish-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> roguish </td>
@@ -345,56 +345,56 @@ Il faut distinguer :
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/vanish-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vanish-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> blemish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'blem.ɪʃ/ </td>
    <td style="text-align:left;"> /'blem.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/blemish-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/blemish-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> diminish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/diminish-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/diminish-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> polish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pɒl.ɪʃ/ </td>
    <td style="text-align:left;"> /'pɑːl.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/polish-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/polish-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demolish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'mɒl.ɪʃ/ </td>
    <td style="text-align:left;"> /di.'mɑːl.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/demolish-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demolish-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> astonish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'stɒn.ɪʃ/ </td>
    <td style="text-align:left;"> /ə.'stɑːn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/astonish-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/astonish-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> punish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/punish-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/punish-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cherish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'tʃer.ɪʃ/ </td>
    <td style="text-align:left;"> /'tʃer.ˌɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/cherish-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cherish-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -426,7 +426,7 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ræp.ɪd/ </td>
    <td style="text-align:left;"> /'ræp.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/rapid-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rapid-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fetid </td>
@@ -440,14 +440,14 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪn.'trep.ɪd/ </td>
    <td style="text-align:left;"> /ˌɪn.'trep.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/intrepid-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/intrepid-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> livid </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'lɪv.ɪd/ </td>
    <td style="text-align:left;"> /'lɪv.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/livid-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/livid-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> carotid </td>
@@ -461,35 +461,35 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'sɒl.ɪd/ </td>
    <td style="text-align:left;"> /'sɑːl.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/solid-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/solid-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lucid </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'luːs.ɪd/ </td>
    <td style="text-align:left;"> /'luːs.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/lucid-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lucid-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arid </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ær.ɪd/ </td>
    <td style="text-align:left;"> /'ær.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/arid-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arid-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> florid </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'flɒr.ɪd/ </td>
    <td style="text-align:left;"> /'flɔːr.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/florid-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/florid-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lurid </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ljʊər.ɪd/ </td>
    <td style="text-align:left;"> /'ljʊr.ɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/lurid-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lurid-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -527,14 +527,14 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌæl.ə.'gɒr.ɪk.əl/ </td>
    <td style="text-align:left;"> /ˌæl.ə.'gɔːr.ɪk.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/allegorical-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/allegorical-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> antagonist </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /æn.'tæg.ən.ɪst/ </td>
    <td style="text-align:left;"> /æn.'tæg.ən.ɪst/ </td>
-   <td style="text-align:left;"> ![](sounds/antagonist-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/antagonist-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fratricidal </td>
@@ -590,14 +590,14 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌkəʊ.ɪn.'saɪd/ </td>
    <td style="text-align:left;"> /ˌkoʊ.ɪn.'saɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/coincide-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/coincide-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> decide </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /di.'saɪd/ </td>
    <td style="text-align:left;"> /di.'saɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/decide-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/decide-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deicide </td>
@@ -618,105 +618,105 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'frætr.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'frætr.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/fratricide-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fratricide-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fungicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fʌŋ.gɪ.saɪd/ </td>
    <td style="text-align:left;"> /'fʌŋ.gɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/fungicide-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fungicide-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> genocide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dʒen.ə.saɪd/ </td>
    <td style="text-align:left;"> /'dʒen.ə.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/genocide-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/genocide-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> germicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dʒɜːm.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'dʒ3r ːm.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/germicide-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/germicide-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> herbicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'hɜːb.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'h3r ːb.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/herbicide-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/herbicide-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> homicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'hɒm.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'hɑːm.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/homicide-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/homicide-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> infanticide </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'fænt.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /ˌ***ɪH***n.'fænt.ɪ.ˌs***ɪH***d/ </td>
-   <td style="text-align:left;"> ![](sounds/infanticide-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/infanticide-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> insecticide </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'sekt.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /ˌ***ɪH***n.'sekt.ɪ.ˌs***ɪH***d/ </td>
-   <td style="text-align:left;"> ![](sounds/insecticide-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/insecticide-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> matricide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'meɪtr.ɪ.saɪd/ </td>
    <td style="text-align:left;"> matricide </td>
-   <td style="text-align:left;"> ![](sounds/matricide-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/matricide-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> parricide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pær.ɪ.saɪd/ </td>
    <td style="text-align:left;"> parricide </td>
-   <td style="text-align:left;"> ![](sounds/parricide-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parricide-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> patricide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pætr.ɪ.saɪd/ </td>
    <td style="text-align:left;"> patricide </td>
-   <td style="text-align:left;"> ![](sounds/patricide-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/patricide-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pesticide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pest.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'pest.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/pesticide-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pesticide-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'redʒ.ɪ.saɪd/ </td>
    <td style="text-align:left;"> regicide </td>
-   <td style="text-align:left;"> ![](sounds/regicide-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regicide-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spermicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'spɜːm.ɪ.saɪd/ </td>
    <td style="text-align:left;"> spermicide </td>
-   <td style="text-align:left;"> ![](sounds/spermicide-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spermicide-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> suicide </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'suː.ɪ.saɪd/ </td>
    <td style="text-align:left;"> /'suː.ɪ.ˌsaɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/suicide-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/suicide-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tyrannicide </td>
@@ -737,7 +737,7 @@ Aucune exception n'est notée dans @duchet2018.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'vɜːm.ɪ.saɪd/ </td>
    <td style="text-align:left;"> vermicide </td>
-   <td style="text-align:left;"> ![](sounds/vermicide-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vermicide-5.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -768,7 +768,7 @@ Règle pour les mots en < -cide > : NSR
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /bæk.ˌtɪər.ɪ.'saɪd.əl/ </td>
    <td style="text-align:left;"> bactericidal </td>
-   <td style="text-align:left;"> ![](sounds/bactericidal-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bactericidal-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fratricidal </td>
@@ -789,7 +789,7 @@ Règle pour les mots en < -cide > : NSR
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌdʒɜːm.ɪ.'saɪd.əl/ </td>
    <td style="text-align:left;"> germicidal </td>
-   <td style="text-align:left;"> ![](sounds/germicidal-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/germicidal-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> homicidal </td>
@@ -810,21 +810,21 @@ Règle pour les mots en < -cide > : NSR
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪn.ˌsekt.ɪ.'saɪd.əl/ </td>
    <td style="text-align:left;"> insecticidal </td>
-   <td style="text-align:left;"> ![](sounds/insecticidal-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/insecticidal-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spermicidal </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌspɜːm.ɪ.'saɪd.əl/ </td>
    <td style="text-align:left;"> spermicidal </td>
-   <td style="text-align:left;"> ![](sounds/spermicidal-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spermicidal-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> suicidal </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌsuː.ɪ.'saɪd.əl/ </td>
    <td style="text-align:left;"> /ˌsuː.ɪ.'saɪd.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/suicidal-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/suicidal-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -847,49 +847,49 @@ Règle pour les mots en < -idal > : celle des suffixes < -ous > et < -al > (agr�
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'mel.ən.kəl.i/ </td>
    <td style="text-align:left;"> /'mel.ən.ˌkɑːl.i/ </td>
-   <td style="text-align:left;"> ![](sounds/melancholy-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/melancholy-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> extinguish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪk.'stɪŋ.gwɪʃ/ </td>
    <td style="text-align:left;"> /ɪk.'stɪŋ.gwɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/extinguish-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/extinguish-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bibliographer </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌbɪb.li.'ɒg.rəf.ə/ </td>
    <td style="text-align:left;"> bibliographer </td>
-   <td style="text-align:left;"> ![](sounds/bibliographer-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bibliographer-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arthritis </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɑː.'θraɪt.ɪs/ </td>
    <td style="text-align:left;"> /ɑː.'θraɪt.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/arthritis-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arthritis-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demagogy </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'dem.ə.gɒdʒ.i/ </td>
    <td style="text-align:left;"> /'dem.ə.ˌgɑːdʒ.i/ </td>
-   <td style="text-align:left;"> ![](sounds/demagogy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demagogy-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> admonish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /əd.'mɒn.ɪʃ/ </td>
    <td style="text-align:left;"> /əd.'mɑːn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/admonish-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/admonish-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> epilepsy </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'ep.ɪ.leps.i/ </td>
    <td style="text-align:left;"> /'ep.ɪ.ˌleps.i/ </td>
-   <td style="text-align:left;"> ![](sounds/epilepsy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/epilepsy-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prototype </td>
@@ -910,21 +910,21 @@ Règle pour les mots en < -idal > : celle des suffixes < -ous > et < -al > (agr�
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'nɒp.əl.i/ </td>
    <td style="text-align:left;"> /mə.'nɑːp.əl.i/ </td>
-   <td style="text-align:left;"> ![](sounds/monopoly-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monopoly-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> amorphous </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'mɔːf.əs/ </td>
    <td style="text-align:left;"> /ə.'mɔːf.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/amorphous-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/amorphous-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> acrimonious </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌæk.ri.'məʊn.i.əs/ </td>
    <td style="text-align:left;"> /ˌæk.ri.'moʊn.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/acrimonious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/acrimonious-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> category </td>
@@ -945,7 +945,7 @@ Règle pour les mots en < -idal > : celle des suffixes < -ous > et < -al > (agr�
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /njuə.'rəʊs.ɪs/ </td>
    <td style="text-align:left;"> /njuə.'roʊs.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/neurosis-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/neurosis-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> photographer </td>
@@ -966,21 +966,21 @@ Règle pour les mots en < -idal > : celle des suffixes < -ous > et < -al > (agr�
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /brɒŋ.'kaɪt.ɪs/ </td>
    <td style="text-align:left;"> /brɒŋ.'kaɪt.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/bronchitis-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bronchitis-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> microscope </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'maɪk.rə.skəʊp/ </td>
    <td style="text-align:left;"> /'maɪk.rə.ˌskoʊp/ </td>
-   <td style="text-align:left;"> ![](sounds/microscope-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/microscope-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> epilogue </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ep.ɪ.lɒg/ </td>
    <td style="text-align:left;"> /'ep.ɪ.ˌlɔːg/ </td>
-   <td style="text-align:left;"> ![](sounds/epilogue-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/epilogue-5.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -1010,14 +1010,14 @@ Règle pour les mots en < -idal > : celle des suffixes < -ous > et < -al > (agr�
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌædʒ.ɪk.'taɪv.əl/ </td>
    <td style="text-align:left;"> adjectival </td>
-   <td style="text-align:left;"> ![](sounds/adjectival-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/adjectival-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> establishment </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪ.'stæb.lɪʃ.mənt/ </td>
    <td style="text-align:left;"> /ɪ.'stæb.lɪʃ.mənt/ </td>
-   <td style="text-align:left;"> ![](sounds/establishment-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/establishment-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -1052,35 +1052,35 @@ Les mots en <-cidal> (qui viennent de dérivants en <-cide>) et <-ival> (qui vie
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /traɪ.'bjuːn.əl/ </td>
    <td style="text-align:left;"> /traɪ.'bjuːn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/tribunal-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tribunal-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hormonal </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hɔː.'məʊn.əl/ </td>
    <td style="text-align:left;"> /'hɔː.ˌmoʊn.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/hormonal-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hormonal-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> paradisal </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌpær.ə.'daɪs.əl/ </td>
    <td style="text-align:left;"> paradisal </td>
-   <td style="text-align:left;"> ![](sounds/paradisal-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/paradisal-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> approval </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'pruːv.əl/ </td>
    <td style="text-align:left;"> /ə.'pruːv.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/approval-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/approval-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arrival </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'raɪv.əl/ </td>
    <td style="text-align:left;"> /ə.'raɪv.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/arrival-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arrival-8.mp3) </td>
   </tr>
 </tbody>
 </table>

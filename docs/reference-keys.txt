@@ -287,4 +287,14 @@ ton-par-défaut-2-généralisations-utiles
 les-tons-descendants-falls
 la-queue
 illustration-du-décalage-mélodique-sur-le-noyau
+lesson-n10-1
+connected-speech-practice-1
+transcription-training
+intonation
+les-tons-ascendants-rises
+tons-descendants-montants-fall-rises
+intonation-des-phrases-déclaratives-statements
+le-ton-descendant-finalisant-the-definitive-fall
+other-examples
+le-tdm-de-sous-entendu-implicational-fall-rise
 références

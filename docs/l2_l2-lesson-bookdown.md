@@ -370,21 +370,21 @@ Le tableau suivant résume les principes régissant l'utilisation des voyelles /
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
    <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
-   <td style="text-align:left;"> ![](sounds/influence-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/influence-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> supreme </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /su.'priːm/ </td>
    <td style="text-align:left;"> /su.'priːm/ </td>
-   <td style="text-align:left;"> ![](sounds/supreme-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/supreme-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spiritual </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
    <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/spiritual-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spiritual-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> situation </td>
@@ -398,7 +398,7 @@ Le tableau suivant résume les principes régissant l'utilisation des voyelles /
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'wɒr.i.ə/ </td>
    <td style="text-align:left;"> /'wɔːr.i.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/warrior-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/warrior-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> trivial </td>
@@ -412,28 +412,28 @@ Le tableau suivant résume les principes régissant l'utilisation des voyelles /
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪk.'spɪər.i.əns/ </td>
    <td style="text-align:left;"> /ɪk.'spɪr.i.əns/ </td>
-   <td style="text-align:left;"> ![](sounds/experience-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/experience-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> familiar </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'mɪl.i.ə/ </td>
    <td style="text-align:left;"> familiar </td>
-   <td style="text-align:left;"> ![](sounds/familiar-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/familiar-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> genius </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dʒiːn.i.əs/ </td>
    <td style="text-align:left;"> genius </td>
-   <td style="text-align:left;"> ![](sounds/genius-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/genius-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regulate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reg.ju.leɪt/ </td>
    <td style="text-align:left;"> /'reg.ju.ˌleɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/regulate-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regulate-9.mp3) </td>
   </tr>
 </tbody>
 </table>

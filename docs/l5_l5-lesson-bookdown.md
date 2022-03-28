@@ -36,35 +36,35 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /i.'kɒn.əm.i/ </td>
    <td style="text-align:left;"> /i.'kɑːn.əm.i/ </td>
-   <td style="text-align:left;"> ![](sounds/economy-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/economy-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> phenomenon </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'nɒm.ɪn.ən/ </td>
    <td style="text-align:left;"> /fə.'nɑːm.ɪn.ˌɑːn/ </td>
-   <td style="text-align:left;"> ![](sounds/phenomenon-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phenomenon-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hypothesis </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /haɪ.'pɒθ.əs.ɪs/ </td>
    <td style="text-align:left;"> /haɪ.'pɑːθ.əs.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/hypothesis-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hypothesis-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> biography </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /baɪ.'ɒg.rəf.i/ </td>
    <td style="text-align:left;"> /baɪ.'ɑːg.rəf.i/ </td>
-   <td style="text-align:left;"> ![](sounds/biography-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/biography-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bureaucracy </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /bjuə.'rɒk.rəs.i/ </td>
    <td style="text-align:left;"> /bjuə.'rɑːk.rəs.i/ </td>
-   <td style="text-align:left;"> ![](sounds/bureaucracy-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bureaucracy-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> monogamy </td>
@@ -78,21 +78,21 @@
    <td style="text-align:left;"> /01020/ </td>
    <td style="text-align:left;"> /ə.'næk.rə.ˌnɪz.əm/ </td>
    <td style="text-align:left;"> /ə.'næk.rə.ˌnɪz.əm/ </td>
-   <td style="text-align:left;"> ![](sounds/anachronism-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/anachronism-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> antagonism </td>
    <td style="text-align:left;"> /01020/ </td>
    <td style="text-align:left;"> /æn.'tæg.ə.ˌnɪz.əm/ </td>
    <td style="text-align:left;"> /æn.'tæg.ə.ˌnɪz.əm/ </td>
-   <td style="text-align:left;"> ![](sounds/antagonism-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/antagonism-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> metabolism </td>
    <td style="text-align:left;"> /01020/ </td>
    <td style="text-align:left;"> /mə.'tæb.ə.ˌlɪz.əm/ </td>
    <td style="text-align:left;"> /mə.'tæb.ə.ˌlɪz.əm/ </td>
-   <td style="text-align:left;"> ![](sounds/metabolism-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/metabolism-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -141,7 +141,7 @@
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'dem.ə.gɒdʒ.i/ </td>
    <td style="text-align:left;"> /'dem.ə.ˌgɑːdʒ.i/ </td>
-   <td style="text-align:left;"> ![](sounds/demagogy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demagogy-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> allegory </td>
@@ -169,14 +169,14 @@
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'mel.ən.kəl.i/ </td>
    <td style="text-align:left;"> /'mel.ən.ˌkɑːl.i/ </td>
-   <td style="text-align:left;"> ![](sounds/melancholy-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/melancholy-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ceremony </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'ser.əm.ən.i/ </td>
    <td style="text-align:left;"> /'ser.əm.ˌoʊn.i/ </td>
-   <td style="text-align:left;"> ![](sounds/ceremony-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ceremony-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> acrimony </td>
@@ -190,14 +190,14 @@
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'test.ɪ.mən.i/ </td>
    <td style="text-align:left;"> /'test.ɪ.ˌmoʊn.i/ </td>
-   <td style="text-align:left;"> ![](sounds/testimony-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/testimony-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> parsimony </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'pɑːs.ɪm.ən.i/ </td>
    <td style="text-align:left;"> /'pɑːs.ɪm.ˌoʊn.i/ </td>
-   <td style="text-align:left;"> ![](sounds/parsimony-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parsimony-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> orthodox </td>
@@ -233,42 +233,42 @@ Lequel ?
    <td style="text-align:left;"> /1020/ </td>
    <td style="text-align:left;"> /'kaɪər.əʊ.ˌmæns.i/ </td>
    <td style="text-align:left;"> chiromancy </td>
-   <td style="text-align:left;"> ![](sounds/chiromancy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/chiromancy-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> epilepsy </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'ep.ɪ.leps.i/ </td>
    <td style="text-align:left;"> /'ep.ɪ.ˌleps.i/ </td>
-   <td style="text-align:left;"> ![](sounds/epilepsy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/epilepsy-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> oligarchy </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'ɒl.ɪ.gɑːk.i/ </td>
    <td style="text-align:left;"> /'ɑːl.ɪ.ˌgɑːk.i/ </td>
-   <td style="text-align:left;"> ![](sounds/oligarchy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/oligarchy-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> polyandrous </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌpɒl.i.'ændr.əs/ </td>
    <td style="text-align:left;"> /ˌpɑːl.i.'ændr.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/polyandrous-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/polyandrous-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> epidermis </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌep.ɪ.'dɜːm.ɪs/ </td>
    <td style="text-align:left;"> /ˌep.ɪ.'d3r ːm.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/epidermis-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/epidermis-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cathedral </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /kə.'θiːdr.əl/ </td>
    <td style="text-align:left;"> /kə.'θiːdr.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/cathedral-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cathedral-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> anthropomorphism </td>
@@ -282,21 +282,21 @@ Lequel ?
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌbrɒnt.ə.'sɔːr.əs/ </td>
    <td style="text-align:left;"> /ˌbrɔːnt.ə.'sɔːr.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/brontosaurus-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/brontosaurus-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> experimental </td>
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪk.ˌsper.ɪ.'ment.əl/ </td>
    <td style="text-align:left;"> /ɪk.ˌsper.ɪ.'ment.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/experimental-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/experimental-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> complementary </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒmp.li.'ment.ər.i/ </td>
    <td style="text-align:left;"> complementary </td>
-   <td style="text-align:left;"> ![](sounds/complementary-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/complementary-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -325,28 +325,28 @@ Comment catégoriseriez-vous les suffixes de ces mots ?
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'mɒn.ə.təʊn/ </td>
    <td style="text-align:left;"> /'mɑːn.ə.ˌtoʊn/ </td>
-   <td style="text-align:left;"> ![](sounds/monotone-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monotone-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> monotonous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'nɒt.ən.əs/ </td>
    <td style="text-align:left;"> /mə.'nɑːt.ən.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/monotonous-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/monotonous-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pyramid </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɪr.ə.mɪd/ </td>
    <td style="text-align:left;"> /'pɪr.ə.mɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/pyramid-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pyramid-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pyramidal </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pi.'ræm.ɪd.əl/ </td>
    <td style="text-align:left;"> /pi.'ræm.ɪd.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/pyramidal-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pyramidal-2.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -383,7 +383,7 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'pæs.ət.i/ </td>
    <td style="text-align:left;"> /kə.'pæs.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/capacity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/capacity-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> stupidity </td>
@@ -397,56 +397,56 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌprɒb.ə.'bɪl.ət.i/ </td>
    <td style="text-align:left;"> /ˌprɑːb.ə.'bɪl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/probability-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/probability-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> similarity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌsɪm.ə.'lær.ət.i/ </td>
    <td style="text-align:left;"> /ˌsɪm.ə.'ler.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/similarity-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/similarity-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> continuity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒnt.ɪ.'njuː.ət.i/ </td>
    <td style="text-align:left;"> /ˌkɑːnt.ɪ.'njuː.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/continuity-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/continuity-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> opportunity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌɒp.ə.'tjuːn.ət.i/ </td>
    <td style="text-align:left;"> /ˌɑːp.ə.'tjuːn.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/opportunity-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/opportunity-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> electricity </td>
    <td style="text-align:left;"> /02100/ </td>
    <td style="text-align:left;"> /i.ˌlek.'trɪs.ət.i/ </td>
    <td style="text-align:left;"> /i.ˌlek.'trɪs.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/electricity-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/electricity-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sincerity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /sɪn.'ser.ət.i/ </td>
    <td style="text-align:left;"> /ˌsɪn.'ser.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/sincerity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sincerity-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> nationality </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌnæʃ.ə.'næl.ət.i/ </td>
    <td style="text-align:left;"> /ˌnæʃ.ə.'næl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/nationality-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/nationality-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> charity </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tʃær.ət.i/ </td>
    <td style="text-align:left;"> /'tʃer.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/charity-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/charity-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -472,7 +472,7 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ver.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ver.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/verify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/verify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> modify </td>
@@ -486,14 +486,14 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/glorify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/glorify-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> satisfy </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sæt.ɪs.faɪ/ </td>
    <td style="text-align:left;"> /'sæt.ɪs.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/satisfy-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/satisfy-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crucify </td>
@@ -507,7 +507,7 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'æmp.li.faɪ/ </td>
    <td style="text-align:left;"> /'æmp.li.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/amplify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/amplify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> purify </td>
@@ -521,21 +521,21 @@ Suffixe constitué de deux syllabes, <-ity> s'écrit <-ety> après la voyelle gr
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tjuːm.ɪ.faɪ/ </td>
    <td style="text-align:left;"> tumefy </td>
-   <td style="text-align:left;"> ![](sounds/tumefy-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tumefy-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> falsify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fɔːls.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'fɔːls.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/falsify-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/falsify-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magnify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'mæg.ni.faɪ/ </td>
    <td style="text-align:left;"> /'mæg.ni.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/magnify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/magnify-8.mp3) </td>
   </tr>
 </tbody>
 </table>

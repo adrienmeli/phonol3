@@ -405,35 +405,35 @@ Ces verbes ont en général un schéma paroxyton (/10/).
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'bɒr.əʊ/ </td>
    <td style="text-align:left;"> /'bɑːr.ˌoʊ/ </td>
-   <td style="text-align:left;"> ![](sounds/borrow-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/borrow-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> litter </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'lɪt.ə/ </td>
    <td style="text-align:left;"> /'lɪt.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/litter-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/litter-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cater </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'keɪt.ə/ </td>
    <td style="text-align:left;"> /'keɪt.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/cater-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cater-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bury </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ber.i/ </td>
    <td style="text-align:left;"> /'ber.i/ </td>
-   <td style="text-align:left;"> ![](sounds/bury-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bury-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> carry </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kær.i/ </td>
    <td style="text-align:left;"> /'kær.i/ </td>
-   <td style="text-align:left;"> ![](sounds/carry-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/carry-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cancel </td>
@@ -447,28 +447,28 @@ Ces verbes ont en général un schéma paroxyton (/10/).
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ræt.əl/ </td>
    <td style="text-align:left;"> /'ræt.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/rattle-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rattle-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> settle </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'set.əl/ </td>
    <td style="text-align:left;"> /'set.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/settle-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/settle-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> marry </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mær.i/ </td>
    <td style="text-align:left;"> /'mer.i/ </td>
-   <td style="text-align:left;"> ![](sounds/marry-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/marry-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> settle </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'set.əl/ </td>
    <td style="text-align:left;"> /'set.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/settle-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/settle-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> meddle </td>
@@ -482,7 +482,7 @@ Ces verbes ont en général un schéma paroxyton (/10/).
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mel.əʊ/ </td>
    <td style="text-align:left;"> /'mel.əʊ/ </td>
-   <td style="text-align:left;"> ![](sounds/mellow-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mellow-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> swallow </td>
@@ -496,21 +496,21 @@ Ces verbes ont en général un schéma paroxyton (/10/).
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'veər.i/ </td>
    <td style="text-align:left;"> /'ver.i/ </td>
-   <td style="text-align:left;"> ![](sounds/vary-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vary-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> beckon </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'bek.ən/ </td>
    <td style="text-align:left;"> /'bek.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/beckon-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/beckon-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reckon </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'rek.ən/ </td>
    <td style="text-align:left;"> /'rek.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/reckon-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reckon-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -537,70 +537,70 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /di.'naɪ/ </td>
    <td style="text-align:left;"> /di.'naɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/deny-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deny-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> excel </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪk.'sel/ </td>
    <td style="text-align:left;"> /ɪk.'sel/ </td>
-   <td style="text-align:left;"> ![](sounds/excel-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/excel-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deter </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /di.'tɜː/ </td>
    <td style="text-align:left;"> /di.'t3r ː/ </td>
-   <td style="text-align:left;"> ![](sounds/deter-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deter-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> become </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /bi.'kʌm/ </td>
    <td style="text-align:left;"> /bi.'kʌm/ </td>
-   <td style="text-align:left;"> ![](sounds/become-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/become-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> enrol </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪn.'rəʊl/ </td>
    <td style="text-align:left;"> /ɪn.'roʊl/ </td>
-   <td style="text-align:left;"> ![](sounds/enrol-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/enrol-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reduce </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'djuːs/ </td>
    <td style="text-align:left;"> /ri.'djuːs/ </td>
-   <td style="text-align:left;"> ![](sounds/reduce-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reduce-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> insure </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪn.'ʃʊə/ </td>
    <td style="text-align:left;"> /ˌɪn.'ʃʊr/ </td>
-   <td style="text-align:left;"> ![](sounds/insure-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/insure-12.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> begin </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /bi.'gɪn/ </td>
    <td style="text-align:left;"> /bi.'gɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/begin-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/begin-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> enact </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪn.'ækt/ </td>
    <td style="text-align:left;"> /ɪn.'ækt/ </td>
-   <td style="text-align:left;"> ![](sounds/enact-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/enact-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> resume </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'zjuːm/ </td>
    <td style="text-align:left;"> /ri.'zjuːm/ </td>
-   <td style="text-align:left;"> ![](sounds/resume-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/resume-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deduce </td>
@@ -614,42 +614,42 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /fə.'get/ </td>
    <td style="text-align:left;"> /fə.'get/ </td>
-   <td style="text-align:left;"> ![](sounds/forget-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/forget-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mistake </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /mi.'steɪk/ </td>
    <td style="text-align:left;"> /ˌmɪ.'steɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/mistake-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mistake-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> presume </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /pri.'zjuːm/ </td>
    <td style="text-align:left;"> /pri.'zjuːm/ </td>
-   <td style="text-align:left;"> ![](sounds/presume-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/presume-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> disclose </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /dɪs.'kləʊz/ </td>
    <td style="text-align:left;"> /ˌdɪs.'kloʊz/ </td>
-   <td style="text-align:left;"> ![](sounds/disclose-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/disclose-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> forgive </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /fə.'gɪv/ </td>
    <td style="text-align:left;"> /fə.'gɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/forgive-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/forgive-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arrange </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'reɪndʒ/ </td>
    <td style="text-align:left;"> /ə.'reɪndʒ/ </td>
-   <td style="text-align:left;"> ![](sounds/arrange-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arrange-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> resolve </td>
@@ -677,70 +677,70 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪk.'saɪt/ </td>
    <td style="text-align:left;"> /ɪk.'saɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/excite-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/excite-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> repair </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'peə/ </td>
    <td style="text-align:left;"> /ri.'per/ </td>
-   <td style="text-align:left;"> ![](sounds/repair-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/repair-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> impose </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪm.'pəʊz/ </td>
    <td style="text-align:left;"> /ˌɪm.'poʊz/ </td>
-   <td style="text-align:left;"> ![](sounds/impose-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/impose-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> believe </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /bi.'liːv/ </td>
    <td style="text-align:left;"> /bi.'liːv/ </td>
-   <td style="text-align:left;"> ![](sounds/believe-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/believe-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> admit </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /əd.'mɪt/ </td>
    <td style="text-align:left;"> /əd.'mɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/admit-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/admit-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> remind </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'maɪnd/ </td>
    <td style="text-align:left;"> /ri.'maɪnd/ </td>
-   <td style="text-align:left;"> ![](sounds/remind-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/remind-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> compose </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /kəm.'pəʊz/ </td>
    <td style="text-align:left;"> /kəm.'poʊz/ </td>
-   <td style="text-align:left;"> ![](sounds/compose-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/compose-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> betray </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /bi.'treɪ/ </td>
    <td style="text-align:left;"> /bi.'treɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/betray-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/betray-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arrive </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'raɪv/ </td>
    <td style="text-align:left;"> /ə.'raɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/arrive-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arrive-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> resist </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'zɪst/ </td>
    <td style="text-align:left;"> /ri.'zɪst/ </td>
-   <td style="text-align:left;"> ![](sounds/resist-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/resist-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> suppose </td>
@@ -754,77 +754,77 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /fə.'bɪd/ </td>
    <td style="text-align:left;"> /fə.'bɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/forbid-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/forbid-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> retain </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'teɪn/ </td>
    <td style="text-align:left;"> /ri.'teɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/retain-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/retain-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> oppose </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'pəʊz/ </td>
    <td style="text-align:left;"> /ə.'poʊz/ </td>
-   <td style="text-align:left;"> ![](sounds/oppose-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/oppose-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> foresee </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /fɔː.'siː/ </td>
    <td style="text-align:left;"> /fɔː.'siː/ </td>
-   <td style="text-align:left;"> ![](sounds/foresee-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/foresee-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> accept </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ək.'sept/ </td>
    <td style="text-align:left;"> /ək.'sept/ </td>
-   <td style="text-align:left;"> ![](sounds/accept-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/accept-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> refuse </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'fjuːz/ </td>
    <td style="text-align:left;"> /ri.'fjuːz/ </td>
-   <td style="text-align:left;"> ![](sounds/refuse-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/refuse-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> offend </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'fend/ </td>
    <td style="text-align:left;"> /ə.'fend/ </td>
-   <td style="text-align:left;"> ![](sounds/offend-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/offend-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> uphold </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ʌp.'həʊld/ </td>
    <td style="text-align:left;"> /ʌp.'hoʊld/ </td>
-   <td style="text-align:left;"> ![](sounds/uphold-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/uphold-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> appraise </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'preɪz/ </td>
    <td style="text-align:left;"> /ə.'preɪz/ </td>
-   <td style="text-align:left;"> ![](sounds/appraise-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/appraise-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reprove </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'pruːv/ </td>
    <td style="text-align:left;"> reprove </td>
-   <td style="text-align:left;"> ![](sounds/reprove-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reprove-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demand </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /di.'mɑːnd/ </td>
    <td style="text-align:left;"> /ˌdɪ.'mænd/ </td>
-   <td style="text-align:left;"> ![](sounds/demand-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demand-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> abet </td>
@@ -838,14 +838,14 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ə.'lʊə/ </td>
    <td style="text-align:left;"> /ə.'lʊr/ </td>
-   <td style="text-align:left;"> ![](sounds/allure-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/allure-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> rehearse </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'hɜːs/ </td>
    <td style="text-align:left;"> /ri.'h3r ːs/ </td>
-   <td style="text-align:left;"> ![](sounds/rehearse-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rehearse-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> allege </td>
@@ -859,14 +859,14 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'zaɪn/ </td>
    <td style="text-align:left;"> /ri.'zaɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/resign-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/resign-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> refer </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'fɜː/ </td>
    <td style="text-align:left;"> /ri.'f3r ː/ </td>
-   <td style="text-align:left;"> ![](sounds/prefer-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prefer-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> confer </td>
@@ -896,35 +896,35 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌʌnd.ə.'stænd/ </td>
    <td style="text-align:left;"> /ˌʌnd.ə.'stænd/ </td>
-   <td style="text-align:left;"> ![](sounds/understand-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/understand-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> intervene </td>
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌɪnt.ə.'viːn/ </td>
    <td style="text-align:left;"> /ˌɪnt.ə.'viːn/ </td>
-   <td style="text-align:left;"> ![](sounds/intervene-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/intervene-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> supersede </td>
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌsuːp.ə.'siːd/ </td>
    <td style="text-align:left;"> /ˌsuːp.ə.'siːd/ </td>
-   <td style="text-align:left;"> ![](sounds/supersede-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/supersede-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> circumvent </td>
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌsɜːk.əm.'vent/ </td>
    <td style="text-align:left;"> /ˌs3r ːk.əm.'vent/ </td>
-   <td style="text-align:left;"> ![](sounds/circumvent-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/circumvent-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> override </td>
    <td style="text-align:left;"> /201/ </td>
    <td style="text-align:left;"> /ˌəʊv.ə.'raɪd/ </td>
    <td style="text-align:left;"> /'oʊv.ə.ˌraɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/override-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/override-11.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -947,14 +947,14 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et s
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ed.ɪt/ </td>
    <td style="text-align:left;"> /'ed.ɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/edit-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/edit-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> enter </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ent.ə/ </td>
    <td style="text-align:left;"> /'ent.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/enter-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/enter-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> destine </td>
@@ -968,35 +968,35 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et s
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'sev.ə/ </td>
    <td style="text-align:left;"> /'sev.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/sever-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sever-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prosper </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'prɒsp.ə/ </td>
    <td style="text-align:left;"> /'prɑːsp.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/prosper-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prosper-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> suffer </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'sʌf.ə/ </td>
    <td style="text-align:left;"> /'sʌf.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/suffer-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/suffer-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> differ </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'dɪf.ə/ </td>
    <td style="text-align:left;"> /'dɪf.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/differ-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/differ-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> proffer </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'prɒf.ə/ </td>
    <td style="text-align:left;"> /'prɑːf.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/proffer-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/proffer-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> conjure </td>
@@ -1010,14 +1010,14 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés, et s
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'ɪndʒ.ə/ </td>
    <td style="text-align:left;"> /'ɪndʒ.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/injure-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/injure-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> conquer </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kɒŋk.ə/ </td>
    <td style="text-align:left;"> /'kɑːŋk.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/conquer-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/conquer-6.mp3) </td>
   </tr>
 </tbody>
 </table>

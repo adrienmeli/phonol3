@@ -83,21 +83,21 @@ Cette catégorisation des voyelles est importante pour comprendre la différence
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
    <td style="text-align:left;"> /'ɪnf.lu.əns/ </td>
-   <td style="text-align:left;"> ![](sounds/influence-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/influence-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> supreme </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /su.'priːm/ </td>
    <td style="text-align:left;"> /su.'priːm/ </td>
-   <td style="text-align:left;"> ![](sounds/supreme-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/supreme-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spiritual </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
    <td style="text-align:left;"> /'spɪr.ɪtʃ.u.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/spiritual-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spiritual-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> situation </td>
@@ -111,7 +111,7 @@ Cette catégorisation des voyelles est importante pour comprendre la différence
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'wɒr.i.ə/ </td>
    <td style="text-align:left;"> /'wɔːr.i.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/warrior-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/warrior-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> trivial </td>
@@ -125,28 +125,28 @@ Cette catégorisation des voyelles est importante pour comprendre la différence
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪk.'spɪər.i.əns/ </td>
    <td style="text-align:left;"> /ɪk.'spɪr.i.əns/ </td>
-   <td style="text-align:left;"> ![](sounds/experience-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/experience-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> familiar </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'mɪl.i.ə/ </td>
    <td style="text-align:left;"> familiar </td>
-   <td style="text-align:left;"> ![](sounds/familiar-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/familiar-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> genius </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'dʒiːn.i.əs/ </td>
    <td style="text-align:left;"> genius </td>
-   <td style="text-align:left;"> ![](sounds/genius-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/genius-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> regulate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reg.ju.leɪt/ </td>
    <td style="text-align:left;"> /'reg.ju.ˌleɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/regulate-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/regulate-9.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -182,28 +182,28 @@ Pour les mots suivants, concentrez-vous sur la qualité des voyelles accentuées
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /kəm.'pliːʃ.ən/ </td>
    <td style="text-align:left;"> /kəm.'pliːʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/completion-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/completion-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> condition </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
    <td style="text-align:left;"> /kən.'dɪʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/condition-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/condition-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> promotion </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prə.'məʊʃ.ən/ </td>
    <td style="text-align:left;"> /prə.'moʊʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/promotion-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/promotion-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> solution </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
    <td style="text-align:left;"> /sə.'luːʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/solution-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/solution-7.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -233,7 +233,7 @@ Cette règle est-elle valable pour le suffixe suivant ?
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
    <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/comedian-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comedian-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magician </td>
@@ -247,7 +247,7 @@ Cette règle est-elle valable pour le suffixe suivant ?
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kʌ.'stəʊd.i.ən/ </td>
    <td style="text-align:left;"> /kʌ.'stoʊd.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/custodian-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/custodian-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> venusian </td>
@@ -316,14 +316,14 @@ Déterminez les règles de prononciation de la voyelle accentuée à partir des 
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒm.əd.i/ </td>
    <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
-   <td style="text-align:left;"> ![](sounds/comedy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comedy-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/magic-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/magic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custody </td>
@@ -366,28 +366,28 @@ Vérifiez votre règle :
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɔː.'deɪʃ.əs/ </td>
    <td style="text-align:left;"> /ɔː.'deɪʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/audacious-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/audacious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> precious </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'preʃ.əs/ </td>
    <td style="text-align:left;"> /'preʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/precious-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/precious-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> delicious </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'lɪʃ.əs/ </td>
    <td style="text-align:left;"> /di.'lɪʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/delicious-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/delicious-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> atrocious </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'trəʊʃ.əs/ </td>
    <td style="text-align:left;"> /ə.'troʊʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/atrocious-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/atrocious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pluvious </td>
@@ -408,28 +408,28 @@ Vérifiez votre règle :
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mi.'stɪər.i.əs/ </td>
    <td style="text-align:left;"> /ˌmɪ.'stɪr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/mysterious-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mysterious-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> delirious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
    <td style="text-align:left;"> /di.'lɪr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/delirious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/delirious-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> notorious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
    <td style="text-align:left;"> /nəʊ.'tɔːr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/notorious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/notorious-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> curious </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kjʊər.i.əs/ </td>
    <td style="text-align:left;"> /'kjʊr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/curious-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/curious-3.mp3) </td>
   </tr>
 </tbody>
 </table>

@@ -24,21 +24,21 @@
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɔːk.ɪs.trə/ </td>
    <td style="text-align:left;"> /'ɔːk.ɪs.trə/ </td>
-   <td style="text-align:left;"> ![](sounds/orchestra-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/orchestra-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> orchestral </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɔː.'kes.trəl/ </td>
    <td style="text-align:left;"> /ɔː.'kes.trəl/ </td>
-   <td style="text-align:left;"> ![](sounds/orchestral-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/orchestral-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> autonomy </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɔː.'tɒn.əm.i/ </td>
    <td style="text-align:left;"> /ɔː.'tɑːn.əm.i/ </td>
-   <td style="text-align:left;"> ![](sounds/autonomy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/autonomy-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> autonomous </td>
