@@ -107,7 +107,7 @@ If we consider the orthographic rule as the default rule, <-e-> in the stressed 
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ʌn.'krɪst.jən/ </td>
    <td style="text-align:left;"> unchristian </td>
-   <td style="text-align:left;"> ![](sounds/unchristian-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/unchristian-2.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -156,21 +156,21 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'kred.əb.əl/ </td>
    <td style="text-align:left;"> /ˌɪn.'kred.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/incredible-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/incredible-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> compatible </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kəm.'pæt.əb.əl/ </td>
    <td style="text-align:left;"> /kəm.'pæt.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/compatible-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/compatible-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> irascible </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪ.'ræs.əb.əl/ </td>
    <td style="text-align:left;"> /ɪ.'ræs.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/irascible-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/irascible-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> possible </td>
@@ -184,35 +184,35 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'vɪz.əb.əl/ </td>
    <td style="text-align:left;"> /ˌɪn.'vɪz.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/invisible-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/invisible-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> indelible </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'del.əb.əl/ </td>
    <td style="text-align:left;"> /ˌɪn.'del.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/indelible-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/indelible-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> responsible </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ri.'spɒns.əb.əl/ </td>
    <td style="text-align:left;"> /ri.'spɑːns.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/responsible-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/responsible-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> forcible </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fɔːs.əb.əl/ </td>
    <td style="text-align:left;"> /'fɔːs.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/forcible-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/forcible-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> comprehensible </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒmp.ri.'hens.əb.əl/ </td>
    <td style="text-align:left;"> /ˌkɑːmp.ri.'hens.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/comprehensible-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comprehensible-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gullible </td>
@@ -244,28 +244,28 @@ Schéma préproparoxyton (/1000/)
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'el.ɪdʒ.əb.əl/ </td>
    <td style="text-align:left;"> /'el.ɪdʒ.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/eligible-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/eligible-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> intelligible </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪn.'tel.ɪdʒ.əb.əl/ </td>
    <td style="text-align:left;"> /ˌɪn.'tel.ɪdʒ.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/intelligible-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/intelligible-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> incorrigible </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪn.'kɒr.ɪdʒ.əb.əl/ </td>
    <td style="text-align:left;"> /ˌɪn.'kɑːr.ɪdʒ.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/incorrigible-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/incorrigible-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> negligible </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
    <td style="text-align:left;"> /'neg.lɪdʒ.əb.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/negligible-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/negligible-6.mp3) </td>
   </tr>
 </tbody>
 </table>

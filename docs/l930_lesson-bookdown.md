@@ -32,21 +32,21 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪm.'pɒv.ər.ɪʃ/ </td>
    <td style="text-align:left;"> impoverish </td>
-   <td style="text-align:left;"> ![](sounds/impoverish-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/impoverish-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ceremonious </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌser.ə.'məʊn.i.əs/ </td>
    <td style="text-align:left;"> ceremonious </td>
-   <td style="text-align:left;"> ![](sounds/ceremonious-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ceremonious-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> parenthesis </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'renθ.əs.ɪs/ </td>
    <td style="text-align:left;"> /pə.'renθ.əs.ˌɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/parenthesis-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parenthesis-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> undoubtedly </td>
@@ -60,7 +60,7 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'fɜːm.ət.ɪv/ </td>
    <td style="text-align:left;"> /ə.'f3r ːm.ət.ɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/affirmative-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/affirmative-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -74,8 +74,8 @@
 <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;"> V1 </th>
-   <th style="text-align:left;"> V2 </th>
+   <th style="text-align:left;"> Expression </th>
+   <th style="text-align:left;"> Sound </th>
   </tr>
  </thead>
 <tbody>
@@ -159,14 +159,14 @@ prend place vers la fin de la queue, jusqu'à la dernière syllabe de l'unité i
 <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;"> V1 </th>
-   <th style="text-align:left;"> V2 </th>
+   <th style="text-align:left;"> Expression </th>
+   <th style="text-align:left;"> Sound </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:left;"> Mine? </td>
-   <td style="text-align:left;"> ![](sounds/examine-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/examine-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> I don’t think it’s mine </td>
@@ -240,8 +240,8 @@ I’m de*light*ed to $\searrow$ **meet** you |
 <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;"> df[1:nbOfRows, ] </th>
-   <th style="text-align:left;"> V2 </th>
+   <th style="text-align:left;"> Expression </th>
+   <th style="text-align:left;"> Sound </th>
   </tr>
  </thead>
 <tbody>
@@ -315,8 +315,8 @@ Le sens véhicule alors une absence de complétude : le locuteur indique qu’il
 <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;"> df[1:nbOfRows, ] </th>
-   <th style="text-align:left;"> V2 </th>
+   <th style="text-align:left;"> Expression </th>
+   <th style="text-align:left;"> Sound </th>
   </tr>
  </thead>
 <tbody>
